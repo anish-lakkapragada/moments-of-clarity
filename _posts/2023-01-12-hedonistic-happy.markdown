@@ -14,4 +14,4 @@ Before we get to the adage in the title, it's worth noting that the hedonistic t
 
 Despite this tangential reasoning, the returning of a baseline stands. We really can't change this baseline happiness other than preventing negative events from taking hold and finding more positive events to genuinely celebrate. To do this, I guess it's best to just be happy with have. 
 
-This article may have been kinda cringe 🙃.
+This article may have been kinda cringe 🙃 :D
