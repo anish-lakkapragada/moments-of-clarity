@@ -39,12 +39,16 @@ $$ J(\theta_{t - 1} + \Delta \theta) \approx J(\theta_{t - 1}) + \nabla_{\theta_
 
 This is a bit confusing, so let's clarify, in this case the $$ x $$ in the approximation of $$ f(x) $$ is actually $$ \theta_{t - 1} + \Delta \theta $$ and thus the taylor series is centered at a point $$ c $$ of $$ \theta_{t - 1} $$. This means that the first-degree term $$ x - c $$ actually equals just $$ \Delta \theta $$. 
 
-This is where it gets clever. Given that we *assume* $$ J(\theta_{t - 1} + \Delta \theta) $$ to be less than $$ J(\theta_{t - 1}) $$, to make both sides of the approximation equal, we basically need to find a way to decrease $$ J(\theta_{t - 1}) $$ by only adding negatives from the first-degree expression to it. We could just set $$ \Delta \theta $$ to $$ -1 $$, but because $$ \nabla_{\theta{t - 1}} J $$ is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of $$ \Delta \theta $$ that will make $$ \nabla_{\theta{t - 1}} J $$ ALL negative. 
+This is where it gets clever. Given that we set $$ J(\theta_{t - 1}) $$ or $$ J(\theta_{t - 1} + \Delta \theta) $$ to be less than $$ J(\theta_{t - 1}) $$, to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing $$ J(\theta_{t - 1}) $$ with negatives from the first-degree expression ($$ \nabla_{\theta_{t - 1}} J * \Delta\theta $$) to it. We could just set $$ \Delta \theta $$ to $$ -1 $$, but because $$ \nabla_{\theta{t - 1}} J $$ is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of $$ \Delta \theta $$ that will make $$ \nabla_{\theta{t - 1}} J $$ ALL negative. 
 
-This is actually much easier than expected. Just set $$ \Delta \theta $$ to the *negative* of $$ \nabla_{\theta{t - 1}} J$$ and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation balancing out. This means that in our (minimization) algorithm of Gradient Descent, with $$ \alpha $$ for stability, we have: 
+This is actually much easier than expected. Just set $$ \Delta \theta $$ to the *negative* of $$ \nabla_{\theta{t - 1}} J$$ and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better. 
 
-$$ \theta_{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta{t - 1}} J $$
+This means that in our (minimization) algorithm of Gradient Descent, with $$ \alpha $$ for stability, we have: 
 
+$$ \theta_{t} = \theta_{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta{t - 1}} J $$
+
+
+That's gradient descent! 
 
 A lot of this information was taken from [here](https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf) and summarized to be less confusing and more intuitive here. We can expand this method to actually include second and third derivatives as well - but those aren't used as much due to requiring more computational power (sorry for the explanation that literally *everyone* gives.)
 
