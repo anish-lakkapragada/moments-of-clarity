@@ -36,5 +36,6 @@ So here goes nothing.
 - Brown-headed cowbird
 - Tree Swallow
 - Acorn Woodpecker
+- Brewer's Blackbird
 
 I probably should separate these into groups sooner or later.
