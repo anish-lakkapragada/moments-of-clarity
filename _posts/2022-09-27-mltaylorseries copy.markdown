@@ -25,6 +25,8 @@ On with the examples!
 
 ## Taylor Series in Gradient Descent 
 
+*Before reading about the usage of Taylor Series in gradient descent, keep in mind that many different calculus concepts (not just taylor series!) play into gradient descent.*
+
 Gradient Descent is an iterative algorithm to generally optimize some function overtime based on its gradient (vector of partial derivatives.) The gradient yields a vector that tells the fastest way to ascend a curve - with gradient *descent* you try to go *down* the curve and thus constantly move in the negative of this gradient (moving with the positive is called gradient ascent). Gradient Descent is shown below. 
 
 $$ \theta_{t} = \theta_{t - 1}  - \alpha * \nabla_{\theta_{t - 1}} J $$
