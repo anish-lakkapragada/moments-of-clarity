@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gradient Descent Revisited"
+title:  "Gradient Descent Revisited As Euler's Method"
 date:   2022-10-11 0:00:00 -0700
 categories: jekyll update
 ---
@@ -14,7 +14,7 @@ I've already talked a fair amount about Gradient Descent. One of the most fascin
 
 As a refresher Gradient Descent is: 
 
-$$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$. 
+$$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$
 
 Unlike with the Taylor Series article, this time we will be keeping the learning rate $$ \alpha $$ into consideration. 
 
@@ -36,7 +36,7 @@ where in this case $$y'(0)$$ would represent the derivative of $y$ at $x=0$ and 
 
 We could redo this one more time and get $$y(2) \approx y(1) + y'(1)$$, yielding $$y(2) \approx 1$$. Of course this approximation is not accurate - however as the stepsize $$ \Delta x$$ approaches to 0 the approximations will get more accurate but there will be a lot more iterations. Hey, with gradient descent they always say a lower learning rate of $$\alpha$$ does better but requires more iterations -- I sense some very big similarities. 
 
-## Gradient Descent Redux 
+## Gradient Descent Conclusion
 
 
 Let's look at our algo again - gradient descent is given by $$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$, thus we can see that it is basically euler's method with a step size of $$\alpha$$, however done in reverse (hence the negative in the step size.)
