@@ -35,3 +35,10 @@ $$y(1) \approx y(0) + \Delta x*y'(0)$$
 where in this case $$y'(0)$$ would represent the derivative of $y$ at $x=0$ and $$ \Delta x$$ gives the change in x (which in our case is 1). This would give us an approximation of $$y(1) \approx 0$$.
 
 We could redo this one more time and get $$y(2) \approx y(1) + y'(1)$$, yielding $$y(2) \approx 1$$. Of course this approximation is not accurate - however as the stepsize $$ \Delta x$$ approaches to 0 the approximations will get more accurate but there will be a lot more iterations. Hey, with gradient descent they always say a lower learning rate of $$\alpha$$ does better but requires more iterations -- I sense some very big similarities. 
+
+## Gradient Descent Redux 
+
+
+Let's look at our algo again - gradient descent is given by $$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$, thus we can see that it is basically euler's method with a step size of $$\alpha$$, however done in reverse (hence the negative in the step size.)
+
+Yet another perspective on how to view Gradient Descent. More to come. 
