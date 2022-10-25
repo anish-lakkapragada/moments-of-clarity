@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Falling Forward, Not Back: Drake"
-date:   2022-10-11 0:00:00 -0700
+date:   2022-10-24 0:00:00 -0700
 categories: jekyll update
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
