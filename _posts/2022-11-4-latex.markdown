@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Why Does Latex look so good?"
+date:   2022-11-4 0:0:0 -0700
+categories: jekyll update
+---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+**Keywords: Random**
+
+I've used LaTex for writing some stuff (check my [notes](../notes.markdown) lmao). In fact, if you've read some of the other articles here, you've seen latex before. It's what allows me to render equations like: 
+
+$$ L^{a}t^{e}x = p_{r}^{e} \int ect$$
+
+Latex *is* perfect. Why does it look so good and feel so good to write? 
+
+## Code-like writing. 
+
+With latex, you still feel like you are coding while you are writing. It's set with it's own set of commands like \int for a nice $$ \int $$ or \begin{section} to start a new section of an article. Hell, you are even writing inside of a project with all the other files. You are literally **compiling** the files. Need I say more? This makes you feel cool and productive compared to writing words on an MLA formatted Google Document for an in-class APLAC essay 💀
+
+## Consistency in Rendering
+
+LaTex always looks the same. You can count on its section headers to look the same, and you know that when you request a bibliography for you it will be automatically alphabetized. You can write an equation, move it to another section, and it will look the same. 
+
+## Style 
+
+Style is a weird thing to describe. Aesthethic is an even worse word to use, because that makes it just more abstract. But I guess the best way to describe LaTex in three words is professional, clean, and precise. The LaTex Rendering never fails to produce the cleanest font. It makes me feel like I'm a real scientist who knows what they're doing. 
+## How to Use Latex
+
+Just create another project on [Overleaf](https://www.overleaf.com) and that's it. Our you can select an arXiv preprint and start from there. 
+
