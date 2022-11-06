@@ -8,7 +8,7 @@ categories: jekyll update
 
 **Keywords: Random**
 
-I've used LaTex for writing some stuff (check my [notes](/notes)) lmao). In fact, if you've read some of the other articles here, you've seen latex before. It's what allows me to render equations like: 
+I've used LaTex for writing some stuff (check my [notes](/notes) lmao). In fact, if you've read some of the other articles here, you've seen latex before. It's what allows me to render equations like: 
 
 $$ L^{a}t^{e}x = p_{r}^{e} \int ect$$
 
