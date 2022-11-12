@@ -28,7 +28,7 @@ This differential equation is obviously unsolvable. A common way of approximatin
 
 Euler's Method is a way to approximate any function's value giving an initial starting point and it's differential equation. For the given $$y(0)=0$$ and unsolvable differential equation $$\dfrac{dy}{dx} = \lvert x \rvert$$, we can solve for $$y(2)$$ by choosing a set number of iterations $$n$$ and working our approximation up. 
 
-So for example if we want to do only 2 iterations, we would increase $x$ by 1 each time. The step to first calculate $$y(1)$$ is shown below. 
+So for example if we want to do only 2 iterations, we would increase $$ x $$ by 1 each time. The step to first calculate $$y(1)$$ is shown below. 
 
 $$y(1) \approx y(0) + \Delta x*y'(0)$$
 
