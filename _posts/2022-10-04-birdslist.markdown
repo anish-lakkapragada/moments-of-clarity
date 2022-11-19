@@ -30,6 +30,7 @@ So here goes nothing.
 - Barn Swallow
 - Yellow-rumped warbler
 - Anna's Hummingbird
+- Ruby Throated Hummingbird
 - Bald Eagle
 - Pine Siskin
 - American Tree Sparrow
