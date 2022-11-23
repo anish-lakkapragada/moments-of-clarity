@@ -11,6 +11,7 @@ Somethings that interest me:
 - Gradient Descent
 - Drake 
 - Machine Learning Mathematics
+- Musical Listening Patterns over Time
 - Coding For Others 
 
 Please enjoy and feel free to reach me at [anish.lakkapragada@gmail.com](mailto:anish.lakkapragada@gmail.com).
