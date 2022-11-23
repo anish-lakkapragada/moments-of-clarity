@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes/
 ---
 
-Here are all my writings (probably going to be mostly math) and others that you may want to look at. They (hopefully) will mostly be rendered with Latex. 
+Here are all my writings (probably going to be mostly math) for ML Club and others that you may want to look at.. They (hopefully) will mostly be rendered with Latex. 
 
 ## CS Writings & Challenges 
 - When More Parameters Reduce Training Performance: Linear Neural Networks [[pdf][2]]
