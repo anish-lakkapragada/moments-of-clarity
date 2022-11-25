@@ -39,4 +39,32 @@ So here goes nothing.
 - Acorn Woodpecker
 - Brewer's Blackbird
 
-I probably should separate these into groups sooner or later.
+## Bird Tiers
+
+I will be ranking birds now in terms of my experiences photographing them and my general appreciation of their beauty in my photographs. 
+
+## Tier 3: Mid Birds 
+- Brewer's Blackbird
+- Pine Siskin
+- Brown-Headed cowbird
+- Mouring Dove 
+- California Towhee
+
+## Tier 2: Birds that I'll happily take a photograph of 
+- Lesser Goldfinch 
+- Pine Siskin
+- Black Phoebe 
+- Dark-Eyed Junco
+- House Finch
+- Western Bluebird
+- Yellow-rumped warbler 
+    
+## Tier 1: Birds that Are Rare 
+- California Scrub Jay 
+- American Robin
+- White-crowned / Gold-crowned Sparrow
+- Tree Swallow
+- Barn Swallow 
+- Bald Eagle 
+- American Tree Sparrow 
+- Acorn Woodpecker
