@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
 Writings of my adventure in computer science, mathematics, and perspectives of the world. Enjoy and read them here, preferably without judgement for experience (or lack theoreof).
 
 Somethings that interest me: 
-- Beard Growth (No Shave November)
+- Beard Growth (No Shave November) 
 - Gradient Descent
 - Drake 
 - Machine Learning Mathematics
