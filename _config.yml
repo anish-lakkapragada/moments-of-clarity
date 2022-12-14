@@ -6,7 +6,7 @@ baseurl: ""
 url: https://anish-lakkapragada.github.io
 paginate: 5
 permalink: pretty
-google_analytics: G-MY94EDEHE6
+google_analytics_id: G-MY94EDEHE6
 
 # About/contact
 author:
