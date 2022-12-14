@@ -26,6 +26,13 @@
     {% endfor %}
   </nav>
 
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item"> All Posts </a>
+    {% for post in paginator.posts %}
+      <a class="sidebar-nav-item" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    {% endfor %}
+  </nav>
+
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
