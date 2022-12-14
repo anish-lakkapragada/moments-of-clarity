@@ -461,6 +461,19 @@ a.pagination-item:hover {
   color: #d28445;
 }
 
+/* Custom Goated Theme */ 
+/* Orange */
+.theme-base-custom .sidebar,
+.theme-base-custom .sidebar-toggle:active,
+.theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color:#6eb68b;
+}
+.theme-base-custom .container a,
+.theme-base-custom .sidebar-toggle,
+.theme-base-custom .related-posts li a:hover {
+  color: #6eb68b;
+}
+
 /* Yellow */
 .theme-base-0a .sidebar,
 .theme-base-0a .sidebar-toggle:active,
