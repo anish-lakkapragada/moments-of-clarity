@@ -17,6 +17,7 @@ Attached are all the articles and challenges (for my school's ML Club) that I've
 [3]: /jekyll/update/2022/09/20/closed-form-logreg/
 
 ## Challenges
+- AP Machine Learning C Exam (For Fun :) [[pdf][8]]
 - When More Parameters Reduce Training Performance: Linear Neural Networks [[pdf][4]]
 - Gradient Descent in Depth & Create Your Own Regressor Challenge [[pdf][5]]
 - Artifical Neural Networks + Autoencoders [[pdf][6]]
@@ -25,3 +26,4 @@ Attached are all the articles and challenges (for my school's ML Club) that I've
 [4]: /notes/Linear_Regression_Layer.pdf
 [6]: /notes/Artificial_Neural_Networks_ML_Club_Worksheet.pdf
 [7]: /jekyll/update/2022/11/04/latex
+[8]: /notes/AP_Machine_Learning_C_Exam.pdf
