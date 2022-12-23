@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PSA Reminder: History is Not Fiction"
+title:  "PSA Reminder: History Actually Happened"
 date:   2022-12-22 -0700
 categories: jekyll update
 ---
@@ -33,7 +33,7 @@ Pretty simple. Use primary source accounts. In fact, just have students read aut
 
 > In my opinion, this marks a shift away from history being about learning what happened in the past to *experiencing* it. 
 
-One of the reasons we are commonly told to learn history is from the famous Santayana quote: ​“Those who cannot remember the past are condemned to repeat it.” When we remember books or movies, we don't remember what happened as much as what we felt when we went through them. History is likely no different: our years of education are numbered (well, for most of us), and if we want our experience in classroom history to be most fruitful for us to be able to cause future change it's imperative that we remember them as best as possible. Heartstrings pull us into action, not words, and thus since reading first-hand sources is the best way to empathize with struggles in the past, it just may help prevent them from happening again. Otherwise, we are betting that we will remember numbers of tragedy decades later and furthermore, act on them.  
+One of the motivations for learning history we are commonly told is from the famous Santayana quote: ​“Those who cannot remember the past are condemned to repeat it.” When we remember books or movies, we don't remember what happened as much as what we felt when we went through them. History is likely no different: our years of education are numbered (well, for most of us), and if we want our experience in classroom history to be most fruitful for us to be able to cause future change it's imperative that we remember them as best as possible. Heartstrings pull us into action, not words, and thus since reading first-hand sources is the best way to empathize with struggles in the past, it just may help prevent them from happening again. Otherwise, we are betting that we will remember numbers of tragedy decades later and furthermore, act on them.  
 
 ## Conclusion
 
