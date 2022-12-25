@@ -5,7 +5,7 @@
  *   \ \ \   /'__`\  /' _ `\/\ \/\ \  / __`\ /' _ `\
  *    \_\ \_/\ \_\.\_/\ \/\ \ \ \_\ \/\ \_\ \/\ \/\ \
  *    /\____\ \__/.\_\ \_\ \_\/`____ \ \____/\ \_\ \_\
- *    \/____/\/__/\/_/\/_/\/_/`/___/> \/___/  \/_/\/_/
+ *    \/____/\/__/\/_/\/_/\/_/`/___/ \/___/  \/_/\/_/
  *                               /\___/
  *                               \/__/
  *
@@ -123,6 +123,37 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/**
+Input styling 
+*/
+
+.message-container {
+  margin-top: 30em !important;
+}
+
+.inputty {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  width:100%;
+  margin-top: 10px;
+  resize: vertical;
+  padding:15px;
+  border-radius:15px;
+  border:20px;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+  height:20px;
+  border-color: black;
+}
+
+#inputty-message {
+  height: 50px;
+}
+
+.contact-button {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  border-radius: 10px;
+  font-size: 1em;
+  font-style: bold;
+}
 
 /*
  * Sidebar
@@ -469,10 +500,15 @@ a.pagination-item:hover {
   background-color:#6eb68b;
 }
 .theme-base-custom .container a,
-.theme-base-custom .sidebar-toggle,
+.theme-base-custom .sidebar-toggle, 
 .theme-base-custom .related-posts li a:hover {
   color: #6eb68b;
 }
+
+.theme-base-custom .contact-button {
+  border-color: #6eb68b;
+}
+
 
 /* Yellow */
 .theme-base-0a .sidebar,
