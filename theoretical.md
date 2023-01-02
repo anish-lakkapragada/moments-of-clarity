@@ -8,7 +8,7 @@ Attached are all the articles and challenges (for my school's ML Club) that I've
 
 
 ## Articles
-- Double Backpropagation: A Forgotten Algorithm[[post][4]] 
+- Double Backpropagation: A Forgotten Algorithm [[post][4]] 
 - Gradient Descent Revisited As Euler's Method [[post][1]]
 - Hidden Taylor Series in Theoretical Machine Learning [[post][2]]
 - Attempts at Closed-Form Logistic Regression [[post][3]]
