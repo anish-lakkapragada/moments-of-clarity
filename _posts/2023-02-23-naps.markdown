@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Naps" 
+date:   2023-02-23 0:00:00
+categories: jekyll update
+---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+*Lowkey need to get back on the posting grind.*
+
+Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential & voltage. Naps are typically taken wrong but are also pretty dangerous if you don't take them right. Here's to everything I know about naps on 2/23/2023 at 2:14am. 
+
+# Benefits 
+
+## Energy Saver
+
+The rationale for taking a nap is the idea of admitting that you will not be productive if you do not take a nap. For example, after arriving from school I am pretty certain I will not immediately do homework and instead just browse YouTube. If on average I estimate I will waste 20 minutes of watching YouTube, which not only will drain my energy by being on a scren but also lose motivation to get through homework without watching YouTube - it makes no sense to avoid YouTube altogether. Instead, taking a 20-30 minute nap is ideal for productivity. By accepting that you need a break as an inevitable, taking a nap means not only that you get that break but that break actually will lead to increased focus/motivation/patience for BS after you wakeup. It's sort of like making a contract like I'm going to kill X minutes but will immediately be productive after. In reality, it's worth sacrificing 20-30 minutes for 30minutes of work at 95% productivity compared to 15 minutes of YouTube at 50-75% productivity levels. 
+
+## Day Breaker
+
+Naps, especially those of 20-30min taken in the afternoon after something intensive like school, allow for the brain to shut down. This essentially means that after waking up from the nap, memory of what happened before the nap will suffer. Thus, what you just did an hour ago in school will seem distant and somewhat feel like a completely different day. Also, if you are a "morning person" (inceased productivity after waking up) - ig waking up more in a day can only be useful then?? Or instead you like sleeping/dreaming (or the feeling of normal force supporting your side), naps can give you a way to sleep more with the pretense of "productivity". I've had a good amount of times when while napping I feel like I am awake with eyes open - it's always pretty fun. 
+
+## Escape from Reality 
+Naps are a great way to escape your problems. 
+
+## Drawbacks 
+Naps can really screw you up. For one, if you lack self-control and extend your nap to more than 1 hour, your basically screwing up the time when your body will want you to sleep. Second, I guess people feel unproductive taking naps or something? I guess you just have to really believe that 20min of dead time outweighs switching back-and-forth tabs with distractions for 30min of work.
