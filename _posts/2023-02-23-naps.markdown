@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-*Lowkey need to get back on the posting grind.*
-
 Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential & voltage. Naps are typically taken wrong but are also pretty dangerous if you don't take them right. Here's to everything I know about naps on 2/23/2023 at 2:14am. 
 
 # Benefits 
