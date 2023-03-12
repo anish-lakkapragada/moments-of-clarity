@@ -28,3 +28,8 @@ Attached are all the articles and challenges (for my school's ML Club) that I've
 [6]: /notes/Artificial_Neural_Networks_ML_Club_Worksheet.pdf
 [7]: /jekyll/update/2022/11/04/latex
 [8]: /notes/AP_Machine_Learning_C_Exam.pdf
+
+## Other
+- Bay Area Birds Field Guide (With Only My Photographs!) [[pdf][9]]
+
+[9]: /notes/bay-area-birds-field-guide.pdf
