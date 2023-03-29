@@ -8,7 +8,7 @@ categories: jekyll update
 
 > Writing this with a C in APLAC lmao.
 
-Our school recently encountered a power outage where we got a good amount time off from school. Of course while this was normal, I was surprised to see how prevalent the belief that students-must-hate-school stuck. Everybody cheered because there was less school, as if the fact that school was bad was dogma. Well, I don't hate school and thus here this ~~💩post~~ goes. 
+Our school recently encountered a power outage where we got a good amount time off from school. When the announcement came, I was surprised to see how prevalent the belief that students-must-hate-school stuck (I am somewhat guilty of this, but in my defense it meant I didn't have a quiz tomorrow). Everybody cheered because there was less school, as if the fact that school was bad was dogma and self-evident. Well, I don't hate school and thus here this ~~💩post~~ goes. 
 
 ## Meeting People
 
