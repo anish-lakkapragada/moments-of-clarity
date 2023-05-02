@@ -21,6 +21,8 @@ So here goes nothing.
 - House Finch 
 - Western Bluebird
 - American Robin 
+- White-Throated Sparrow 
+- Chestnut-Backed Chickadee
 - Dark-eyed Junco
 - California Towhee
 - Mourning Dove
