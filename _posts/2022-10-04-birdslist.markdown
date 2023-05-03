@@ -12,8 +12,6 @@ categories: jekyll update
 
 For the last year, I've gone outside and taken photos of specifically birds (yes those things) in my backyard, neighborhood, and local parks and forests. It's pretty fun and one of the bird things I've always wanted to do is to maintain a list of all the bird's I've photographed (the second is to make a tier list).
 
-So here goes nothing. 
-
 ## Birds Photographed
 - California Scrub Jay 
 - Lesser Goldfinch 
@@ -40,6 +38,16 @@ So here goes nothing.
 - Tree Swallow
 - Acorn Woodpecker
 - Brewer's Blackbird
+
+## Locations Photographed
+*Includes even one photograph.*
+
+- Bay Area, CA
+- San Francisco, CA
+- Denali, Alaska
+- Princeton, New Jersey
+- Philadelphia, Pennsylvania
+- Soon This Summer: Ithaca, New York 😉
 
 ## Bird Tiers
 
