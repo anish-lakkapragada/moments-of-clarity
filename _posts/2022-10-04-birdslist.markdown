@@ -42,8 +42,8 @@ For the last year, I've gone outside and taken photos of specifically birds (yes
 ## Locations Photographed
 *Includes even one photograph.*
 
-- Bay Area, CA
-- San Francisco, CA
+- Bay Area, California
+- San Francisco, California
 - Denali, Alaska
 - Princeton, New Jersey
 - Philadelphia, Pennsylvania
