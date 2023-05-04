@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-> Writing this with a C in APLAC lmao.
+> Writing this with a C in APLAC lmao. *Now a B*.
 
 Our school recently encountered a power outage where we got a good amount time off from school. When the announcement came, I was surprised to see how prevalent the belief that students-must-hate-school stuck (I am somewhat guilty of this, but in my defense it meant I didn't have a quiz tomorrow). Everybody cheered because there was less school, as if the fact that school was bad was dogma and self-evident. Well, I don't hate school and thus here this ~~💩post~~ goes. 
 
