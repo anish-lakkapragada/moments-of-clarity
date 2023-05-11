@@ -40,7 +40,7 @@ Recently, I have gained an appreciation for bird photography. Below are some of 
             {% for image in page.images %}
                 <div class="photo">
                     <img src="{{image.image_path}}">
-                    <p> {{image.title}} in <em> {{image.location}} </em>  </p>
+                    <p> <em>{{image.title}} </em> in {{image.location}}  </p>
                 </div>
             {% endfor %}
         </div>
