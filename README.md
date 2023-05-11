@@ -1,3 +1,3 @@
 ## Website
 
-Simple personal websites. Uses Lanyon's Jekyll Theme.
+Simple personal website. Uses Lanyon's Jekyll Theme.
