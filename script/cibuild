@@ -15,8 +15,6 @@ git clone https://${GH_TOKEN}@github.com/anish-lakkapragada/anish-lakkapragada.g
 bundle install
 bundle exec jekyll build
 
-echo ${GH_TOKEN}
-
 # push
 cd _site
 git config user.email "anish.lakkapragada@gmail.com"
