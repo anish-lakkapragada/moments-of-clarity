@@ -17,7 +17,7 @@ bundle exec jekyll build
 # push
 cd _site
 git config user.email "anish.lakkapragada@gmail.com"
-git config user.name "Anish Lakkapragada"
+git config user.name "anish-lakkapragada"
 git config --list 
 git add --all
 git commit -m "Travis #$TRAVIS_BUILD_NUMBER"
