@@ -21,5 +21,5 @@ git config user.email "anish.lakkapragada@gmail.com"
 git config user.name "anish-lakkapragada"
 git config --list 
 git add --all
-git commit -m "Travis #$TRAVIS_BUILD_NUMBER"
+git commit -m "Travis Deployment #$TRAVIS_BUILD_NUMBER"
 git push --force origin gh-pages
