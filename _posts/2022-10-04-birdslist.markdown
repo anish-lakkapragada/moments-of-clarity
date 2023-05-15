@@ -75,6 +75,7 @@ I will be ranking birds now in terms of my experiences photographing them and my
 - White-crowned / Gold-crowned Sparrow
 - Tree Swallow
 - Barn Swallow 
+- Song Sparrow
 - Bald Eagle 
 - American Tree Sparrow 
 - Acorn Woodpecker
