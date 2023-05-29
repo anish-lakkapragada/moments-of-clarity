@@ -30,6 +30,6 @@ Attached are all the articles and challenges (for my school's ML Club) that I've
 [8]: /notes/AP_Machine_Learning_C_Exam.pdf
 
 ## Other
-- Bay Area Birds Field Guide (With Only My Photographs!) [[pdf][9]]
+- Bay Area Birds Field Guide (With Only My Photographs!) [[pdf][10]]
 
-[9]: /notes/bay-area-birds-field-guide.pdf
+[10]: /notes/bay-area-birds-field-guide.pdf
