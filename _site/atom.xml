@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-11T15:31:06-07:00</updated>
+ <updated>2023-05-28T22:40:49-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -53,6 +53,7 @@
   &lt;li&gt;Important Account Online for me has its password, not entire account, expire&lt;/li&gt;
   &lt;li&gt;The Test Question did not ask about simulations&lt;/li&gt;
   &lt;li&gt;The MCQ was Free&lt;/li&gt;
+  &lt;li&gt;Only lost a year&lt;/li&gt;
   &lt;li&gt;Practice Tests Haven’t Asked About Holes in a Conductor&lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -218,6 +219,10 @@
 &lt;h2 id=&quot;implicit-order-of-the-world&quot;&gt;Implicit Order of the World&lt;/h2&gt;
 
 &lt;p&gt;For this mysterious thing called &lt;em&gt;prestige&lt;/em&gt;, there seems to be an implicit order of the world. The world is full of diverse people yet at the same time follows predictable, statistically-significant patterns en masse: students offered a selection of universities generally choose some over others, certain countries are seen as just “better” (e.g. America) despite growing bodies of evidence saying anything but. Rankings for companies change yearly and yet the same implicit order of which companies are more prestigious stay - there is a general inertia for learnt rankings to change when they are founded on unstated social assumptions and not facts.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-are-more-deterministic-than-we-realize&quot;&gt;Things are more deterministic than we realize&lt;/h2&gt;
+
+&lt;p&gt;My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can’t even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it’s better for me to realize there’s a reason why it’s the place it is beyond the fact that I “lost” it. The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one. It’s also why I love APLAC - reading masterpieces where every word was chosen deliberately means that there is a neverending supply of critical thinking and digging to be done.&lt;/p&gt;
 
 &lt;h2 id=&quot;your-music-taste-is-not-really-unique&quot;&gt;Your Music Taste Is Not (Really) Unique&lt;/h2&gt;
 
@@ -633,6 +638,7 @@
   &lt;li&gt;&lt;em&gt;Pound Cake + Paris Morton 2&lt;/em&gt; (&lt;strong&gt;2013&lt;/strong&gt;)&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;A Keeper&lt;/em&gt; (&lt;strong&gt;2022&lt;/strong&gt;)&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Sticky&lt;/em&gt; (2022)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Portland&lt;/em&gt; (2017)&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Falling Back&lt;/em&gt; (2022)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -787,6 +793,7 @@
   &lt;li&gt;White-crowned / Gold-crowned Sparrow&lt;/li&gt;
   &lt;li&gt;Tree Swallow&lt;/li&gt;
   &lt;li&gt;Barn Swallow&lt;/li&gt;
+  &lt;li&gt;Song Sparrow&lt;/li&gt;
   &lt;li&gt;Bald Eagle&lt;/li&gt;
   &lt;li&gt;American Tree Sparrow&lt;/li&gt;
   &lt;li&gt;Acorn Woodpecker&lt;/li&gt;
