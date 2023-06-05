@@ -17,7 +17,6 @@ It's been a while since I've posted and I figure I should. I've made a series of
 I remember when I was younger, visiting a beach in Europe. It was pretty fun to be in the waves and all day. The next day, I wanted to have exactly what I had yesterday - a nice day on the sand - but the tides were going crazy and the weather was cloudy and gloomy. From that experience in itself around ~7 years ago, I've come to realize that any memory cannot be repeated more than once. Time is a monotonically increasing function - you cannot go back - to the first time you listented to your favorite song, read your favorite book, or had a genuinely good time. 
 
 What this implies is the idea of *living in the moment* as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of our lives. If this seems too idealistic for you, here's a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen. 
-
 ## Useful vs. Useless Arguments
 
 Today, I remember seeing an argument about who was the most oppressed/privileged/etc. demographic throughout history. This may seem obvious, but regardless of how won - there would be no real winner because they are really just fighting for approval over an opinion not over policy. Useless arguments argue over opinions, useful arguments argue over policy. Try to aim for useful arguments. 
@@ -28,7 +27,11 @@ For this mysterious thing called *prestige*, there seems to be an implicit order
 
 ## Things are more deterministic than we realize 
 
-My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can't even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it's better for me to realize there's a reason why it's the place it is beyond the fact that I "lost" it. The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one. It's also why I love APLAC - reading masterpieces where every word was chosen deliberately means that there is a neverending supply of critical thinking and digging to be done. 
+My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can't even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it's better for me to realize there's a reason why it's the place it is beyond the fact that I "lost" it. 
+
+Decisions are not made in a vaccuum; they are not random. There is a reason why the U.S. sides with Israel or why India today may be reluctant to condemn Russia in the Ukraine-Russia conflict. The current standing of things - be it where my history notes went or a country's foreign relations - can logically be retraced to their initial states.
+
+The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one. 
 
 ## Your Music Taste Is Not (Really) Unique
 
