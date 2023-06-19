@@ -1,42 +1,46 @@
 ---
 layout: post
-title:  "A Series of Life Observations"
-date:   2023-02-02 00:00:00 -0700
+title: "A Series of Life Observations"
+date: 2023-02-02 00:00:00 -0700
 categories: jekyll update
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-**Keywords: Random** 
+**Keywords: Random**
 
-> This article was made at 2am. I will update as I become more aware of my own observations and discover more. 
+> This article was made at 2am. I will update as I become more aware of my own observations and discover more.
 
-It's been a while since I've posted and I figure I should. I've made a series of observations in my life which are undoubtedly true (I may be biased ;) but generally seem to prove themselves true time and time again. Whether that is a self-fulfilling prophecy of me believing in my own BS, I do not know. 
+It's been a while since I've posted and I figure I should. I've made a series of observations in my life which are undoubtedly true (I may be biased ;) but generally seem to prove themselves true time and time again. Whether that is a self-fulfilling prophecy of me believing in my own BS, I do not know.
 
-## Experiences Can Not Be Repeated Twice 
+## Experiences Can Not Be Repeated Twice
 
-I remember when I was younger, visiting a beach in Europe. It was pretty fun to be in the waves and all day. The next day, I wanted to have exactly what I had yesterday - a nice day on the sand - but the tides were going crazy and the weather was cloudy and gloomy. From that experience in itself around ~7 years ago, I've come to realize that any memory cannot be repeated more than once. Time is a monotonically increasing function - you cannot go back - to the first time you listented to your favorite song, read your favorite book, or had a genuinely good time. 
+I remember when I was younger, visiting a beach in Europe. It was pretty fun to be in the waves and all day. The next day, I wanted to have exactly what I had yesterday - a nice day on the sand - but the tides were going crazy and the weather was cloudy and gloomy. From that experience in itself around ~7 years ago, I've come to realize that any memory cannot be repeated more than once. Time is a monotonically increasing function - you cannot go back - to the first time you listented to your favorite song, read your favorite book, or had a genuinely good time.
 
-What this implies is the idea of *living in the moment* as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of our lives. If this seems too idealistic for you, here's a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen. 
+What this implies is the idea of _living in the moment_ as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of it. While in the moment we are just living - just like we always are - and thus we don't see the moment's importance (e.g. importance of spontantenously going out or looking around), it's important to see every second of this moment will be valuable in the future. Memories _appreciate_ in value over time, so make the best investments with what time you have now.
+
+If this seems too idealistic for you, here's a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen.
+
 ## Useful vs. Useless Arguments
 
-Today, I remember seeing an argument about who was the most oppressed/privileged/etc. demographic throughout history. This may seem obvious, but regardless of how won - there would be no real winner because they are really just fighting for approval over an opinion not over policy. Useless arguments argue over opinions, useful arguments argue over policy. Try to aim for useful arguments. 
+Today, I remember seeing an argument about who was the most oppressed/privileged/etc. demographic throughout history. This may seem obvious, but regardless of how won - there would be no real winner because they are really just fighting for approval over an opinion not over policy. Useless arguments argue over opinions, useful arguments argue over policy. Try to aim for useful arguments.
 
-## Implicit Order of the World 
+## Implicit Order of the World
 
-For this mysterious thing called *prestige*, there seems to be an implicit order of the world. The world is full of diverse people yet at the same time follows predictable, statistically-significant patterns en masse: students offered a selection of universities generally choose some over others, certain countries are seen as just "better" (e.g. America) despite growing bodies of evidence saying anything but. Rankings for companies change yearly and yet the same implicit order of which companies are more prestigious stay - there is a general inertia for learnt rankings to change when they are founded on unstated social assumptions and not facts. 
+For this mysterious thing called _prestige_, there seems to be an implicit order of the world. The world is full of diverse people yet at the same time follows predictable, statistically-significant patterns en masse: students offered a selection of universities generally choose some over others, certain countries are seen as just "better" (e.g. America) despite growing bodies of evidence saying anything but. Rankings for companies change yearly and yet the same implicit order of which companies are more prestigious stay - there is a general inertia for learnt rankings to change when they are founded on unstated social assumptions and not facts.
 
-## Things are more deterministic than we realize 
+## Things are more deterministic than we realize
 
-My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can't even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it's better for me to realize there's a reason why it's the place it is beyond the fact that I "lost" it. 
+My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can't even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it's better for me to realize there's a reason why it's the place it is beyond the fact that I "lost" it.
 
 Decisions are not made in a vaccuum; they are not random. There is a reason why the U.S. sides with Israel or why India today may be reluctant to condemn Russia in the Ukraine-Russia conflict. The current standing of things - be it where my history notes went or a country's foreign relations - can logically be retraced to their initial states.
 
-The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one. 
+The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one.
 
 ## Your Music Taste Is Not (Really) Unique
 
-(Might just be me.) I am always hungry about songs. It is always super funny to see how an unfamiliar song with a slightly weird name but a lot of streams slowly goes from something I completely don't resonate or feel is part of my taste to my playlist. Time and time again, I have seen that whatever my initial reaction to the song - *I am not unique* - I probably will find myself liking it. This means that I should try to explore different genres and not judge.
+(Might just be me.) I am always hungry about songs. It is always super funny to see how an unfamiliar song with a slightly weird name but a lot of streams slowly goes from something I completely don't resonate or feel is part of my taste to my playlist. Time and time again, I have seen that whatever my initial reaction to the song - _I am not unique_ - I probably will find myself liking it. This means that I should try to explore different genres and not judge.
 
-## You Are Always Closer to the End 
+## You Are Always Closer to the End
 
 Basically, I have noticed more than likely there is always some way to frame your current timeframe in which you are at the end of the proces. During the summer, I will be near the end of high school. Right now, I am one day away from the last day of school. At the start of second semester in senior year, I am towards the end of the year (and the end of high-school.) At the start of first semester in senior year, I am towards the end of the college application process (and nearing the end of the year.) There is always an end in sight!
