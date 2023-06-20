@@ -1,32 +1,34 @@
 ---
 layout: post
-title:  "Photograph Birds List"
-date:   2022-10-04 0:00:00 -0700
+title: "Photograph Birds List"
+date: 2022-10-04 0:00:00 -0700
 categories: jekyll update
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 **Keywords: Bird Species, Random**
 
-## Bird Background 
+## Bird Background
 
 For the last year, I've gone outside and taken photos of specifically birds (yes those things) in my backyard, neighborhood, and local parks and forests. It's pretty fun and one of the bird things I've always wanted to do is to maintain a list of all the bird's I've photographed (the second is to make a tier list).
 
 ## Birds Photographed
-- California Scrub Jay 
-- Lesser Goldfinch 
+
+- California Scrub Jay
+- Lesser Goldfinch
 - Black Phoebe
-- House Finch 
+- House Finch
 - Western Bluebird
-- American Robin 
-- White-Throated Sparrow 
+- American Robin
+- White-Throated Sparrow
 - Chestnut-Backed Chickadee
 - Dark-eyed Junco
 - California Towhee
 - Mourning Dove
 - White-crowned sparrow
 - Gold-crowned sparrow
-- American Robin 
+- American Robin
 - Barn Swallow
 - Yellow-rumped warbler
 - Anna's Hummingbird
@@ -40,10 +42,12 @@ For the last year, I've gone outside and taken photos of specifically birds (yes
 - Brewer's Blackbird
 
 ## Locations Photographed
-*Includes even one photograph.*
+
+_Includes even one photograph._
 
 - Bay Area, California
 - San Francisco, California
+- Half Moon Bay, California
 - Denali, Alaska
 - Princeton, New Jersey
 - Philadelphia, Pennsylvania
@@ -51,31 +55,35 @@ For the last year, I've gone outside and taken photos of specifically birds (yes
 
 ## Bird Tiers
 
-I will be ranking birds now in terms of my experiences photographing them and my general appreciation of their beauty in my photographs. 
+I will be ranking birds now in terms of my experiences photographing them and my general appreciation of their beauty in my photographs.
 
-## Tier 3: Mid Birds 
+## Tier 3: Mid Birds
+
 - Brewer's Blackbird
 - Pine Siskin
 - Brown-Headed cowbird
-- Mouring Dove 
+- Mouring Dove
 - California Towhee
 
-## Tier 2: Birds that I'll happily take a photograph of 
-- Lesser Goldfinch 
+## Tier 2: Birds that I'll happily take a photograph of
+
+- Lesser Goldfinch
 - Pine Siskin
-- Black Phoebe 
+- Black Phoebe
 - Dark-Eyed Junco
 - House Finch
 - Western Bluebird
-- Yellow-rumped warbler 
-    
-## Tier 1: Birds that Are Rare 
-- California Scrub Jay 
-- American Robin
 - White-crowned / Gold-crowned Sparrow
+- Yellow-rumped warbler
+
+## Tier 1: Birds that Are Rare
+
+- California Scrub Jay
+- American Robin
 - Tree Swallow
-- Barn Swallow 
+- Barn Swallow
 - Song Sparrow
-- Bald Eagle 
-- American Tree Sparrow 
+- Bald Eagle
+- Spotted Towhee
+- American Tree Sparrow
 - Acorn Woodpecker

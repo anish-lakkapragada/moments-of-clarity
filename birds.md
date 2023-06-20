@@ -97,6 +97,14 @@ locations:
   }'
   - geojson: '{
     "type": "Feature", 
+    "properties": {"popupContent": "Half Moon Bay, CA"},
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4286, 37.4636]
+    }
+  }'
+  - geojson: '{
+    "type": "Feature", 
     "properties": {"popupContent": "Bair Island State Marine Park - Redwood City, CA"},
     "geometry": {
         "type": "Point",
@@ -158,9 +166,9 @@ locations:
 {% leaflet_map {"zoom" : 2,
                 "center" : [50, -114],
                 "providerBasemap": "OpenStreetMap.Mapnik"} %}
-  {%- for geojson in page.locations -%}
-    {% leaflet_geojson {{geojson.geojson}} %}
-  {% endfor %}
+{%- for geojson in page.locations -%}
+{% leaflet_geojson {{geojson.geojson}} %}
+{% endfor %}
 {% endleaflet_map %}
 
 <style>
@@ -203,4 +211,3 @@ p {
 }
 
 </style>
-
