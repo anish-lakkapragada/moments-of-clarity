@@ -143,6 +143,22 @@ locations:
         "coordinates": [-75.2572, 39.8922]
     }
   }'
+  - geojson: '{
+     "type": "Feature", 
+    "properties": {"popupContent": "Cornell University - Ithaca, New York"},
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.4735, 42.4534]
+    }
+  }'
+  - geojson: '{
+     "type": "Feature", 
+    "properties": {"popupContent": "Anne Arundel County, Maryland"},
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5488, 38.9530]
+    }
+  }'
 
 ---
 
