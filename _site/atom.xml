@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Moments of Clarity</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-06-20T23:56:25-07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://anish-lakkapragada.github.io/atom.xml" rel="self"/>
+ <link href="https://anish-lakkapragada.github.io/"/>
+ <updated>2023-07-03T22:56:20-07:00</updated>
+ <id>https://anish-lakkapragada.github.io</id>
  <author>
    <name>Anish Lakkapragada</name>
    <email>anish.lakkapragada@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>On The Value of Tests</title>
-   <link href="http://localhost:4000/jekyll/update/2023/05/09/tests/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/09/tests/"/>
    <updated>2023-05-09T17:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/05/09/tests</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/09/tests</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -37,9 +37,9 @@
  
  <entry>
    <title>A Growing List of Lucky Things</title>
-   <link href="http://localhost:4000/jekyll/update/2023/05/04/what-could-go-wrong/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/04/what-could-go-wrong/"/>
    <updated>2023-05-04T17:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/05/04/what-could-go-wrong</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/04/what-could-go-wrong</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
@@ -61,9 +61,9 @@
  
  <entry>
    <title>How did We Get Here?</title>
-   <link href="http://localhost:4000/jekyll/update/2023/04/28/reminded/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/04/28/reminded/"/>
    <updated>2023-04-28T17:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/04/28/reminded</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/04/28/reminded</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;em&gt;I know I have not maintained this thing. That is not due to AP exams but laziness.&lt;/em&gt;&lt;/p&gt;
@@ -90,9 +90,9 @@
  
  <entry>
    <title>Why I Enjoy School</title>
-   <link href="http://localhost:4000/jekyll/update/2023/03/24/why-I-enjoy-school/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/24/why-I-enjoy-school/"/>
    <updated>2023-03-24T17:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/03/24/why-I-enjoy-school</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/24/why-I-enjoy-school</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -129,9 +129,9 @@
  
  <entry>
    <title>Bird Notes after a Year</title>
-   <link href="http://localhost:4000/jekyll/update/2023/03/14/birds-notes/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/14/birds-notes/"/>
    <updated>2023-03-14T17:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/03/14/birds-notes</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/14/birds-notes</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds  ¯\_(ツ)_/¯&lt;/p&gt;
@@ -166,9 +166,9 @@
  
  <entry>
    <title>Naps</title>
-   <link href="http://localhost:4000/jekyll/update/2023/02/22/naps/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/22/naps/"/>
    <updated>2023-02-22T16:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/02/22/naps</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/22/naps</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential &amp;amp; voltage. Naps are typically taken wrong but are also pretty dangerous if you don’t take them right. Here’s to everything I know about naps on 2/23/2023 at 2:14am.&lt;/p&gt;
@@ -193,9 +193,9 @@
  
  <entry>
    <title>A Series of Life Observations</title>
-   <link href="http://localhost:4000/jekyll/update/2023/02/01/update/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/01/update/"/>
    <updated>2023-02-01T23:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/02/01/update</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/01/update</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -242,9 +242,9 @@
  
  <entry>
    <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
-   <link href="http://localhost:4000/jekyll/update/2023/01/11/hedonistic-happy/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/11/hedonistic-happy/"/>
    <updated>2023-01-11T23:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/01/11/hedonistic-happy</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/11/hedonistic-happy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -261,9 +261,9 @@
  
  <entry>
    <title>Double Backpropagation: A Forgotten Algorithm</title>
-   <link href="http://localhost:4000/jekyll/update/2023/01/01/double-backprop/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop/"/>
    <updated>2023-01-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2023/01/01/double-backprop</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Backpropgation, Gradient Descent, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
@@ -310,9 +310,9 @@
  
  <entry>
    <title>PSA Reminder: History Actually Happened</title>
-   <link href="http://localhost:4000/jekyll/update/2022/12/22/history/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history/"/>
    <updated>2022-12-22T00:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/12/22/history</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -358,9 +358,9 @@
  
  <entry>
    <title>My Experience Growing a Beard, And Then Shaving It</title>
-   <link href="http://localhost:4000/jekyll/update/2022/12/10/beards/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/10/beards/"/>
    <updated>2022-12-10T16:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/12/10/beards</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/10/beards</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;This year, I participated in No Shave November (we don’t talk about how the other \(N^{3}\) went for me.) Almost a week in December, I decided to shave it off. While I have no regrets about shaving it off, I do want to remember what it felt like (without having to wait almost a month.) Hence, this account.&lt;/p&gt;
@@ -486,9 +486,9 @@
  
  <entry>
    <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
-   <link href="http://localhost:4000/jekyll/update/2022/11/24/crawdads-tkam/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/24/crawdads-tkam/"/>
    <updated>2022-11-24T23:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/11/24/crawdads-tkam</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/24/crawdads-tkam</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
@@ -531,9 +531,9 @@
  
  <entry>
    <title>Food for Thought: Word Predictability</title>
-   <link href="http://localhost:4000/jekyll/update/2022/11/09/word-association/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/09/word-association/"/>
    <updated>2022-11-09T23:00:00-08:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/11/09/word-association</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/09/word-association</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
@@ -571,9 +571,9 @@
  
  <entry>
    <title>Why Does Latex look so good?</title>
-   <link href="http://localhost:4000/jekyll/update/2022/11/04/latex/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex/"/>
    <updated>2022-11-04T00:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/11/04/latex</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -604,9 +604,9 @@
  
  <entry>
    <title>Falling Forward, Not Back: Drake</title>
-   <link href="http://localhost:4000/jekyll/update/2022/10/24/act/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act/"/>
    <updated>2022-10-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/10/24/act</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Aubrey Drake Graham, Falling &lt;del&gt;Back&lt;/del&gt; Off, Random&lt;/strong&gt;&lt;/p&gt;
@@ -675,9 +675,9 @@
  
  <entry>
    <title>Gradient Descent Revisited As Euler's Method</title>
-   <link href="http://localhost:4000/jekyll/update/2022/10/11/gradient-descent-euler/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler/"/>
    <updated>2022-10-11T00:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/10/11/gradient-descent-euler</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Gradient Descent, Euler’s Method, Differential Equation&lt;/strong&gt;&lt;/p&gt;
@@ -720,9 +720,9 @@
  
  <entry>
    <title>Photograph Birds List</title>
-   <link href="http://localhost:4000/jekyll/update/2022/10/04/birdslist/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist/"/>
    <updated>2022-10-04T00:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/10/04/birdslist</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
@@ -820,9 +820,9 @@
  
  <entry>
    <title>Hidden Taylor Series in Theoretical Machine Learning</title>
-   <link href="http://localhost:4000/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
    <updated>2022-09-26T00:49:49-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/09/26/mltaylorseries copy</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries copy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
@@ -948,9 +948,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>An explanation of Pareto's Principle</title>
-   <link href="http://localhost:4000/jekyll/update/2022/09/25/paretoprinciple/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple/"/>
    <updated>2022-09-25T00:49:49-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/09/25/paretoprinciple</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Pareto’s Principle, 80/20 rule, Distribution of Outcomes, Applications&lt;/strong&gt;&lt;/p&gt;
@@ -968,9 +968,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Yet Another Comparison of Svelte & React</title>
-   <link href="http://localhost:4000/jekyll/update/2022/09/21/sveltevreact/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact/"/>
    <updated>2022-09-21T00:00:00-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/09/21/sveltevreact</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on &lt;a href=&quot;https://dayssincelastjavascriptframework.com/&quot;&gt;getting released every single day&lt;/a&gt; and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.&lt;/p&gt;
@@ -1019,9 +1019,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Attempts at Closed-Form Logistic Regression</title>
-   <link href="http://localhost:4000/jekyll/update/2022/09/20/closed-form-logreg/"/>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg/"/>
    <updated>2022-09-20T16:27:08-07:00</updated>
-   <id>http://localhost:4000/jekyll/update/2022/09/20/closed-form-logreg</id>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization&lt;/strong&gt;&lt;/p&gt;

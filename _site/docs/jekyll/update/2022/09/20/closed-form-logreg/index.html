@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Attempts at Closed-Form Logistic Regression &middot; Moments of Clarity
+    
+  </title>
+
+  
+  <link rel="canonical" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg/">
+  
+
+  <link rel="stylesheet" href="https://anish-lakkapragada.github.io/public/css/poole.css">
+  <link rel="stylesheet" href="https://anish-lakkapragada.github.io/public/css/syntax.css">
+  <link rel="stylesheet" href="https://anish-lakkapragada.github.io/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://anish-lakkapragada.github.io/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="https://anish-lakkapragada.github.io/public/favicon.ico">
+
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://anish-lakkapragada.github.io/atom.xml">
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'G-MY94EDEHE6', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</head>
+
+
+  <body class="theme-base-custom">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Writings to describe the thoughts swirling in my head when they slow down and reformulate.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/">home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/about/">about</a>
+        
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/birds/">birds</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/contact/">leave a note</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/notes/">theoretical</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/tragedies/">tragedies</a>
+        
+      
+    
+  </nav>
+
+  <nav class="sidebar-nav">
+      <details class="sidebar-nav-item"> 
+        <summary> All Posts </summary>  
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/09/tests/">On The Value of Tests</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/04/what-could-go-wrong/">A Growing List of Lucky Things</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/04/28/reminded/">How did We Get Here?</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/24/why-I-enjoy-school/">Why I Enjoy School</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/14/birds-notes/">Bird Notes after a Year</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/22/naps/">Naps</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/02/update/">A Series of Life Observations</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/12/hedonistic-happy/">Hedonistic Treadmill: What It Means to Be Happy With What You Have</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop/">Double Backpropagation: A Forgotten Algorithm</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history/">PSA Reminder: History Actually Happened</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/10/beards/">My Experience Growing a Beard, And Then Shaving It</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/25/crawdads-tkam/">Comparison of Where The Crawdads Sing and To Kill a Mockingbird</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/10/word-association/">Food for Thought: Word Predictability</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex/">Why Does Latex look so good?</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act/">Falling Forward, Not Back: Drake</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler/">Gradient Descent Revisited As Euler's Method</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist/">Photograph Birds List</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries-copy/">Hidden Taylor Series in Theoretical Machine Learning</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple/">An explanation of Pareto's Principle</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact/">Yet Another Comparison of Svelte & React</a>
+          
+            <a class="sidebar-nav-item" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg/">Attempts at Closed-Form Logistic Regression</a>
+          
+      </details>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2023. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="home">Moments of Clarity</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Attempts at Closed-Form Logistic Regression</h1>
+  <span class="post-date">20 Sep 2022</span>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p><strong>Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization</strong></p>
+
+<p>Let’s work our way up from the start. Linear Regression is a ubiquitous algorithm in machine learning today, which is most commonly performed through iterative gradient descent. However, another method that I find pretty fascinating is the closed-form solution called the <em>Normal Equation</em>, where instead of iteratively trying to minimize \(L = \sum_{i=1}^{N} (mx_{i} + b - y_{i})^2\), (\({m, b}\) are the parameters), a solution of what value of \(m\) sets \(\dfrac{dL}{dm}\) to 0 is found. The bias \(b\) is then found as \(\bar{y} - m\bar{x}\), where \(\bar{z}\) is the average of a set \(z\). Thus this solution is called <em>closed-form</em> as it takes a known amount of mathematical operations to solve.</p>
+
+<p>However, this is old news. Unfortunately, this style of optimization is only possible for simple linear regression. The main reason for this is that the derivative of a linear model is really simple, compared to something like a composite neural network, which likely will require endless chain rule. The closest thing I could find to Linear Regression that has a different shape (hence ridge regression not included) is Logistic Regression, where predictions of \(y_{i}\) are modeled as \(\sigma(mx_{i} + b)\), where \(\sigma\) is the logistic (hence the name) function. The thing to remember though is that Logistic Regression is not really a regressor, but actually a binary classifier model.</p>
+
+<p>My question is whether we actually can try to create a closed-form solution for Logistic Regression. Two years ago, I tried doing exactly <a href="https://www.reddit.com/r/MachineLearning/comments/no5q8j/p_potential_logistic_regression_closed_form/">this</a> with such a lazy method that yieled itself a rightful 0 upvotes on r/MachineLearning. Instead of this really bad method, how about trying to edit the current linear Normal Equation for our case? A really good derivation of the Normal Equation can be found <a href="https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression/">here</a> - Perhaps, let’s see if we can modify the objective function to make it more logistic-y and see where that takes us?</p>
+
+<p>The objective function is defined as \(L = \dfrac{(X\theta - y)^{T}(X\theta - y)}{N}\) (let’s stick to \(\theta\) instead of \(m\) to look smarter) where \(X\) is the training feature matrix, \(\theta\) is weight vector (multi-dimensional \(m\)), and \(y\) is the labels vector. We would modify this to contain \(\sigma(X\theta)- y\), and soon it becomes clear this approach probably will not work as the resulting expression (before differentiation) will contain a lot of \(\sigma(X\theta^{T})\sigma(X\theta)\) which is too annoying for my brain to work with. Nobody, promised there would be a solution right?</p>
+
+<p>Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y_{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function 
+(\(\dfrac{1}{1 + e^{-x_{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x_{i}} - 1)\). Definitely not the worst thing in the world!</p>
+
+<p>Let’s specify this inverse as \(\sigma'\) and take a step back. We need to apply the function \(\sigma'\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!</p>
+
+<p>So far, we have tried a closed-form solution and then layering modifications of inputs and predictions on top of a standard linear closed-form solve. If anything, these examples demonstrate why the logistic regression has no closed-form solution. I believe it is always better to fail yourself than to take somebody else’s word that the <a href="https://youtu.be/32ZemGEYraY?t=76">transcedental equation</a> is why there is no logistic regression closed-form solution. The intuitive explanation I could come up with is that closed-form solutions don’t work as well when not trying to draw a line not to predict values (regression) but instead trying to separate areas (classification).</p>
+
+<p>This is the end of our journey. Please let me know what errors I may have made or whatever you find. Thanks.</p>
+
+</div>
+
+
+<div class="related">
+  <h2>Related posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/jekyll/update/2023/05/09/tests/">
+            On The Value of Tests
+            <small>09 May 2023</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/jekyll/update/2023/05/04/what-could-go-wrong/">
+            A Growing List of Lucky Things
+            <small>04 May 2023</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/jekyll/update/2023/04/28/reminded/">
+            How did We Get Here?
+            <small>28 Apr 2023</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+<style> 
+  .title {
+    font-style: italic;
+  }
+</style> 
+
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script src='/public/js/script.js'></script>
+  </body>
+</html>
