@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Young Birders Event"
+date: 2023-07-04 0:00:00 -0700
+categories: jekyll update
+---
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+**Keywords: Birds, Birding, Bored**
+
+> I am not sponsored to write this lmao.
+
+I recently spent 4 days at the wonderful [Young Birder's Event](https://ebird.org/about/resources/for-young-birders/young-birders-event) hosted by Cornell and its esteemed Lab of Ornithology. When I applied, I found a good amount of blogs online detailing the event. So, I thought on this fine day I might do the same. More than anything, I am bored.
+
+## How the Event Works
+
+At the event, you meet up with 15 other young birders selected for the event. Most of them do come from the states, but other countries like India, China, and Colombia were represented at this other event. All students stay on the North side of Cornell's campus in the newly created Hu Shih Hall dorm building.
+
+Students wake up at around 5:30am every day to go birding sharp at 6am. Throughout the event, topics like sound recording, Merlin/eBird data collection, Q&A sessions with the lab's members are interspersed with PhD students presenting on their research. The days are long, in a good way, and end at around 10pm (realistically 12pm).
+
+## What Happens
+
+All of the birding is done in the morning at nearby forests like Sapsucker Woods and the Montezuma plains a hour away. Trips to these places are done in a (cramped) van - one of which lacks much needed A/C.
+
+The field guides who accompany can classify birds at the speed of light. By far, one of the most impressive things of the event is seeing how the lab's members can identify a hidden bird even if its sound is jumbled with tens of others in a forest and its chirp is less than second long. They are part of the expert few for whom [Merlin](https://merlin.allaboutbirds.org) is less reliable. Gender and age of the bird come quick to them. In fact, one of the lab members is known to literally know where every single bird in Ithaca is found.
+
+After coming back, most of the presentations were done in the afternoon. On two of the days, students go to the idyllic lab building for Q&A sessions, career presenttions, visiting the Macaulay library, and exploring the 60,000 bird species stored in the Museum of Vertebrates. Dinner is served at an extremely early 5:15am (for me at least) and usually is joined with either Cornell undergrads or lab members/researchers.
+
+## Reflection
+
+The event was extremely fun to attend. The most surprising by far is that across the diversity of where attendees came from, most students echoed the same thing: _I'm the only birder in my school._ Everybody was pretty happy to meet people who were just as excited as they were in differences between California and Spotted Towhees. Naturally, fun friendships were made.
+
+I also learned a few things at the event that really were pretty new:
+
+- People use Binoculars when Birding, Not Just High-Zoom Cameras
+- People report birds on eBirds they don't see but hear
+- A lot of people get into birdings from their parents
+
+Side Note: My first time using binoculars was at this event. Thanks Zeiss for the 8 x 42 binoculars!
+
+## Where to Apply
+
+If birding appeals to you, you should definitely apply. The [application](https://is-ebird-wordpress-prod-s3.s3.amazonaws.com/wp-content/uploads/sites/55/2023/02/Cornell-Lab-YBE-Application-2023.pdf) is pretty reasonable in length and should be emailed to the lab before the end of March. Definitely apply again if you've applied once before or if you are a rising senior as priority is given there. If you aren't already, start using [eBird](https://ebird.org) (Cornell Lab of Ornithology's platform for crowd-sourced bird observations) to track your sightings there. Have Fun!

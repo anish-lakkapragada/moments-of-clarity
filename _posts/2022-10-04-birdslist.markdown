@@ -9,6 +9,8 @@ categories: jekyll update
 
 **Keywords: Bird Species, Random**
 
+> Note: These are all of birds near San Francisco, California. East-coast birds that I have seen are mostly excluded here.
+
 ## Bird Background
 
 For the last year, I've gone outside and taken photos of specifically birds (yes those things) in my backyard, neighborhood, and local parks and forests. It's pretty fun and one of the bird things I've always wanted to do is to maintain a list of all the bird's I've photographed (the second is to make a tier list).
@@ -51,7 +53,8 @@ _Includes even one photograph._
 - Denali, Alaska
 - Princeton, New Jersey
 - Philadelphia, Pennsylvania
-- Soon This Summer: Ithaca, New York 😉
+- Anne Arundel County, Maryland
+- Ithaca, New York 😉
 
 ## Bird Tiers
 

@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="https://anish-lakkapragada.github.io/atom.xml" rel="self"/>
  <link href="https://anish-lakkapragada.github.io/"/>
- <updated>2023-06-29T22:46:09-04:00</updated>
+ <updated>2023-07-05T00:18:39-07:00</updated>
  <id>https://anish-lakkapragada.github.io</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -13,9 +13,58 @@
 
  
  <entry>
+   <title>Young Birders Event</title>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/07/04/ybe/"/>
+   <updated>2023-07-04T00:00:00-07:00</updated>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/07/04/ybe</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Birds, Birding, Bored&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am not sponsored to write this lmao.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I recently spent 4 days at the wonderful &lt;a href=&quot;https://ebird.org/about/resources/for-young-birders/young-birders-event&quot;&gt;Young Birder’s Event&lt;/a&gt; hosted by Cornell and its esteemed Lab of Ornithology. When I applied, I found a good amount of blogs online detailing the event. So, I thought on this fine day I might do the same. More than anything, I am bored.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-the-event-works&quot;&gt;How the Event Works&lt;/h2&gt;
+
+&lt;p&gt;At the event, you meet up with 15 other young birders selected for the event. Most of them do come from the states, but other countries like India, China, and Colombia were represented at this other event. All students stay on the North side of Cornell’s campus in the newly created Hu Shih Hall dorm building.&lt;/p&gt;
+
+&lt;p&gt;Students wake up at around 5:30am every day to go birding sharp at 6am. Throughout the event, topics like sound recording, Merlin/eBird data collection, Q&amp;amp;A sessions with the lab’s members are interspersed with PhD students presenting on their research. The days are long, in a good way, and end at around 10pm (realistically 12pm).&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens&quot;&gt;What Happens&lt;/h2&gt;
+
+&lt;p&gt;All of the birding is done in the morning at nearby forests like Sapsucker Woods and the Montezuma plains a hour away. Trips to these places are done in a (cramped) van - one of which lacks much needed A/C.&lt;/p&gt;
+
+&lt;p&gt;The field guides who accompany can classify birds at the speed of light. By far, one of the most impressive things of the event is seeing how the lab’s members can identify a hidden bird even if its sound is jumbled with tens of others in a forest and its chirp is less than second long. They are part of the expert few for whom &lt;a href=&quot;https://merlin.allaboutbirds.org&quot;&gt;Merlin&lt;/a&gt; is less reliable. Gender and age of the bird come quick to them. In fact, one of the lab members is known to literally know where every single bird in Ithaca is found.&lt;/p&gt;
+
+&lt;p&gt;After coming back, most of the presentations were done in the afternoon. On two of the days, students go to the idyllic lab building for Q&amp;amp;A sessions, career presenttions, visiting the Macaulay library, and exploring the 60,000 bird species stored in the Museum of Vertebrates. Dinner is served at an extremely early 5:15am (for me at least) and usually is joined with either Cornell undergrads or lab members/researchers.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;/h2&gt;
+
+&lt;p&gt;The event was extremely fun to attend. The most surprising by far is that across the diversity of where attendees came from, most students echoed the same thing: &lt;em&gt;I’m the only birder in my school.&lt;/em&gt; Everybody was pretty happy to meet people who were just as excited as they were in differences between California and Spotted Towhees. Naturally, fun friendships were made.&lt;/p&gt;
+
+&lt;p&gt;I also learned a few things at the event that really were pretty new:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;People use Binoculars when Birding, Not Just High-Zoom Cameras&lt;/li&gt;
+  &lt;li&gt;People report birds on eBirds they don’t see but hear&lt;/li&gt;
+  &lt;li&gt;A lot of people get into birdings from their parents&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Side Note: My first time using binoculars was at this event. Thanks Zeiss for the 8 x 42 binoculars!&lt;/p&gt;
+
+&lt;h2 id=&quot;where-to-apply&quot;&gt;Where to Apply&lt;/h2&gt;
+
+&lt;p&gt;If birding appeals to you, you should definitely apply. The &lt;a href=&quot;https://is-ebird-wordpress-prod-s3.s3.amazonaws.com/wp-content/uploads/sites/55/2023/02/Cornell-Lab-YBE-Application-2023.pdf&quot;&gt;application&lt;/a&gt; is pretty reasonable in length and should be emailed to the lab before the end of March. Definitely apply again if you’ve applied once before or if you are a rising senior as priority is given there. If you aren’t already, start using &lt;a href=&quot;https://ebird.org&quot;&gt;eBird&lt;/a&gt; (Cornell Lab of Ornithology’s platform for crowd-sourced bird observations) to track your sightings there. Have Fun!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>On The Value of Tests</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/09/tests/"/>
-   <updated>2023-05-09T20:00:00-04:00</updated>
+   <updated>2023-05-09T17:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/09/tests</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -38,7 +87,7 @@
  <entry>
    <title>A Growing List of Lucky Things</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/04/what-could-go-wrong/"/>
-   <updated>2023-05-04T20:00:00-04:00</updated>
+   <updated>2023-05-04T17:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/04/what-could-go-wrong</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -62,7 +111,7 @@
  <entry>
    <title>How did We Get Here?</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/04/28/reminded/"/>
-   <updated>2023-04-28T20:00:00-04:00</updated>
+   <updated>2023-04-28T17:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/04/28/reminded</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -91,7 +140,7 @@
  <entry>
    <title>Why I Enjoy School</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/24/why-I-enjoy-school/"/>
-   <updated>2023-03-24T20:00:00-04:00</updated>
+   <updated>2023-03-24T17:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/24/why-I-enjoy-school</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -130,7 +179,7 @@
  <entry>
    <title>Bird Notes after a Year</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/14/birds-notes/"/>
-   <updated>2023-03-14T20:00:00-04:00</updated>
+   <updated>2023-03-14T17:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/14/birds-notes</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -167,7 +216,7 @@
  <entry>
    <title>Naps</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/22/naps/"/>
-   <updated>2023-02-22T19:00:00-05:00</updated>
+   <updated>2023-02-22T16:00:00-08:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/22/naps</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -193,9 +242,9 @@
  
  <entry>
    <title>A Series of Life Observations</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/02/update/"/>
-   <updated>2023-02-02T02:00:00-05:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/02/update</id>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/01/update/"/>
+   <updated>2023-02-01T23:00:00-08:00</updated>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/01/update</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -242,9 +291,9 @@
  
  <entry>
    <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/12/hedonistic-happy/"/>
-   <updated>2023-01-12T02:00:00-05:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/12/hedonistic-happy</id>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/11/hedonistic-happy/"/>
+   <updated>2023-01-11T23:00:00-08:00</updated>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/11/hedonistic-happy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -262,7 +311,7 @@
  <entry>
    <title>Double Backpropagation: A Forgotten Algorithm</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop/"/>
-   <updated>2023-01-01T00:00:00-05:00</updated>
+   <updated>2023-01-01T00:00:00-08:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -311,7 +360,7 @@
  <entry>
    <title>PSA Reminder: History Actually Happened</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history/"/>
-   <updated>2022-12-22T00:00:00-05:00</updated>
+   <updated>2022-12-22T00:00:00-08:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -359,7 +408,7 @@
  <entry>
    <title>My Experience Growing a Beard, And Then Shaving It</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/10/beards/"/>
-   <updated>2022-12-10T19:00:00-05:00</updated>
+   <updated>2022-12-10T16:00:00-08:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/10/beards</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -486,9 +535,9 @@
  
  <entry>
    <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/25/crawdads-tkam/"/>
-   <updated>2022-11-25T02:00:00-05:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/25/crawdads-tkam</id>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/24/crawdads-tkam/"/>
+   <updated>2022-11-24T23:00:00-08:00</updated>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/24/crawdads-tkam</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
@@ -531,9 +580,9 @@
  
  <entry>
    <title>Food for Thought: Word Predictability</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/10/word-association/"/>
-   <updated>2022-11-10T02:00:00-05:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/10/word-association</id>
+   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/09/word-association/"/>
+   <updated>2022-11-09T23:00:00-08:00</updated>
+   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/09/word-association</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
@@ -572,7 +621,7 @@
  <entry>
    <title>Why Does Latex look so good?</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex/"/>
-   <updated>2022-11-04T03:00:00-04:00</updated>
+   <updated>2022-11-04T00:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -605,7 +654,7 @@
  <entry>
    <title>Falling Forward, Not Back: Drake</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act/"/>
-   <updated>2022-10-24T03:00:00-04:00</updated>
+   <updated>2022-10-24T00:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -676,7 +725,7 @@
  <entry>
    <title>Gradient Descent Revisited As Euler's Method</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler/"/>
-   <updated>2022-10-11T03:00:00-04:00</updated>
+   <updated>2022-10-11T00:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -721,11 +770,15 @@
  <entry>
    <title>Photograph Birds List</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist/"/>
-   <updated>2022-10-04T03:00:00-04:00</updated>
+   <updated>2022-10-04T00:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: These are all of birds near San Francisco, California. East-coast birds that I have seen are mostly excluded here.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;bird-background&quot;&gt;Bird Background&lt;/h2&gt;
 
@@ -772,7 +825,8 @@
   &lt;li&gt;Denali, Alaska&lt;/li&gt;
   &lt;li&gt;Princeton, New Jersey&lt;/li&gt;
   &lt;li&gt;Philadelphia, Pennsylvania&lt;/li&gt;
-  &lt;li&gt;Soon This Summer: Ithaca, New York 😉&lt;/li&gt;
+  &lt;li&gt;Anne Arundel County, Maryland&lt;/li&gt;
+  &lt;li&gt;Ithaca, New York 😉&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;bird-tiers&quot;&gt;Bird Tiers&lt;/h2&gt;
@@ -821,7 +875,7 @@
  <entry>
    <title>Hidden Taylor Series in Theoretical Machine Learning</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
-   <updated>2022-09-26T03:49:49-04:00</updated>
+   <updated>2022-09-26T00:49:49-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries copy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -949,7 +1003,7 @@ second-degree polynomial approximates best in this range.
  <entry>
    <title>An explanation of Pareto's Principle</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple/"/>
-   <updated>2022-09-25T03:49:49-04:00</updated>
+   <updated>2022-09-25T00:49:49-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
@@ -969,7 +1023,7 @@ second-degree polynomial approximates best in this range.
  <entry>
    <title>Yet Another Comparison of Svelte & React</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact/"/>
-   <updated>2022-09-21T03:00:00-04:00</updated>
+   <updated>2022-09-21T00:00:00-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
 
@@ -1020,7 +1074,7 @@ second-degree polynomial approximates best in this range.
  <entry>
    <title>Attempts at Closed-Form Logistic Regression</title>
    <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg/"/>
-   <updated>2022-09-20T19:27:08-04:00</updated>
+   <updated>2022-09-20T16:27:08-07:00</updated>
    <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 

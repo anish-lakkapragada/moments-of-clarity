@@ -9,12 +9,12 @@
 
   <title>
     
-      Yet Another Comparison of Svelte & React &middot; Moments of Clarity
+      Comparison of Where The Crawdads Sing and To Kill a Mockingbird &middot; Moments of Clarity
     
   </title>
 
   
-  <link rel="canonical" href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact/">
+  <link rel="canonical" href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/24/crawdads-tkam/">
   
 
   <link rel="stylesheet" href="https://anish-lakkapragada.github.io/public/css/poole.css">
@@ -190,51 +190,45 @@
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">Yet Another Comparison of Svelte & React</h1>
-  <span class="post-date">21 Sep 2022</span>
-  <p><strong>Keywords: Reactive Frameworks, Svelte, React, JavaScript</strong></p>
+  <h1 class="post-title">Comparison of Where The Crawdads Sing and To Kill a Mockingbird</h1>
+  <span class="post-date">24 Nov 2022</span>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-<p>About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on <a href="https://dayssincelastjavascriptframework.com/">getting released every single day</a> and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.</p>
+<p><strong>Keywords: Random, Thanksgiving Movie</strong></p>
 
-<p>React is a framework brought to us by Facebook and is widely considered the most popular JavaScript frontend framework there is. Svelte meanwhile is a relatively new framework introduced by Rich Harris, a journalist for the New York Times, focused on developing small-scale, light web applications. As far as Stack Overflow surveys go, there is an interesting split between them - while React is the most <em>wanted</em> framework, Svelte is the most <em>loved</em> framework among current developers. Based on my experience thus far, I kind of can see why that is. More on that later. For now, here are the major differences that I felt.</p>
+<p>This thanksgiving I watched the movie <em>Where The Crawdads Sing</em> with my family. As I was watching the suspenseful murder mystery, I had a suspicion that I made very well known to the 3 people around me that the book was very similar and related to <em>To Kill a Mockingbird</em>. I searched up if anybody else had drew the parallels and sure enough they had.</p>
 
-<h2 id="1-usestate-in-react-sucks">1. useState() in React Sucks</h2>
+<p>Regardless, here are all the parallels I could draw.</p>
 
-<p>This is probably the biggest thing I can think about between React and Svelte. In Svelte, whenever you have a reactive variable you want to change (which also is used in rendering for-loops or conditionals), you just change it. Just <code class="language-plaintext highlighter-rouge">foo = "bar"</code> and you are done!</p>
+<h2 id="setting">Setting</h2>
 
-<p>In React, though, a clunky state management solution is provided, where you have to first initialize the default value with <code class="language-plaintext highlighter-rouge">useState(default)</code> and then use the provided functions (e.g. <code class="language-plaintext highlighter-rouge">foo</code> and <code class="language-plaintext highlighter-rouge">setFoo</code>) to update your variables instead of assignment (as aforementioned for Svelte.)</p>
+<p>This is by far the most obvious. <em>Where The Crawdads Sing</em> and <em>To Kill a Mockingbird</em> were both set in the small, Southern towns during the 1960s. Both of them focus on the general idea of an outcast (more on this later) among a judgemental post-slavery society, albeit <em>To Kill a Mockingbird</em>’s much more defined focus on racism.</p>
 
-<p><img src="https://preview.redd.it/twvap8pq9fg91.png?width=680&amp;format=png&amp;auto=webp&amp;s=9bd1e81563e26210644561038b221d25b481bc23" /></p>
+<h2 id="similar-elements">Similar Elements</h2>
 
-<p>Because I started out with Svelte and then React, I forget so many times (often for 2 hours at a time) that I can’t just use assignment and instead need to go with <code class="language-plaintext highlighter-rouge">useState</code>. Considering React is older than Svelte, it is somewhat expected that Svelte would have the edge on this one.</p>
+<h3 id="schooling">Schooling</h3>
 
-<h2 id="2-react-styling">2. React Styling</h2>
+<p>Both <em>To Kill a Mockingbird</em> and <em>Where The Crawdads Sing</em> depict on the impoverished conditions of American education. <em>To Kill a Mockingbird</em> shows Dill, a poor child attending school who cannot afford school lunch, and <em>Where The Crawdads Sing</em> depicts Kya being teased as a poor rat when walking into the public school barefoot. Both of them show the low education standards and high poverty present even among whites in the South at the time.</p>
 
-<p>In React, you can either attach another stylesheet or you can use inline styles (in JSON) to the individual components themselves. This is likely just personal preference, but I find it annoying to have to link each component to another css file (~2x more files that way), or to use inline styles.</p>
+<h3 id="racism">Racism</h3>
 
-<p>Compared to this, Svelte offers either using inline styling or separate styles in the same file as your HTML the same way as vanilla HTML. This is one of the examples where Svelte demonstrates its ridiculously low learning curve.</p>
+<p><em>To Kill a Mockingbird</em> is the most directly focused on racism and is even thought to be modeled after the Scottsboro’s trial case. <em>Where the Crawdads Sing</em> is less explicit but racism is clearly visible when the private inspectors call the African-American store owner, Jumpin, “boy” (derogatory term for African Americans during slavery era.)</p>
 
-<h2 id="3-performance">3. Performance</h2>
+<h3 id="outsiders">Outsiders</h3>
 
-<p>React is said to treat your model as a blackbox and calculate the difference between what is currently on the page and what should be on the page in a theoretical DOM known as the virtual DOM. Svelte, on the other hand, takes the approach of not using the virtual DOM and instead compiling components at build in a way where the code will take care of whatever rendering changes need to take place. This has been noted to make Svelte have the edge in performance; the Svelte website goes as far as saying the idea that the vDOM makes applications faster is a <a href="https://svelte.dev/blog/virtual-dom-is-pure-overhead">“suprising resilient meme”</a>.</p>
+<p>Prejudice against “outsiders” from a judgemental town are at the essence of both stories. In <em>To Kill a Mockingbird</em>, the outsider is Boo Radley who is believed to be a ghost by the gossip of the town and Scout herself. In <em>Where the Crawdads Sing</em>, the same outlandish judgement is given to Kya, better known to the town as the mysterious “Marsh Girl.” While a trial for Radley is never conducted, it is discussed towards the end as something that would hurt him in the same way as would a trial of Chase’s rape of Kya.</p>
 
-<p>The main idea stated by Svelte is that even if the DOM is slow, adding another vDOM will only make things slower as the native DOM will eventually have to be changed. Furthermore, they point that the <code class="language-plaintext highlighter-rouge">useState</code> function in React can in some cases lead to parts of applications rerendering even when not needed.</p>
+<h3 id="trial-case">Trial Case</h3>
 
-<p>For fairness, I’ve only really argued for Svelte thus far (and based pretty closely on their own article.) However, other sources also confirm this and the fact that Svelte is <a href="https://massivepixel.io/blog/svelte-vs-react/">nearly 26x more lightweight compared to React</a>.</p>
+<p>This is by far the most obvious. Both <em>To Kill a Mockingbird</em> and <em>Where the Crawdads Sing</em> are stories of the trial which unreveal uglier realities. The only difference in this case is that Kya, the one on trial, was actually guilty and not charged compared to Tom Robinson.</p>
 
-<h2 id="4-popularity">4. Popularity</h2>
+<h3 id="nature">Nature</h3>
 
-<p>It would be foolish to discard popularity in this discussion. React, hands down, has more popularity. Svelte has 62K stars, React has almost 200K and has been used in plenty of websites.</p>
+<p>For crying out loud, <em>Where the Crawdads Sing</em> and <em>To Kill a Mockingbird</em> both have birds in their names! Beyond that <em>Where the Crawdads Sing</em> is very focused on the deep interest of Kya in the nature and the world around her. <em>To Kill a Mockingbird</em> also has similar attention to nature with the bird imagery of “Finch” (an actual bird) all being birds, and the overall concept of birds not doing anything harmful in this world.</p>
 
-<p>Thus, it follows that when it comes to UI libraries and other community open-source tools React likely will have much better support.</p>
+<h2 id="which-one-is-better">Which one is better?</h2>
 
-<h2 id="final-remarks">Final Remarks</h2>
-
-<p>Both Svelte and React are decent frameworks with intended uses. Given the popularity difference,Svelte makes sense to be primarily for much smaller stuff, whereas React is for building larger websites.</p>
-
-<p>Back to what I was saying about the most <em>wanted</em> vs. most <em>loved</em>. Thus far, I still prefer Svelte to React. It’s extremely similar to raw HTML/CSS/JS and takes basically no effort to learn (very easy learning curve.) In fact, I think it’s easier to learn Svelte first than it is to learn HTML and JS first. However, despite me loving Svelte, I felt that I needed to learn React to collaborate with others on projects, such as the current project to build a coding competition website and grading server for our school’s computer science club with 3-4 other devs.</p>
-
-<p>While React isn’t as good as Svelte for me, it isn’t terrible and <em>it’s allowing bigger collaborations with more people. After all, that probably matters more.</em></p>
+<p>I’m not in a position to judge but <em>To Kill a Mockingbird</em> definitely seems better. Perhaps because I spent half a semester reading it and not a night watching it.</p>
 
 </div>
 
