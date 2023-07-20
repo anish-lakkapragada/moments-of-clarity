@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Moments of Clarity</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-07-21T16:02:50-07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Anish Lakkapragada</name>
+   <email>anish.lakkapragada@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>On The Value of Tests</title>
+   <link href="http://localhost:4000/jekyll/update/2023/05/09/tests/"/>
+   <updated>2023-05-09T17:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/05/09/tests</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing this at 4:40am after a day of 3 AP exams. Slept too early.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve been thinking about whether exams make someone a better person. They are stressful. They can corrupt a love for learning.&lt;/p&gt;
+
+&lt;p&gt;But they also teach dealing with a stress in a relatively low-pressure, stable environment. The task at hand is extremely well defined, sometimes you are even given a guide to prepare, and nothing (no monetary outcomes) are at risk if you fail. However, for a job - high-stakes situations arise without warnings, unstructured, and can be mired in political capital problems. Thus, are exams the training wheels for adolescents to deal with these times later?&lt;/p&gt;
+
+&lt;p&gt;Furthermore, in these exams those who either studied the most, were the smartest, or cheated typically do best. It may feel discouraging to see those who barely studied get an A compared when you worked much harder. Again, not a good reason to &amp;lt;3 exams. But isn’t this also realistic of how performance goes in the career “real-world”?&lt;/p&gt;
+
+&lt;p&gt;So to go back to this (argumentative essay) prompt - no, exams don’t make you a better person. Or I could argue that (for me at least), taking hard exams (and doing well on them) does make me more confident to take on harder, stressful challenges. But an &lt;em&gt;N=1&lt;/em&gt; sample is too small to generalize, so I’m going to stick for no today.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is that exams are preparation of something more in a heavily controlled environment. And I think it’s going to be a long-time until we can evaluate a person’s skills in a situation that doesn’t involve an exam (e.g. reading their brain flows and chemicals) as accurately. So might as well try to frame tests as something nice for the interim time.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Growing List of Lucky Things</title>
+   <link href="http://localhost:4000/jekyll/update/2023/05/04/what-could-go-wrong/"/>
+   <updated>2023-05-04T17:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/05/04/what-could-go-wrong</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
+
+&lt;p&gt;A lot of times in our life, we reflect more on what isn’t going well and not what is. It may feel like everything fails at the worst moment - however, we rarely acknowledge all the things that did go well, or by contrast worked and did not succeed. For example, during a test we will underestimate how many we got wrong because we spent so much more time on questions we didn’t know the answer to. Part of this makes sense though - we expect staples to staples in them, computers to charge when we plug them in, and phones to work (we expect things to work.)&lt;/p&gt;
+
+&lt;p&gt;In light of this idea of &lt;em&gt;gratitude&lt;/em&gt;, one idea I had was to keep a rolling list of all the things I’ve seen that have luckily gone in a favorable direction. That way, I’ll pay more attention to what is working than just what isn’t.&lt;/p&gt;
+
+&lt;h2 id=&quot;lucky-nice-things&quot;&gt;Lucky Nice Things&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Important Account Online for me has its password, not entire account, expire&lt;/li&gt;
+  &lt;li&gt;The Test Question did not ask about simulations&lt;/li&gt;
+  &lt;li&gt;The MCQ was Free&lt;/li&gt;
+  &lt;li&gt;Only lost a year due to COVID-19&lt;/li&gt;
+  &lt;li&gt;Practice Tests Haven’t Asked About Holes in a Conductor&lt;/li&gt;
+  &lt;li&gt;Admin didn’t kick us out even though we didn’t formally sign up to run the event&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How did We Get Here?</title>
+   <link href="http://localhost:4000/jekyll/update/2023/04/28/reminded/"/>
+   <updated>2023-04-28T17:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/04/28/reminded</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;I know I have not maintained this thing. That is not due to AP exams but laziness.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing that’s been on my mind for a while now is why the internet has taken form in the way that it has. Why is United States the country with the highest GDP? Why did they choose a different shade of blue and typeface for different parts of the chapstick container that will be not noticed by 99% of users? Why am I born at this station of status in the world?&lt;/p&gt;
+
+&lt;p&gt;Too often, we don’t don’t ask enough questions. There’s a lack of questioning of why the world acts in the way it does and why it arrived at this specific state out of an infinite amount. I’m pretty sure this is because in such a highly structured and organized society, we don’t realize the bigger picture that the single planet we are engrossed in comprises of man-made concepts. The world is deterministic to some extent. I can’t find the eraser at school because I forgot it. It’s not in multiple positions as we may think, it’s in one.&lt;/p&gt;
+
+&lt;p&gt;There’s so much for us to question. The Pacific Ocean isn’t real, country lines are imaginary, money has no intrinsic value. So much of the prejudice around us in baseless and crumbles under reasoning of “WHY”? How have humans been able to create fake illusions that now are considered as real as the earth itself? In our origins where we could die at any minute, why do we celebrate &lt;a href=&quot;https://en.wikipedia.org/wiki/Birthday_effect&quot;&gt;birthdays&lt;/a&gt; - are we proud to survive another year or cheering away the fact that we are closer to our death :skull:?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alan Kay: “The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a &lt;em&gt;permutation&lt;/em&gt; of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better (&lt;a href=&quot;https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving&quot;&gt;overall&lt;/a&gt;)? If  our world’s state, configuration, policies, whatever is just one in an infinite amount - is it even important?&lt;/p&gt;
+
+&lt;p&gt;But if it’s the only one in this shape - can we not also conclude with a 0% p-value that this configuration is sacred in a way? Like, the trajectory of how the world evolves that we are part of is significant (maybe the best, the worst, or some other distinguisher)? With a infinite amount of paths to take, is the road that we have taken special?&lt;/p&gt;
+
+&lt;p&gt;I’ve been thinking about this especially after reading &lt;em&gt;Grendel&lt;/em&gt; for my school’s APLAC class. In &lt;em&gt;Grendel&lt;/em&gt;, the rich dragon criticizes the beast at his ignorance of the world. In particular, he mentions that the fact a certain object (e.g. a jug) has been repeatedly made proves its inherent value; after all it was that particular configuration of atoms (from an infinite set) repeated many times that shows it’s too significant to ignore. Similarly, our policies &amp;amp; ideas may be significant, holy decisions as we continue to practice the same rules again and again, like monetary and fiscal policy.&lt;/p&gt;
+
+&lt;p&gt;Nobody knows.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I Enjoy School</title>
+   <link href="http://localhost:4000/jekyll/update/2023/03/24/why-I-enjoy-school/"/>
+   <updated>2023-03-24T17:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/03/24/why-I-enjoy-school</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing this with a C in APLAC lmao. Now a B. Now an A.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our school recently encountered a power outage where we got a good amount time off from school. When the announcement came, I was surprised to see how prevalent the belief that students-must-hate-school stuck (I am somewhat guilty of this, but in my defense it meant I didn’t have a quiz tomorrow). Everybody cheered because there was less school, as if the fact that school was bad was dogma and self-evident. Well, I don’t hate school and thus here this &lt;del&gt;💩post&lt;/del&gt; goes.&lt;/p&gt;
+
+&lt;h2 id=&quot;meeting-people&quot;&gt;Meeting People&lt;/h2&gt;
+
+&lt;p&gt;No, the first reason is not learning. I am not that corny/predictable (for now).&lt;/p&gt;
+
+&lt;p&gt;Despite the striking lack of diversity my 90% Asian high school has, there’s a good amount of varied attitudes and people. It’s not hard to find math nerds five feet away from students blasting music and playing spikeball. As part of going to school, I enjoy chance interactions/conversations and making as many jokes, however degenerate, as possible. Collaborations &amp;amp; opportunities all come from exposure to people outside your “bubble” - I find you only (or at least for me) get that from talking to different people. Futhermore, it’s always interesting to learn about people and what they spend their time on precisely because sometimes I could never imagine myself doing what they do. I will sometimes even pretend that a door is not open just to start a conversation with whoever will open it 💀.&lt;/p&gt;
+
+&lt;p&gt;These chance conversations literally whenever - during class, passing periods, walking to and from school - are already a good enough why to go to school. Regardless of how much sleep I got the last night, meeting new faces who eventually become friends makes school worth it.&lt;/p&gt;
+
+&lt;h2 id=&quot;shared-suffering&quot;&gt;Shared Suffering&lt;/h2&gt;
+
+&lt;p&gt;OK, so I’ve been talking about how I like school but now state that in it we &lt;em&gt;suffer&lt;/em&gt;? Let me elucidate (as my english teacher says).&lt;/p&gt;
+
+&lt;p&gt;Getting screwed week after week with hard tests in tough classes, as far as I’ve seen, generally brings people together. I’ve noticed that the hardest classes usually create the best bonds as everybody tries to prepare for the upcoming test. I would argue that is part of the reason that students actually enjoy harder classes than those easier (assuming it works out for them). For some reason it can be embarrassing to admit, but we do like learning.&lt;/p&gt;
+
+&lt;h2 id=&quot;generally-useful-information&quot;&gt;Generally Useful Information?&lt;/h2&gt;
+
+&lt;p&gt;Starting with a quick disclaimer that I am in awkward position to praise the American public education school system as a student at a high school ranked in the top 100 in the US and top 10 in California.&lt;/p&gt;
+
+&lt;p&gt;But as far as I have seen, most of the information we learn in school is NOT useless. Gaining a broad foundation across disciplines is valuable at an age (&amp;lt;20) where it cannot be expected (in first-world countries) that we should know what we want to dedicate time to. I do think there is value in being able to understand the world around us, which school addresses somewhat completely - how the world formed around us (history), provable truths about our world (sciences), what our world &amp;amp; collective psyche is based on (language classes). It’s &lt;em&gt;not&lt;/em&gt; bad.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I’d say most students would happily take two weeks off from school if given the choice but then secretly want to return in a month or so. Would anybody ask to restart school? Idk.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bird Notes after a Year</title>
+   <link href="http://localhost:4000/jekyll/update/2023/03/14/birds-notes/"/>
+   <updated>2023-03-14T17:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/03/14/birds-notes</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds  ¯\_(ツ)_/¯&lt;/p&gt;
+
+&lt;h2 id=&quot;common-reason-for-failed-photographs&quot;&gt;Common Reason for Failed Photographs&lt;/h2&gt;
+
+&lt;p&gt;Leaves. Branches. More leaves. Half the time these things become the area of focus for my camera lens instead of the fast-moving birds I am going to capture. Therefore, always try to find a clearing or area where no leaves/branches are in front of the bird (in the background as scenery is not a problem).&lt;/p&gt;
+
+&lt;p&gt;Another common reason for a bird photograph is cause the bird flies off. Here’s how to avoid that.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-prevent-the-bird-from-flying-off&quot;&gt;How To Prevent The Bird From Flying Off&lt;/h2&gt;
+
+&lt;p&gt;To some extent, the motions of a bird are out of control. However, simple things like not talking near the bird or not making too loud steps are controllable. Only approach a still bird further &lt;em&gt;after&lt;/em&gt; taking a photograph of it. It doesn’t make sense to give up your guaranteed picture in hopes of a more close-up picture.&lt;/p&gt;
+
+&lt;p&gt;Avoid shaking the branches of the bird either as that tends to make the birds go away. Of course, this stuff all sounds obvious but I’m not lying when I say there is a spidey sense to know when a bird will disappear a split-second before it happens.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-makes-a-good-bird-photograph&quot;&gt;What makes a good bird photograph?&lt;/h2&gt;
+
+&lt;p&gt;I’m not the best in photographing these creatures but the main thing I’ve noticed is that having the face (and both eyes) is extremely crucial. We look at bird photographs somewhat in the same way as humans. Having as much focus on the bird’s face - and the emotion created by the bird’s hopeful glance as it turns its head - is extremely important.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-bird-photography-is-enjoyable&quot;&gt;Why Bird Photography is Enjoyable&lt;/h2&gt;
+
+&lt;p&gt;Bird photography (at least for an amateur like me) is a little bit like monopoly. There’s undeniable skill, but undeniable luck as well. Sometimes I get multiple of my best photographs ever from one trip (Alaska 👀) and sometimes return borderline empty-handed. But there are things to improve upon - better aim of the camera, the ability to recognize birds faster, being able to shift lens focus in a split-second, knowing which birds show when - there is a reason we have photographs like &lt;a href=&quot;https://images.theoutdoorwire.com/2019/12/04/45d848cc-63f8-43ae-8692-f47e960cfc54_600x476.jpg&quot;&gt;these&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Furthermore observing birds as they hop around free while you stress about APLAC is oddly annoying and reassuring at the same time.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It’s not as boring as it sounds. Also peep the amateur &lt;a href=&quot;/notes/bay-area-birds-field-guide.pdf&quot;&gt;field guide&lt;/a&gt; I made for Bay Area birds.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Naps</title>
+   <link href="http://localhost:4000/jekyll/update/2023/02/22/naps/"/>
+   <updated>2023-02-22T16:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/02/22/naps</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential &amp;amp; voltage. Naps are typically taken wrong but are also pretty dangerous if you don’t take them right. Here’s to everything I know about naps on 2/23/2023 at 2:14am.&lt;/p&gt;
+
+&lt;h1 id=&quot;benefits&quot;&gt;Benefits&lt;/h1&gt;
+
+&lt;h2 id=&quot;energy-saver&quot;&gt;Energy Saver&lt;/h2&gt;
+
+&lt;p&gt;The rationale for taking a nap is the idea of admitting that you will not be productive if you do not take a nap. For example, after arriving from school I am pretty certain I will not immediately do homework and instead just browse YouTube. If on average I estimate I will waste 20 minutes of watching YouTube, which not only will drain my energy by being on a scren but also lose motivation to get through homework without watching YouTube - it makes no sense to avoid YouTube altogether. Instead, taking a 20-30 minute nap is ideal for productivity. By accepting that you need a break as an inevitable, taking a nap means not only that you get that break but that break actually will lead to increased focus/motivation/patience for BS after you wakeup. It’s sort of like making a contract like I’m going to kill X minutes but will immediately be productive after. In reality, it’s worth sacrificing 20-30 minutes for 30minutes of work at 95% productivity compared to 15 minutes of YouTube at 50-75% productivity levels.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-breaker&quot;&gt;Day Breaker&lt;/h2&gt;
+
+&lt;p&gt;Naps, especially those of 20-30min taken in the afternoon after something intensive like school, allow for the brain to shut down. This essentially means that after waking up from the nap, memory of what happened before the nap will suffer. Thus, what you just did an hour ago in school will seem distant and somewhat feel like a completely different day. Also, if you are a “morning person” (inceased productivity after waking up) - ig waking up more in a day can only be useful then?? Or instead you like sleeping/dreaming (or the feeling of normal force supporting your side), naps can give you a way to sleep more with the pretense of “productivity”. I’ve had a good amount of times when while napping I feel like I am awake with eyes open - it’s always pretty fun.&lt;/p&gt;
+
+&lt;h2 id=&quot;escape-from-reality&quot;&gt;Escape from Reality&lt;/h2&gt;
+&lt;p&gt;Naps are a great way to escape your problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;drawbacks&quot;&gt;Drawbacks&lt;/h2&gt;
+&lt;p&gt;Naps can really screw you up. For one, if you lack self-control and extend your nap to more than 1 hour, your basically screwing up the time when your body will want you to sleep. Second, I guess people feel unproductive taking naps or something? I guess you just have to really believe that 20min of dead time outweighs switching back-and-forth tabs with distractions for 30min of work.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Series of Life Observations</title>
+   <link href="http://localhost:4000/jekyll/update/2023/02/01/update/"/>
+   <updated>2023-02-01T23:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/02/01/update</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This article was made at 2am. I will update as I become more aware of my own observations and discover more.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s been a while since I’ve posted and I figure I should. I’ve made a series of observations in my life which are undoubtedly true (I may be biased ;) but generally seem to prove themselves true time and time again. Whether that is a self-fulfilling prophecy of me believing in my own BS, I do not know.&lt;/p&gt;
+
+&lt;h2 id=&quot;experiences-can-not-be-repeated-twice&quot;&gt;Experiences Can Not Be Repeated Twice&lt;/h2&gt;
+
+&lt;p&gt;I remember when I was younger, visiting a beach in Europe. It was pretty fun to be in the waves and all day. The next day, I wanted to have exactly what I had yesterday - a nice day on the sand - but the tides were going crazy and the weather was cloudy and gloomy. From that experience in itself around ~7 years ago, I’ve come to realize that any memory cannot be repeated more than once. Time is a monotonically increasing function - you cannot go back - to the first time you listented to your favorite song, read your favorite book, or had a genuinely good time.&lt;/p&gt;
+
+&lt;p&gt;What this implies is the idea of &lt;em&gt;living in the moment&lt;/em&gt; as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of it. While in the moment we are just living - just like we always are - and thus we don’t see the moment’s importance (e.g. importance of spontantenously going out or looking around), it’s important to see every second of this moment will be valuable in the future. Memories &lt;em&gt;appreciate&lt;/em&gt; in value over time, so make the best investments with what time you have now.&lt;/p&gt;
+
+&lt;p&gt;If this seems too idealistic for you, here’s a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-vs-useless-arguments&quot;&gt;Useful vs. Useless Arguments&lt;/h2&gt;
+
+&lt;p&gt;Today, I remember seeing an argument about who was the most oppressed/privileged/etc. demographic throughout history. This may seem obvious, but regardless of how won - there would be no real winner because they are really just fighting for approval over an opinion not over policy. Useless arguments argue over opinions, useful arguments argue over policy. Try to aim for useful arguments.&lt;/p&gt;
+
+&lt;h2 id=&quot;implicit-order-of-the-world&quot;&gt;Implicit Order of the World&lt;/h2&gt;
+
+&lt;p&gt;For this mysterious thing called &lt;em&gt;prestige&lt;/em&gt;, there seems to be an implicit order of the world. The world is full of diverse people yet at the same time follows predictable, statistically-significant patterns en masse: students offered a selection of universities generally choose some over others, certain countries are seen as just “better” (e.g. America) despite growing bodies of evidence saying anything but. Rankings for companies change yearly and yet the same implicit order of which companies are more prestigious stay - there is a general inertia for learnt rankings to change when they are founded on unstated social assumptions and not facts.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-are-more-deterministic-than-we-realize&quot;&gt;Things are more deterministic than we realize&lt;/h2&gt;
+
+&lt;p&gt;My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can’t even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it’s better for me to realize there’s a reason why it’s the place it is beyond the fact that I “lost” it.&lt;/p&gt;
+
+&lt;p&gt;Decisions are not made in a vaccuum; they are not random. There is a reason why the U.S. sides with Israel or why India today may be reluctant to condemn Russia in the Ukraine-Russia conflict. The current standing of things - be it where my history notes went or a country’s foreign relations - can logically be retraced to their initial states.&lt;/p&gt;
+
+&lt;p&gt;The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-music-taste-is-not-really-unique&quot;&gt;Your Music Taste Is Not (Really) Unique&lt;/h2&gt;
+
+&lt;p&gt;(Might just be me.) I am always hungry about songs. It is always super funny to see how an unfamiliar song with a slightly weird name but a lot of streams slowly goes from something I completely don’t resonate or feel is part of my taste to my playlist. Time and time again, I have seen that whatever my initial reaction to the song - &lt;em&gt;I am not unique&lt;/em&gt; - I probably will find myself liking it. This means that I should try to explore different genres and not judge.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-are-always-closer-to-the-end&quot;&gt;You Are Always Closer to the End&lt;/h2&gt;
+
+&lt;p&gt;Basically, I have noticed more than likely there is always some way to frame your current timeframe in which you are at the end of the proces. During the summer, I will be near the end of high school. Right now, I am one day away from the last day of school. At the start of second semester in senior year, I am towards the end of the year (and the end of high-school.) At the start of first semester in senior year, I am towards the end of the college application process (and nearing the end of the year.) There is always an end in sight!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
+   <link href="http://localhost:4000/jekyll/update/2023/01/11/hedonistic-happy/"/>
+   <updated>2023-01-11T23:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/01/11/hedonistic-happy</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, at some point or another we’ve probably heard of the saying &lt;em&gt;count your stars&lt;/em&gt; or &lt;em&gt;be happy with what you have&lt;/em&gt;. I recently learned about hedonistic treadmills and made me make a (probably not unique) connection to this saying. For those, unaware the &lt;em&gt;hedonistic treadmill&lt;/em&gt; refers to the stability of one’s happiness regardless of events of positive and unhappy occurences. Essentially, the principle of the hedonistic treadmill says that after a positive or a negative event, we will feel some slight delta in happiness only to return back to where we were before. This is not to say that our happiness is the same regardless of our lives - improvements in living conditions of course improve happiness (generally) - but is more so to describe the fact that we are generally pretty stable.&lt;/p&gt;
+
+&lt;p&gt;Before we get to the adage in the title, it’s worth noting that the hedonistic treadmill (at least how I see it) is great at proving another adage about the journey and not the destination. By the hedonistic treadmill, if we wanted to maximize our happiness (like this is some sort of differentiable function idk?) working in jobs and progressing careers would be pretty irrelevant. However, many people find satisfaction from achieving their goals, even if they return to the same happiness before: this is pretty good proof that the journey leads to happiness more than the destination. Perhaps this is a higher-form of happiness like meaning or some other self-help buzzword. Ironically, this means that the hedonistic treadmill measuring happiness missed the fact that just traveling on this treadmill makes us happy. Who else is thinking that this type of satisfaction is an integral of the hedonistic treadmill’s sine waves??&lt;/p&gt;
+
+&lt;p&gt;I digress, but the returning of a baseline stands. We really can’t change this baseline happiness other than preventing negative events from taking hold and finding more positive events to genuinely celebrate. To do this, I guess it’s best to just be happy with have. I am still curious about its function though.&lt;/p&gt;
+
+&lt;p&gt;This article may have been kinda cringe 🙃 :D&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Double Backpropagation: A Forgotten Algorithm</title>
+   <link href="http://localhost:4000/jekyll/update/2023/01/01/double-backprop/"/>
+   <updated>2023-01-01T00:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2023/01/01/double-backprop</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Backpropgation, Gradient Descent, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hope you are enjoying the new year 2023! It’s been a while since I’ve uploaded a theoretical algorithm so here we are :)&lt;/p&gt;
+
+&lt;p&gt;I’ve made a few posts and challenges about typical first-order gradient descent that I think it’s time I move on to other aspects of ML. But before I do, here’s one last gradient-descent-ish article on a variant of standard optimization algorithms and my theory on its potential usefulness in generative models.&lt;/p&gt;
+
+&lt;p&gt;Double backpropagation was first created by Le Cun and Drucker in 1992 and since then has been widely dismissed (maybe for computational reasons).Introductory ML courses and books don’t even cover it, so perhaps this article will help explain some things.&lt;/p&gt;
+
+&lt;h2 id=&quot;double-backpropagation-algorithm&quot;&gt;Double Backpropagation Algorithm&lt;/h2&gt;
+
+&lt;p&gt;The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J&apos;\) is given by:&lt;/p&gt;
+
+\[J&apos;(\theta) = J(\theta)  + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
+
+&lt;p&gt;It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some &lt;em&gt;hyperparameter&lt;/em&gt; (you choose the value) \(\lambda\).&lt;/p&gt;
+
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Double Backpropagation is motivated by forcing the parameters to be as generalizable as possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More concretely, the value of the adjusted function \(J&apos;\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to &lt;em&gt;augmentations&lt;/em&gt; where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to &lt;em&gt;force&lt;/em&gt; the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.&lt;/p&gt;
+
+&lt;p&gt;This is why the (partial) derivative in the equation measures the model’s performance (objective function value) sensitivity to small changes in the input \(X\) is added. The algorithm is known as &lt;em&gt;double&lt;/em&gt; backpropagation because a &lt;a href=&quot;http://luiz.hafemann.ca/libraries/2018/06/22/pytorch-doublebackprop/&quot;&gt;gradient of a gradient&lt;/a&gt; is utilized.&lt;/p&gt;
+
+&lt;h2 id=&quot;double-backpropagation-for-smooth-latent-spaces-&quot;&gt;Double-Backpropagation for Smooth Latent Spaces (?)&lt;/h2&gt;
+
+&lt;p&gt;Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector \(\vec{x}\) and returns an image \(Y\).&lt;/p&gt;
+
+&lt;p&gt;Let’s say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A latent space is the full extent of values the vector can take, where similar generated images will come from vectors which are near each other in this space.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don’t really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.&lt;/p&gt;
+
+&lt;p&gt;Ideally in these models, the mapping of the input vector \(\vec{x}\) to the image \(Y\) learned by \(G\) is &lt;em&gt;smooth&lt;/em&gt; - small changes in \(\vec{x}\) shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PSA Reminder: History Actually Happened</title>
+   <link href="http://localhost:4000/jekyll/update/2022/12/22/history/"/>
+   <updated>2022-12-22T00:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/12/22/history</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Today was the last day of finals for me, and my final final was history. While preparing for it, I realized that there was something I had been thinking about for a good time now but just haven’t got around to writing about.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-history-is-taught&quot;&gt;How History is Taught&lt;/h2&gt;
+
+&lt;p&gt;I’m confident the way that history is taught is the reason why so many students don’t enjoy it. We are expected to remember that the vague, narrative events we are reading about were actual deaths, actual soldiers, actual &lt;em&gt;people&lt;/em&gt;. We see things as a series of chained events to understand, not an actual event that happened. When we read about the thousands of hands mutilated in the Congo we don’t even flinch, let alone feel the pain for one of our fingers to be removed. It’s not like the shock of assasinations, public statements, or word of mouth has changed for the last two thousands of years; but when we read about them in a sentence we feel nothing. This problem will only persist with history recorded for the 21th century if we let this continue.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The headlines of Roe v. Wade or Kanye West’s statements on InfoWars are sensational and beyond real: how would we feel if they just got summarized in a textbook as “The highly influential ruling by the Supreme Court led to radical protests across the country and for some marked the US complacency in progress.” Kinda bland, right?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps it’s too hard for us to even imagine these events as real without tangible proof. After all the worlds we learn about in history, like India’s partition or Chinese dynasties, are not only so physically far away for some of us but also extremely distant in the past. Textbooks only make this worse by condensing this into a very singular narrative of event &lt;em&gt;X&lt;/em&gt; leading to War &lt;em&gt;Y&lt;/em&gt; which resulted in the Treaty of &lt;em&gt;Z&lt;/em&gt;. While many teachers in this generation have done away with memorizing dates for good, the underlying problem of emphasis on events and not experience is a problem.&lt;/p&gt;
+
+&lt;p&gt;Even if the problem of history feeling like a straight story to be told is inevitable, it still can be done better. What makes stories interesting to most people is not just the ability to explore a new world (which history by definition can give!) but also its power to make us feel something. History classes should try to make us feel the same thing as the people we are learning about did. The collective &lt;em&gt;psyche&lt;/em&gt; of a nation during massive events is more moving than a description and at a level of deeper understanding.&lt;/p&gt;
+
+&lt;p&gt;Examples of this “psyche”:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;After Columbine, people were frightened to send their children to school and provided them with directions home.&lt;/li&gt;
+  &lt;li&gt;After Jonestown, people mocked those killed as crazy and hell-driven.&lt;/li&gt;
+  &lt;li&gt;After 9/11, the America re-evaluated Bush as a serious president and some races tried their best to be hidden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You may have heard the saying “drink the Kool-aid”, but have you listened to the chilling Death Tape hours in Guyana before tragedy?&lt;/p&gt;
+
+&lt;h2 id=&quot;my-solution-to-teach-history-better&quot;&gt;(My) Solution To Teach History Better&lt;/h2&gt;
+
+&lt;p&gt;Pretty simple. Use primary source accounts. In fact, just have students read autobiographies like &lt;em&gt;Narrative of the Life of Frederick Douglass&lt;/em&gt; detailing the experience of a slave or &lt;em&gt;Night&lt;/em&gt; by a Holocaust survivor’s time in camp. Factual accounts are often seen as the peripheral or supplementary but that needs to change - textbook events / lectures should only be there to help give a basic way of thinking about the events at the time required to understand primary sources.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In my opinion, this marks a shift away from history being about learning what happened in the past to &lt;em&gt;experiencing&lt;/em&gt; it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the motivations for learning history we are commonly told is from the famous Santayana quote: ​“Those who cannot remember the past are condemned to repeat it.” When we remember books or movies, we don’t remember what happened as much as what we felt when we went through them. History is likely no different: our years of education are numbered (well, for most of us), and if we want our experience in classroom history to be most fruitful for us to be able to cause future change it’s imperative that we remember them as best as possible. Heartstrings pull us into action, not words, and thus since reading first-hand sources is the best way to empathize with struggles in the past, it just may help prevent them from happening again. Otherwise, we are betting that we will remember numbers of tragedy decades later and furthermore, act on them.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Students should be thrilled to learn history. After all, it is the closest thing we have to time travel!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Experience Growing a Beard, And Then Shaving It</title>
+   <link href="http://localhost:4000/jekyll/update/2022/12/10/beards/"/>
+   <updated>2022-12-10T16:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/12/10/beards</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;This year, I participated in No Shave November (we don’t talk about how the other \(N^{3}\) went for me.) Almost a week in December, I decided to shave it off. While I have no regrets about shaving it off, I do want to remember what it felt like (without having to wait almost a month.) Hence, this account.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As usual, all advice given here is to be taken with not a grain of salt but a molecule.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;preliminary-growth&quot;&gt;Preliminary Growth&lt;/h2&gt;
+
+&lt;p&gt;I actually only realized I was not shaving in November a few days after when a decent stubble had already appeared. Photo below.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/light-beard.png&quot; width=&quot;150&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt; Beard as of 11/06&lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It looked okay, but was pretty itchy and overall pretty annoying. It didn’t form any kind of cohesive shape that was identifiable as a beard: put simply, it just looked like excess hair added on a clean-shaven face. It did get better, but the main thing during this step is to just not shave it nor obsess about it. Admit that it is NOT a beard, but will be soon.&lt;/p&gt;
+
+&lt;p&gt;For the most part and did feel discouraged by the slow growth. Luckily, I kept it on because only 4 days later, it was much more full.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/beard-11-10.png&quot; width=&quot;150&quot; /&gt;
+    &lt;figcaption&gt; Beard as of 11/10 &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tip: Be patient. Why? Not all hair grows at the same rate. &lt;br /&gt; Somebody write a differential equation to model beard growth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While this kind of a beard with stray hairs and even a little bald spot in the middle of the chin doesn’t look great to say the least, it does feel great. With my clean shaven face right now, I still find myself rubbing my chin hoping to feel the prickly sensation akin to mild acupuncture.&lt;/p&gt;
+
+&lt;p&gt;Here’s a list of all the things you can do with a beard:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make Fun of Your Friends Who Can’t Grow One&lt;/li&gt;
+  &lt;li&gt;Convince yourself you look better with it&lt;/li&gt;
+  &lt;li&gt;Enjoy the feeling of constant poking on your face (good for winter)&lt;/li&gt;
+  &lt;li&gt;Feel older&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;when-beards-suck&quot;&gt;When Beards Suck&lt;/h2&gt;
+
+&lt;p&gt;Basically, at a certain point in a beard enjoyer’s growth, the beard grows out of control. Hairs start to grow in incongruent directions and some extend farther out from your face than others. In other words, a mess. Furthermore, for me at least, my beard was not closing in all the way.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/bald-spot.png&quot; width=&quot;150&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt; Beard as of 11/18 &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The only good thing at this phase was the mustache. Lowkey wished I just kept the mustache and shaved everything off, but more on that later. Of course, the beard still have the same benefits, but its hideous appearance made it more of “oh, that &lt;em&gt;is&lt;/em&gt; a beard” than “damn, that is a beard.”&lt;/p&gt;
+
+&lt;p&gt;The only benefit to this was being able to claim that I participated in my skit group project playing Obi-Wan Kenobi by growing a beard.&lt;/p&gt;
+
+&lt;p&gt;However, that’s where trimmers come in. They remove excess hair on the sides and make the beard feel like something that was styled instead of accidental. During NSN, I only really did one trim. And it looked pretty fire afterward:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/trim-beard.png&quot; width=&quot;150&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt;After trim, 11/21&lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Trimming is a lot of work compared to a clean shave, but it is worth it. By far, this was the peak of my beard growth. One of the things before I started growing my (former) beard was just the pure time commitment. It requires basically nothing except dedication and genes for it to grow to a point where it feels good, but for it to look good - much more than clean shaving. I only did one trim because trims take way too long.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Still, grow a beard. At least try to. Decide once the beard is there whether or not you want to trim.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The only thing with trimming though is to be careful. You could accidentally shave off your entire beard if you use a trimmer not right for your size.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-post-trim-era&quot;&gt;The Post Trim Era&lt;/h2&gt;
+
+&lt;p&gt;Post trim, I let the beard do its thing and continuing growing. It once again regressed back to its hideous, unclean shape. I guess you could say a prt of me enjoyed having that unclean hair on my face because of its ability to show to people that I was tired.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/unclean-beard.png&quot; width=&quot;220&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt;A little longer after trim, cerca 11/25  &lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The photo above does a pretty good job at demonstrating the effect of the beard. If I was to smile today with my baby face, I would lack the inherent masculine and borderline aggressive vibes that my face used to give off. The effect of this all depends on those who view you, I guess.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-i-shaved&quot;&gt;Why I Shaved&lt;/h2&gt;
+
+&lt;p&gt;It’s actually pretty simple. It was already a few days into December, and not only did my mom continously tell me every 5 seconds the beard looked bad, I also had a business pitch coming up in a few weeks.&lt;/p&gt;
+
+&lt;p&gt;It mostly changed though when I got this message from a fellow classmate:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/message.png&quot; width=&quot;200&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt;The turning point, 12/2&lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Within a few days, I had decided to shave. The pressure was insurmountable and most of all, with November in the rearview mirror there was no real reason to keep it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While the benefits of the beard are real, the main one is to relive the experience of being clean-shaven the first time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I guess I knew about this the entire time. The main motivation ever-present in the back of my mind was to have the most satisfying clean shave possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-shaving-advice-dont-be-like-me&quot;&gt;Some shaving advice: don’t be like me&lt;/h3&gt;
+
+&lt;p&gt;On December 4th, my mom was yelling at me shortly before going to bed about how she would get extremely mad and take my computer if I slept past 1:30am. So, to hopefully make her happy + suprise her, I decided to shave.&lt;/p&gt;
+
+&lt;p&gt;However, I was stupid and decided to procrastinate this to after all my work was done which was around 1:40am. Despite watching countless shaving beard videos, my brain decided that I would be able to shave without first using a trimmer and then the razor. When I realized this, I also realized another crucial detail: the trimmer was in another room and I didn’t want to wake her up either.&lt;/p&gt;
+
+&lt;p&gt;By the time this astounding insight fell upon me, I had already shaved in some areas of my face. Even worse, the hair was so thick that it essentially clogged up the razor and at times made it unusable. I had to manually remove the hair and continue going at it. It took almost three latherings of shaving cream for it to finally come off. The ensuing result was not pretty.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/beard-assets/sink.png&quot; width=&quot;200&quot; /&gt;
+    &lt;figcaption&gt; &lt;i&gt;The sink @ 2am, 11/5 &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;However, after the shaving was all done, it was arguably one of the best moments of my life. I couldn’t stop smiling and noticing how much cleaner I looked.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion-try-it&quot;&gt;Conclusion: Try it&lt;/h2&gt;
+
+&lt;p&gt;I am still extremely grateful that I did actually try and commit to No Shave November. It felt amazing to venture into unknown territory, that too through only natural growth. My only suggestion is to&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;at least try to a beard one for three weeks before making the lame excuse you can’t. Then shave it off and suprise everybody with how good you look.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
+   <link href="http://localhost:4000/jekyll/update/2022/11/24/crawdads-tkam/"/>
+   <updated>2022-11-24T23:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/11/24/crawdads-tkam</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This thanksgiving I watched the movie &lt;em&gt;Where The Crawdads Sing&lt;/em&gt; with my family. As I was watching the suspenseful murder mystery, I had a suspicion that I made very well known to the 3 people around me that the book was very similar and related to &lt;em&gt;To Kill a Mockingbird&lt;/em&gt;. I searched up if anybody else had drew the parallels and sure enough they had.&lt;/p&gt;
+
+&lt;p&gt;Regardless, here are all the parallels I could draw.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting&quot;&gt;Setting&lt;/h2&gt;
+
+&lt;p&gt;This is by far the most obvious. &lt;em&gt;Where The Crawdads Sing&lt;/em&gt; and &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; were both set in the small, Southern towns during the 1960s. Both of them focus on the general idea of an outcast (more on this later) among a judgemental post-slavery society, albeit &lt;em&gt;To Kill a Mockingbird&lt;/em&gt;’s much more defined focus on racism.&lt;/p&gt;
+
+&lt;h2 id=&quot;similar-elements&quot;&gt;Similar Elements&lt;/h2&gt;
+
+&lt;h3 id=&quot;schooling&quot;&gt;Schooling&lt;/h3&gt;
+
+&lt;p&gt;Both &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; and &lt;em&gt;Where The Crawdads Sing&lt;/em&gt; depict on the impoverished conditions of American education. &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; shows Dill, a poor child attending school who cannot afford school lunch, and &lt;em&gt;Where The Crawdads Sing&lt;/em&gt; depicts Kya being teased as a poor rat when walking into the public school barefoot. Both of them show the low education standards and high poverty present even among whites in the South at the time.&lt;/p&gt;
+
+&lt;h3 id=&quot;racism&quot;&gt;Racism&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;To Kill a Mockingbird&lt;/em&gt; is the most directly focused on racism and is even thought to be modeled after the Scottsboro’s trial case. &lt;em&gt;Where the Crawdads Sing&lt;/em&gt; is less explicit but racism is clearly visible when the private inspectors call the African-American store owner, Jumpin, “boy” (derogatory term for African Americans during slavery era.)&lt;/p&gt;
+
+&lt;h3 id=&quot;outsiders&quot;&gt;Outsiders&lt;/h3&gt;
+
+&lt;p&gt;Prejudice against “outsiders” from a judgemental town are at the essence of both stories. In &lt;em&gt;To Kill a Mockingbird&lt;/em&gt;, the outsider is Boo Radley who is believed to be a ghost by the gossip of the town and Scout herself. In &lt;em&gt;Where the Crawdads Sing&lt;/em&gt;, the same outlandish judgement is given to Kya, better known to the town as the mysterious “Marsh Girl.” While a trial for Radley is never conducted, it is discussed towards the end as something that would hurt him in the same way as would a trial of Chase’s rape of Kya.&lt;/p&gt;
+
+&lt;h3 id=&quot;trial-case&quot;&gt;Trial Case&lt;/h3&gt;
+
+&lt;p&gt;This is by far the most obvious. Both &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; and &lt;em&gt;Where the Crawdads Sing&lt;/em&gt; are stories of the trial which unreveal uglier realities. The only difference in this case is that Kya, the one on trial, was actually guilty and not charged compared to Tom Robinson.&lt;/p&gt;
+
+&lt;h3 id=&quot;nature&quot;&gt;Nature&lt;/h3&gt;
+
+&lt;p&gt;For crying out loud, &lt;em&gt;Where the Crawdads Sing&lt;/em&gt; and &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; both have birds in their names! Beyond that &lt;em&gt;Where the Crawdads Sing&lt;/em&gt; is very focused on the deep interest of Kya in the nature and the world around her. &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; also has similar attention to nature with the bird imagery of “Finch” (an actual bird) all being birds, and the overall concept of birds not doing anything harmful in this world.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-one-is-better&quot;&gt;Which one is better?&lt;/h2&gt;
+
+&lt;p&gt;I’m not in a position to judge but &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; definitely seems better. Perhaps because I spent half a semester reading it and not a night watching it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Food for Thought: Word Predictability</title>
+   <link href="http://localhost:4000/jekyll/update/2022/11/09/word-association/"/>
+   <updated>2022-11-09T23:00:00-08:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/11/09/word-association</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an idea that’s been swirling for probably over an year now. Certain words seem to be extremely linked to other words. In other words, a word will almost always be preceeded by a word or a group of words before it. Now, this is not the obvious cases like using “of” in the blank after “States” in “United States __”; this is more the cases of using almost always using “water” after “bread” but not using vice versa.&lt;/p&gt;
+
+&lt;p&gt;Think of it as a fill-in-the blank challenge. Given some word or sets of word, what word will follow. Here are a few examples below.&lt;/p&gt;
+
+&lt;p&gt;“Give me some bread and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+
+&lt;p&gt;“I just need to put on my suit and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+
+&lt;p&gt;“That sweet and &lt;em&gt;__&lt;/em&gt; taste is amazing.”&lt;/p&gt;
+
+&lt;p&gt;“Who are you guys, Adam and &lt;em&gt;__&lt;/em&gt;?”&lt;/p&gt;
+
+&lt;p&gt;Those were pretty simple right? It wasn’t like you’ve memorized these pairs.&lt;/p&gt;
+
+&lt;p&gt;But you have learned them. In fact, this actually has a special name of being a &lt;strong&gt;collocation.&lt;/strong&gt; Collocations are words that are commonly said in one way and not reversed. You wouldn’t say “cons and pros” or “butter and bread”, now would you?&lt;/p&gt;
+
+&lt;p&gt;However, collocations are only one type of such word association where one or two words can effectively predict the next word. Another example would be the blank in “&lt;em&gt;__&lt;/em&gt; your bets” being “hedge”. Those aren’t necessary groups of words, as “protect”, “safeguard”, and “derisk” all would work, but basically work the same as collocation pairs.&lt;/p&gt;
+
+&lt;p&gt;The main point of showing these examples is to demonstrate that we actually don’t think about what we are going to say in terms of singular words but instead in terms of concepts/ideas/blocks. Beyond proper nouns, a simple proof of this is that we (well, most of us) can’t understand why we need the word “the”, instead of something like “a”, in the phrase “In &lt;em&gt;the&lt;/em&gt; interest of time”, but naturally say the phrase.&lt;/p&gt;
+
+&lt;p&gt;Predicting one word in a sentence from what has already is a miracle and a super interesting task that we do on a daily basis. Here are a few more to enjoy :)&lt;/p&gt;
+
+&lt;p&gt;“Oh for &lt;em&gt;__&lt;/em&gt;’s sake, do the dishes!”&lt;/p&gt;
+
+&lt;p&gt;“If &lt;em&gt;__&lt;/em&gt; permits, we can show a demo at the end.”&lt;/p&gt;
+
+&lt;p&gt;“That moment absolutely crushed my &lt;em&gt;__&lt;/em&gt; in humanity.”&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why Does Latex look so good?</title>
+   <link href="http://localhost:4000/jekyll/update/2022/11/04/latex/"/>
+   <updated>2022-11-04T00:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/11/04/latex</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve used LaTex for writing some stuff (check my &lt;a href=&quot;/notes&quot;&gt;notes&lt;/a&gt; lmao). In fact, if you’ve read some of the other articles here, you’ve seen latex before. It’s what allows me to render equations like:&lt;/p&gt;
+
+\[L^{a}t^{e}x = p_{r}^{e} \int ect\]
+
+&lt;p&gt;Latex &lt;em&gt;is&lt;/em&gt; perfect. Why does it look so good and feel so good to write?&lt;/p&gt;
+
+&lt;h2 id=&quot;code-like-writing&quot;&gt;Code-like writing.&lt;/h2&gt;
+
+&lt;p&gt;With latex, you still feel like you are coding while you are writing. It’s set with it’s own set of commands like \int for a nice \(\int\) or \begin{section} to start a new section of an article. Hell, you are even writing inside of a project with all the other files. You are literally &lt;strong&gt;compiling&lt;/strong&gt; the files. Need I say more? This makes you feel cool and productive compared to writing words on an MLA formatted Google Document for an in-class APLAC essay 💀&lt;/p&gt;
+
+&lt;h2 id=&quot;consistency-in-rendering&quot;&gt;Consistency in Rendering&lt;/h2&gt;
+
+&lt;p&gt;LaTex always looks the same. You can count on its section headers to look the same, and you know that when you request a bibliography for you it will be automatically alphabetized. You can write an equation, move it to another section, and it will look the same.&lt;/p&gt;
+
+&lt;h2 id=&quot;style&quot;&gt;Style&lt;/h2&gt;
+
+&lt;p&gt;Style is a weird thing to describe. Aesthethic is an even worse word to use, because that makes it just more abstract. But I guess the best way to describe LaTex in three words is professional, clean, and precise. The LaTex Rendering never fails to produce the cleanest font. It makes me feel like I’m a real scientist who knows what they’re doing.&lt;/p&gt;
+&lt;h2 id=&quot;how-to-use-latex&quot;&gt;How to Use Latex&lt;/h2&gt;
+
+&lt;p&gt;Just create another project on &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; and that’s it. Our you can select an arXiv preprint and start from there.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Falling Forward, Not Back: Drake</title>
+   <link href="http://localhost:4000/jekyll/update/2022/10/24/act/"/>
+   <updated>2022-10-24T00:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/10/24/act</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Aubrey Drake Graham, Falling &lt;del&gt;Back&lt;/del&gt; Off, Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This post is for pseudo-informational purposes and entertainment only.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So by this point, you’ve probably heard of Drake. He’s the guy who gave us the infamous Hotline bling meme, the most amount of &lt;em&gt;Billboard&lt;/em&gt; Music Awards, and easily over a hundred grammies. Needless to say, he is a big deal.&lt;/p&gt;
+
+&lt;p&gt;However, a lot of people have argued that his music has been steadily declining for the last five years since 2015. I wouldn’t go to that extent, but there is some truth in the fact that I find myself listening to a lot more of his past songs than his current songs. Maybe that’s a problem within rap itself, but for current rap music - Migos, 21 Savage, Juice WRLD (RIP) - I find myself listening to 2017-2019 songs compared to Drake - where I frequently go as back as 2011-2013.&lt;/p&gt;
+
+&lt;p&gt;Ironically, Headlines - easily one of Drake’s best songs - has this line in it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I had someone tell me I fell off, ouh I needed that&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Yet somehow, still so many feel he fell off.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-good-drakes-best&quot;&gt;The Good: Drake’s Best&lt;/h2&gt;
+
+&lt;p&gt;Let’s start of with the good. Drake for sure has plentiful good songs - after all, you don’t enjoy success without some talent.&lt;/p&gt;
+
+&lt;p&gt;A list of (my opinion ofc) Drake’s best songs are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Headlines&lt;/em&gt; (&lt;strong&gt;2011&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Marvin’s Room&lt;/em&gt; (&lt;strong&gt;2011&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Energy&lt;/em&gt; (&lt;strong&gt;2015&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Forever&lt;/em&gt; (&lt;strong&gt;2009&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Too Good&lt;/em&gt; (&lt;strong&gt;2016&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Do Not Disturb&lt;/em&gt; (2017)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Fake Love&lt;/em&gt; (2017)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Worst Behavior&lt;/em&gt; (&lt;strong&gt;2013&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;From Time&lt;/em&gt; (&lt;strong&gt;2013&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Take Care&lt;/em&gt; (&lt;strong&gt;2011&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Hold On, We’re Going Home&lt;/em&gt; (&lt;strong&gt;2013&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Pound Cake + Paris Morton 2&lt;/em&gt; (&lt;strong&gt;2013&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A Keeper&lt;/em&gt; (&lt;strong&gt;2022&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Sticky&lt;/em&gt; (2022)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Portland&lt;/em&gt; (2017)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Falling Back&lt;/em&gt; (2022)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;sup&gt;&lt;sub&gt;I didn’t bold the 2017 songs, even though that’s five years ago!&lt;/sub&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;You might be suprised by the last two. I do think those are decent songs by Drake in the future, and promising of perhaps a new wave of talent. Same goes with his featured verse on &lt;em&gt;Churchill Downs&lt;/em&gt; - his verse was good to the point where videos have arised of his section only.&lt;/p&gt;
+
+&lt;p&gt;But from the list, I think it’s clear for the most part we’re 5 years past his prime.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-the-downfall&quot;&gt;Why the downfall?&lt;/h2&gt;
+
+&lt;p&gt;I’m not really experienced in Drake or analyzing celebrities, but I think based on my preliminary research it mostly comes down to the lack of originality and high predictability.&lt;/p&gt;
+
+&lt;p&gt;Lot of people criticize for Drake not trying since his albums &lt;em&gt;Views From the Six&lt;/em&gt;. Since then, he has released infamous albums &lt;em&gt;Certified Love Boy&lt;/em&gt; and &lt;em&gt;Honestly, Nevermind&lt;/em&gt;. Aside from &lt;em&gt;Falling Back&lt;/em&gt; or &lt;em&gt;Sticky&lt;/em&gt;, neither really had that great songs compared to his past. CLB in particular has been described as having boring beats and using a monotone, tuned out voice. This is in contrast to his past songs like &lt;em&gt;Marvin’s Room&lt;/em&gt; and &lt;em&gt;Headlines&lt;/em&gt; which had more complex tunes and beats. &lt;em&gt;Worst Behavior&lt;/em&gt; and &lt;em&gt;Energy&lt;/em&gt; both also demonstrate a good use of a passionate voice than something with a tuned-out voice like &lt;em&gt;Girls Want Girls&lt;/em&gt;. While the argument could be made that there is just a natural appreciation for loud, energetic sounds, a lack of diversity in an album is never a pro. Maybe this is just a meta point about rap songs by artists these days than anything else.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-this-to-be-expected&quot;&gt;Is this to be expected?&lt;/h2&gt;
+
+&lt;p&gt;To some extent, yes. The pressure of being a star is insurmountable and expecting consistent hits is unreasonable. But, artists like Kendrick Lamar have delivered consistently creative songs. People wouldn’t place this much attention to Drake’s supposed downfall if they didn’t believe he couldn’t do better.&lt;/p&gt;
+
+&lt;p&gt;This is the conclusion of this rant. Don’t take anything here seriously.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gradient Descent Revisited As Euler's Method</title>
+   <link href="http://localhost:4000/jekyll/update/2022/10/11/gradient-descent-euler/"/>
+   <updated>2022-10-11T00:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/10/11/gradient-descent-euler</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Gradient Descent, Euler’s Method, Differential Equation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve already talked a fair amount about Gradient Descent. One of the most fascinating things about Gradient Descent is the amount of ways in which it secretly packs calculus concepts together. Aside from the fact that it literally uses &lt;em&gt;gradient&lt;/em&gt;s, or partial derivatives, gradient descent is also derived from a &lt;a href=&quot;2022-09-27-mltaylorseries%20copy.markdown&quot;&gt;Taylor Series&lt;/a&gt; which I’ve detailed before. Today I’d like to detail Gradient Descent in further detail as actually an application of Euler’s Method.&lt;/p&gt;
+
+&lt;h2 id=&quot;gradient-descent-as-a-differential-equation&quot;&gt;Gradient Descent as a Differential Equation&lt;/h2&gt;
+
+&lt;p&gt;As a refresher Gradient Descent is:&lt;/p&gt;
+
+\[\theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J\]
+
+&lt;p&gt;Unlike with the Taylor Series article, this time we will be keeping the learning rate \(\alpha\) into consideration.&lt;/p&gt;
+
+&lt;p&gt;Gradient Descent can actually be summarized as this Differential Equation.&lt;/p&gt;
+
+\[\dfrac{∂\theta_{t}}{∂t} = -\alpha \dfrac{∂J(\theta_{t})}{∂\theta_{t}}\]
+
+&lt;p&gt;This differential equation is obviously unsolvable. A common way of approximating a function when an unsolvable differential equation is given is to use Euler’s method.&lt;/p&gt;
+
+&lt;h2 id=&quot;primer-on-eulers-method&quot;&gt;Primer on Euler’s Method&lt;/h2&gt;
+
+&lt;p&gt;Euler’s Method is a way to approximate any function’s value giving an initial starting point and it’s differential equation. For the given \(y(0)=0\) and unsolvable differential equation \(\dfrac{dy}{dx} = \lvert x \rvert\), we can solve for \(y(2)\) by choosing a set number of iterations \(n\) and working our approximation up.&lt;/p&gt;
+
+&lt;p&gt;So for example if we want to do only 2 iterations, we would increase \(x\) by 1 each time. The step to first calculate \(y(1)\) is shown below.&lt;/p&gt;
+
+\[y(1) \approx y(0) + \Delta x*y&apos;(0)\]
+
+&lt;p&gt;where in this case \(y&apos;(0)\) would represent the derivative of \(y\) at \(x=0\) and \(\Delta x\) gives the change in x (which in our case is 1). This would give us an approximation of \(y(1) \approx 0\).&lt;/p&gt;
+
+&lt;p&gt;We could redo this one more time and get \(y(2) \approx y(1) + y&apos;(1)\), yielding \(y(2) \approx 1\). Of course this approximation is not accurate - however as the stepsize \(\Delta x\) approaches to 0 the approximations will get more accurate but there will be a lot more iterations. Hey, with gradient descent they always say a lower learning rate of \(\alpha\) does better but requires more iterations – I sense some very big similarities.&lt;/p&gt;
+
+&lt;h2 id=&quot;gradient-descent-conclusion&quot;&gt;Gradient Descent Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Let’s look at our algo again - gradient descent is given by \(\theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J\), thus we can see that it is basically euler’s method with a step size of \(\alpha\), however done in reverse (hence the negative in the step size.)&lt;/p&gt;
+
+&lt;p&gt;Yet another perspective on how to view Gradient Descent. More to come.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Photograph Birds List</title>
+   <link href="http://localhost:4000/jekyll/update/2022/10/04/birdslist/"/>
+   <updated>2022-10-04T00:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/10/04/birdslist</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: These are all of birds near San Francisco, California. East-coast birds that I have seen are mostly excluded here.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bird-background&quot;&gt;Bird Background&lt;/h2&gt;
+
+&lt;p&gt;For the last year, I’ve gone outside and taken photos of specifically birds (yes those things) in my backyard, neighborhood, and local parks and forests. It’s pretty fun and one of the bird things I’ve always wanted to do is to maintain a list of all the bird’s I’ve photographed (the second is to make a tier list).&lt;/p&gt;
+
+&lt;h2 id=&quot;birds-photographed&quot;&gt;Birds Photographed&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;California Scrub Jay&lt;/li&gt;
+  &lt;li&gt;Lesser Goldfinch&lt;/li&gt;
+  &lt;li&gt;Black Phoebe&lt;/li&gt;
+  &lt;li&gt;House Finch&lt;/li&gt;
+  &lt;li&gt;Western Bluebird&lt;/li&gt;
+  &lt;li&gt;American Robin&lt;/li&gt;
+  &lt;li&gt;White-Throated Sparrow&lt;/li&gt;
+  &lt;li&gt;Chestnut-Backed Chickadee&lt;/li&gt;
+  &lt;li&gt;Dark-eyed Junco&lt;/li&gt;
+  &lt;li&gt;California Towhee&lt;/li&gt;
+  &lt;li&gt;Mourning Dove&lt;/li&gt;
+  &lt;li&gt;White-crowned sparrow&lt;/li&gt;
+  &lt;li&gt;Gold-crowned sparrow&lt;/li&gt;
+  &lt;li&gt;American Robin&lt;/li&gt;
+  &lt;li&gt;Barn Swallow&lt;/li&gt;
+  &lt;li&gt;Yellow-rumped warbler&lt;/li&gt;
+  &lt;li&gt;Anna’s Hummingbird&lt;/li&gt;
+  &lt;li&gt;Ruby Throated Hummingbird&lt;/li&gt;
+  &lt;li&gt;Bald Eagle&lt;/li&gt;
+  &lt;li&gt;Pine Siskin&lt;/li&gt;
+  &lt;li&gt;American Tree Sparrow&lt;/li&gt;
+  &lt;li&gt;Brown-headed cowbird&lt;/li&gt;
+  &lt;li&gt;Tree Swallow&lt;/li&gt;
+  &lt;li&gt;Acorn Woodpecker&lt;/li&gt;
+  &lt;li&gt;Brewer’s Blackbird&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;locations-photographed&quot;&gt;Locations Photographed&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Includes even one photograph.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bay Area, California&lt;/li&gt;
+  &lt;li&gt;San Francisco, California&lt;/li&gt;
+  &lt;li&gt;Half Moon Bay, California&lt;/li&gt;
+  &lt;li&gt;Denali, Alaska&lt;/li&gt;
+  &lt;li&gt;Princeton, New Jersey&lt;/li&gt;
+  &lt;li&gt;Philadelphia, Pennsylvania&lt;/li&gt;
+  &lt;li&gt;Anne Arundel County, Maryland&lt;/li&gt;
+  &lt;li&gt;Ithaca, New York 😉&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bird-tiers&quot;&gt;Bird Tiers&lt;/h2&gt;
+
+&lt;p&gt;I will be ranking birds now in terms of my experiences photographing them and my general appreciation of their beauty in my photographs.&lt;/p&gt;
+
+&lt;h2 id=&quot;tier-3-mid-birds&quot;&gt;Tier 3: Mid Birds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Brewer’s Blackbird&lt;/li&gt;
+  &lt;li&gt;Pine Siskin&lt;/li&gt;
+  &lt;li&gt;Brown-Headed cowbird&lt;/li&gt;
+  &lt;li&gt;Mouring Dove&lt;/li&gt;
+  &lt;li&gt;California Towhee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tier-2-birds-that-ill-happily-take-a-photograph-of&quot;&gt;Tier 2: Birds that I’ll happily take a photograph of&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lesser Goldfinch&lt;/li&gt;
+  &lt;li&gt;Pine Siskin&lt;/li&gt;
+  &lt;li&gt;Black Phoebe&lt;/li&gt;
+  &lt;li&gt;Dark-Eyed Junco&lt;/li&gt;
+  &lt;li&gt;House Finch&lt;/li&gt;
+  &lt;li&gt;Western Bluebird&lt;/li&gt;
+  &lt;li&gt;White-crowned / Gold-crowned Sparrow&lt;/li&gt;
+  &lt;li&gt;Yellow-rumped warbler&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tier-1-birds-that-are-rare&quot;&gt;Tier 1: Birds that Are Rare&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;California Scrub Jay&lt;/li&gt;
+  &lt;li&gt;American Robin&lt;/li&gt;
+  &lt;li&gt;Tree Swallow&lt;/li&gt;
+  &lt;li&gt;Barn Swallow&lt;/li&gt;
+  &lt;li&gt;Song Sparrow&lt;/li&gt;
+  &lt;li&gt;Bald Eagle&lt;/li&gt;
+  &lt;li&gt;Spotted Towhee&lt;/li&gt;
+  &lt;li&gt;American Tree Sparrow&lt;/li&gt;
+  &lt;li&gt;Acorn Woodpecker&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hidden Taylor Series in Theoretical Machine Learning</title>
+   <link href="http://localhost:4000/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
+   <updated>2022-09-26T00:49:49-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/09/26/mltaylorseries copy</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This article hopes to provide an alternate look at some of the most foundational algorithms in machine learning, namely Gradient Descent and Polynomial Regression, from an angle of Taylor Series. 
+Taylor Series are an extremely nice approximation method from calculus and are actually quite common in machine learning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Machine Learning is about creating functions to model (i.e. approximate) functions in data - Taylor series is about approximating functions as well; it should come as no suprise that they are related in many cases.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;taylor-series-primer&quot;&gt;Taylor Series Primer&lt;/h2&gt;
+
+&lt;p&gt;So, what are taylor series? I won’t go into the proof here, because I don’t remember it and I don’t think its required, but the main detail is that Taylor Series are a way to approximate any function \(f(x)\) at a given point \(c\) using an infinite sum of polynomials. It’s formula is shown below:&lt;/p&gt;
+
+\[f(x)=\sum_{n=0}^\infty f^{(n)}(c)\frac{(x-c)^n}{n!} = f(c) + f^{(1)}(c)(x-c) + \dfrac{f^{(2)}(c)(x-c)^2}{2} + \ldots\]
+
+&lt;p&gt;Where \(f^{(n)}(c)\) represents the \(n\)-th derivative (or just \(f(c)\) if \(n\) is 0), at a point of \(x=c\). Above, we only explicitly show the summation up to the second degree term - if we were to remove the other terms \(\ldots\), we would be left with the &lt;em&gt;second-degree approximation&lt;/em&gt; of \(f(x)\). Using finite approximations of a taylor series will become important later, as infinite summations are not always possible in a computer.&lt;/p&gt;
+
+&lt;p&gt;On with the examples!&lt;/p&gt;
+
+&lt;h2 id=&quot;taylor-series-in-gradient-descent&quot;&gt;Taylor Series in Gradient Descent&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Before reading about the usage of Taylor Series in gradient descent, keep in mind that many different calculus concepts (not just taylor series!) play into gradient descent.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gradient Descent is an iterative algorithm to generally optimize some function overtime based on its gradient (vector of partial derivatives.) The gradient yields a vector that tells the fastest way to ascend a curve - with gradient &lt;em&gt;descent&lt;/em&gt; you try to go &lt;em&gt;down&lt;/em&gt; the curve and thus constantly move in the negative of this gradient (moving with the positive is called gradient ascent). Gradient Descent is shown below.&lt;/p&gt;
+
+\[\theta_{t} = \theta_{t - 1}  - \alpha * \nabla_{\theta_{t - 1}} J\]
+
+&lt;p&gt;For more clarification, \(\theta_{t}\) are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep \(t\) and \(\nabla_{\theta_{t - 1}} J\) represents the gradient of the objective function \(J\) that we are trying to minimize. It’s not shown, but \(J\) takes in the parameters \(x, y\) and \(\theta\).  As stated, we move in the direction of the negative of the gradient. \(\alpha\) is the learning rate and is applied to scale the gradient and prevent too high movements.&lt;/p&gt;
+
+&lt;p&gt;Gradient Descent can be re-thought of as finding some value \(\Delta \theta\) to adjust \(\theta_{t - 1}\) at each iteration \(t\) such that \(J(\theta_{t - 1} + \Delta \theta)\) is less than \(J(\theta_{t - 1})\). This is where taylor series come in - they help us find this required change. The taylor series to approximate the new value of the objective function to the first-degree is shown below.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Disclaimer: My linear algebra and multivariable calculus skills are kinda DNE, so please don’t try to inspect every term and make sure that the shapes all match up (probably missing a transpose here and there). Instead try to built intuition of the general approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+\[J(\theta_{t - 1} + \Delta \theta) \approx J(\theta_{t - 1}) + \nabla_{\theta_{t - 1}} J * \Delta \theta\]
+
+&lt;p&gt;This is a bit confusing, so let’s clarify, in this case the \(x\) in the approximation of \(f(x)\) is actually \(\theta_{t - 1} + \Delta \theta\) and thus the taylor series is centered at a point \(c\) of \(\theta_{t - 1}\). This means that the first-degree term \(x - c\) actually equals just \(\Delta \theta\).&lt;/p&gt;
+
+&lt;p&gt;This is where it gets clever. Given that we set \(J(\theta_{t - 1})\) or \(J(\theta_{t - 1} + \Delta \theta)\) to be less than \(J(\theta_{t - 1})\), to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing \(J(\theta_{t - 1})\) with negatives from the first-degree expression (\(\nabla_{\theta_{t - 1}} J * \Delta\theta\)) to it. We could just set \(\Delta \theta\) to \(-1\), but because \(\nabla_{\theta{t - 1}} J\) is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of \(\Delta \theta\) that will make \(\nabla_{\theta{t - 1}} J\) ALL negative.&lt;/p&gt;
+
+&lt;p&gt;This is actually much easier than expected. Just set \(\Delta \theta\) to the &lt;em&gt;negative&lt;/em&gt; of \(\nabla_{\theta{t - 1}} J\) and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.&lt;/p&gt;
+
+&lt;p&gt;This means that in our (minimization) algorithm of Gradient Descent, with \(\alpha\) for stability, we have:&lt;/p&gt;
+
+\[\theta_{t} = \theta_{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta{t - 1}} J\]
+
+&lt;p&gt;That’s gradient descent!&lt;/p&gt;
+
+&lt;p&gt;A lot of this information was taken from &lt;a href=&quot;https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf&quot;&gt;here&lt;/a&gt; and summarized to be less confusing and more intuitive here. We can expand this method to actually include second and third derivatives as well - but those aren’t used as much due to requiring more computational power (sorry for the explanation that literally &lt;em&gt;everyone&lt;/em&gt; gives.)&lt;/p&gt;
+
+&lt;h2 id=&quot;taylor-series-in-polynomial-regression&quot;&gt;Taylor Series in Polynomial Regression&lt;/h2&gt;
+
+&lt;p&gt;Weeee that was a lot of work for gradient descent! Luckily, applications of taylor series in polynomial regression is much more straightforward.&lt;/p&gt;
+
+&lt;p&gt;Polynomial regression is basically a type of linear regression where a single input (let’s stick to one-dimensional input for simplicity) is raised to higher powers and then the appropriate coefficients are found. The prediction function for a two-degree polynomial regression is shown below.&lt;/p&gt;
+
+\[\hat{y} = h(x) = \beta_{0} + \beta_{1}x + \beta_{2}x^{2}\]
+
+&lt;p&gt;As shown above, \(\hat{y}\) are the predictions and \(\beta_{n}\) are the coefficients for \(x\) raised to the \(n\)-th power. Already looks like a taylor series (or maclaurin series as \(c = 0\)) right?&lt;/p&gt;
+
+&lt;p&gt;In fact, it is! It’s that simple. Let’s see if this actually works in practice.&lt;/p&gt;
+
+&lt;h3 id=&quot;empirical-experiment-with-exponentials&quot;&gt;Empirical Experiment with Exponentials&lt;/h3&gt;
+
+&lt;p&gt;Alliteration, huh? Okay, so the famous taylor series of the function \(e^{x}\) is shown below.&lt;/p&gt;
+
+\[e^{x} = \sum_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots\]
+
+&lt;p&gt;Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with &lt;a href=&quot;https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html&quot;&gt;scikit-learn&lt;/a&gt;’s in Python, that takes in \(x\) and \(x^{2}\) as input - will it learn \({1, 1, 0.5}\) as \(\beta_{0}, \beta_{1}, \beta_{2}\) respectively?&lt;/p&gt;
+
+&lt;p&gt;Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sklearn.linear_model&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt; 
+
+&lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;
+we&apos;ll generate from a normal distribution as the 
+second-degree polynomial approximates best in this range.
+&quot;&quot;&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples 
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# labels
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We can now construct the \(X^{2}\) data. We’ll merge into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X_poly&lt;/code&gt; which will contain two columns - the first one for \(X\) and the second one for \(X^{2}\).&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;concatenate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Let’s apply Linear Regression.&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm 
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Let’s inspect the coefficients \(\beta_{1}, \beta_{2}\).&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coef_&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.24106858&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;mf&quot;&gt;2.25427569&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;And the bias \(\beta_{0}\).&lt;/p&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intercept_&lt;/span&gt;
+&lt;span class=&quot;mf&quot;&gt;1.5053263303981406&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Looks like it won’t.&lt;/p&gt;
+
+&lt;p&gt;My hypothesis is that if you use a higher-degree approximation (and of course have much more data), it will be more likely the coefficients will slowly fall in line with the &lt;em&gt;true&lt;/em&gt; taylor polynomial. In our case, given that it only had a sample of \(e^{x}\) and not the whole infinite set of values, it is to be expected that not the precise values were found as these values actually could have minimized the mean-squared error more for this specific training set \(X\).&lt;/p&gt;
+
+&lt;p&gt;Also,  if Polynomial Regression is a taylor series polynomial then linear regression is a first-degree taylor series?&lt;/p&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;Review&lt;/h2&gt;
+
+&lt;p&gt;Congrats on making it here!&lt;/p&gt;
+
+&lt;p&gt;Taylor Series are a great way to approximate any function into polynomials. They have a lot of hidden applications in machine learning mathematics. We went over their role in helping determine how to move iteratively in Gradient Descent and it’s very clear application to Polynomial Regression.&lt;/p&gt;
+
+&lt;p&gt;Please let me know what more theoretical machine learning applications you find! Thanks for reading.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An explanation of Pareto's Principle</title>
+   <link href="http://localhost:4000/jekyll/update/2022/09/25/paretoprinciple/"/>
+   <updated>2022-09-25T00:49:49-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/09/25/paretoprinciple</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Pareto’s Principle, 80/20 rule, Distribution of Outcomes, Applications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A while ago (more like 4 years ago) I discovered Pareto’s principle - also known as the 80/20 rule - which states that’s 80% of outputs result from 20% of the inputs. Less abstractly, this means that 20% of the input to anything, such as time or effort, will lead to 80% of the actual outputs. For example, only 20% of the features on Microsoft Word will actually be used by 80% of the users whereas the remaining 80% of the features will be used by 20% of the users.&lt;/p&gt;
+
+&lt;p&gt;Pareto’s distribution is stunningly applicable. 80% of the crimes are commited by 20% of registered criminals, and 80% of a business’s wealth comes from only 20% of the clients. 20% of the apps on your phone likely are used 80% of the time. This distribution does not need to be exactly 80/20; in some cases it can even go down to 95/5 or even 99/1 (e.g. distribution of wealth across population).&lt;/p&gt;
+
+&lt;p&gt;So, how can we use Pareto’s principle in our daily lives? Internalizing the exponential nature in our lives is probably the best way to implement it. If we want a 90 on a test, we’ll only need to put in about half of the effort and time studying compared to getting a 97+. The same goes for standardizing testing; scores are gradually harder to get at the top. Keeping in mind the 80/20 rule can help us decide when the extra mile is excessive or essential.&lt;/p&gt;
+
+&lt;p&gt;So now we’ve gone over the how and what - only the &lt;em&gt;why&lt;/em&gt; remains. Any ideas on why our world and outcomes are distributed this way? My guess is that the underlying reason of the 80/20 rule is disparity and inequity - one group having much more extreme outliers that overpower all others. The world is moving at an &lt;a href=&quot;https://www.su.org/blog/thriving-in-an-exponential-world-and-making-a-difference-doing-so&quot;&gt;exponential rate&lt;/a&gt;; the most successful stocks (which are extremes in themselves) almost always follow exponential curves as compared to linear ascents. Moore’s law literally forecasts that the number of transistors on a microchip double every 2 years; it’s no secret that &lt;a href=&quot;https://en.wikipedia.org/wiki/Accelerating_change&quot;&gt;we also think the world is constantly growing faster&lt;/a&gt; than it ever has before. In short, Pareto’s principle seems to be very common when disparity or a gap grows uncontrollably. In our world, that’s not too uncommon.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Yet Another Comparison of Svelte & React</title>
+   <link href="http://localhost:4000/jekyll/update/2022/09/21/sveltevreact/"/>
+   <updated>2022-09-21T00:00:00-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/09/21/sveltevreact</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on &lt;a href=&quot;https://dayssincelastjavascriptframework.com/&quot;&gt;getting released every single day&lt;/a&gt; and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.&lt;/p&gt;
+
+&lt;p&gt;React is a framework brought to us by Facebook and is widely considered the most popular JavaScript frontend framework there is. Svelte meanwhile is a relatively new framework introduced by Rich Harris, a journalist for the New York Times, focused on developing small-scale, light web applications. As far as Stack Overflow surveys go, there is an interesting split between them - while React is the most &lt;em&gt;wanted&lt;/em&gt; framework, Svelte is the most &lt;em&gt;loved&lt;/em&gt; framework among current developers. Based on my experience thus far, I kind of can see why that is. More on that later. For now, here are the major differences that I felt.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-usestate-in-react-sucks&quot;&gt;1. useState() in React Sucks&lt;/h2&gt;
+
+&lt;p&gt;This is probably the biggest thing I can think about between React and Svelte. In Svelte, whenever you have a reactive variable you want to change (which also is used in rendering for-loops or conditionals), you just change it. Just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foo = &quot;bar&quot;&lt;/code&gt; and you are done!&lt;/p&gt;
+
+&lt;p&gt;In React, though, a clunky state management solution is provided, where you have to first initialize the default value with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;useState(default)&lt;/code&gt; and then use the provided functions (e.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foo&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;setFoo&lt;/code&gt;) to update your variables instead of assignment (as aforementioned for Svelte.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://preview.redd.it/twvap8pq9fg91.png?width=680&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9bd1e81563e26210644561038b221d25b481bc23&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Because I started out with Svelte and then React, I forget so many times (often for 2 hours at a time) that I can’t just use assignment and instead need to go with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;useState&lt;/code&gt;. Considering React is older than Svelte, it is somewhat expected that Svelte would have the edge on this one.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-react-styling&quot;&gt;2. React Styling&lt;/h2&gt;
+
+&lt;p&gt;In React, you can either attach another stylesheet or you can use inline styles (in JSON) to the individual components themselves. This is likely just personal preference, but I find it annoying to have to link each component to another css file (~2x more files that way), or to use inline styles.&lt;/p&gt;
+
+&lt;p&gt;Compared to this, Svelte offers either using inline styling or separate styles in the same file as your HTML the same way as vanilla HTML. This is one of the examples where Svelte demonstrates its ridiculously low learning curve.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-performance&quot;&gt;3. Performance&lt;/h2&gt;
+
+&lt;p&gt;React is said to treat your model as a blackbox and calculate the difference between what is currently on the page and what should be on the page in a theoretical DOM known as the virtual DOM. Svelte, on the other hand, takes the approach of not using the virtual DOM and instead compiling components at build in a way where the code will take care of whatever rendering changes need to take place. This has been noted to make Svelte have the edge in performance; the Svelte website goes as far as saying the idea that the vDOM makes applications faster is a &lt;a href=&quot;https://svelte.dev/blog/virtual-dom-is-pure-overhead&quot;&gt;“suprising resilient meme”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The main idea stated by Svelte is that even if the DOM is slow, adding another vDOM will only make things slower as the native DOM will eventually have to be changed. Furthermore, they point that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;useState&lt;/code&gt; function in React can in some cases lead to parts of applications rerendering even when not needed.&lt;/p&gt;
+
+&lt;p&gt;For fairness, I’ve only really argued for Svelte thus far (and based pretty closely on their own article.) However, other sources also confirm this and the fact that Svelte is &lt;a href=&quot;https://massivepixel.io/blog/svelte-vs-react/&quot;&gt;nearly 26x more lightweight compared to React&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-popularity&quot;&gt;4. Popularity&lt;/h2&gt;
+
+&lt;p&gt;It would be foolish to discard popularity in this discussion. React, hands down, has more popularity. Svelte has 62K stars, React has almost 200K and has been used in plenty of websites.&lt;/p&gt;
+
+&lt;p&gt;Thus, it follows that when it comes to UI libraries and other community open-source tools React likely will have much better support.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-remarks&quot;&gt;Final Remarks&lt;/h2&gt;
+
+&lt;p&gt;Both Svelte and React are decent frameworks with intended uses. Given the popularity difference,Svelte makes sense to be primarily for much smaller stuff, whereas React is for building larger websites.&lt;/p&gt;
+
+&lt;p&gt;Back to what I was saying about the most &lt;em&gt;wanted&lt;/em&gt; vs. most &lt;em&gt;loved&lt;/em&gt;. Thus far, I still prefer Svelte to React. It’s extremely similar to raw HTML/CSS/JS and takes basically no effort to learn (very easy learning curve.) In fact, I think it’s easier to learn Svelte first than it is to learn HTML and JS first. However, despite me loving Svelte, I felt that I needed to learn React to collaborate with others on projects, such as the current project to build a coding competition website and grading server for our school’s computer science club with 3-4 other devs.&lt;/p&gt;
+
+&lt;p&gt;While React isn’t as good as Svelte for me, it isn’t terrible and &lt;em&gt;it’s allowing bigger collaborations with more people. After all, that probably matters more.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Attempts at Closed-Form Logistic Regression</title>
+   <link href="http://localhost:4000/jekyll/update/2022/09/20/closed-form-logreg/"/>
+   <updated>2022-09-20T16:27:08-07:00</updated>
+   <id>http://localhost:4000/jekyll/update/2022/09/20/closed-form-logreg</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s work our way up from the start. Linear Regression is a ubiquitous algorithm in machine learning today, which is most commonly performed through iterative gradient descent. However, another method that I find pretty fascinating is the closed-form solution called the &lt;em&gt;Normal Equation&lt;/em&gt;, where instead of iteratively trying to minimize \(L = \sum_{i=1}^{N} (mx_{i} + b - y_{i})^2\), (\({m, b}\) are the parameters), a solution of what value of \(m\) sets \(\dfrac{dL}{dm}\) to 0 is found. The bias \(b\) is then found as \(\bar{y} - m\bar{x}\), where \(\bar{z}\) is the average of a set \(z\). Thus this solution is called &lt;em&gt;closed-form&lt;/em&gt; as it takes a known amount of mathematical operations to solve.&lt;/p&gt;
+
+&lt;p&gt;However, this is old news. Unfortunately, this style of optimization is only possible for simple linear regression. The main reason for this is that the derivative of a linear model is really simple, compared to something like a composite neural network, which likely will require endless chain rule. The closest thing I could find to Linear Regression that has a different shape (hence ridge regression not included) is Logistic Regression, where predictions of \(y_{i}\) are modeled as \(\sigma(mx_{i} + b)\), where \(\sigma\) is the logistic (hence the name) function. The thing to remember though is that Logistic Regression is not really a regressor, but actually a binary classifier model.&lt;/p&gt;
+
+&lt;p&gt;My question is whether we actually can try to create a closed-form solution for Logistic Regression. Two years ago, I tried doing exactly &lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/no5q8j/p_potential_logistic_regression_closed_form/&quot;&gt;this&lt;/a&gt; with such a lazy method that yieled itself a rightful 0 upvotes on r/MachineLearning. Instead of this really bad method, how about trying to edit the current linear Normal Equation for our case? A really good derivation of the Normal Equation can be found &lt;a href=&quot;https://eli.thegreenplace.net/2014/derivation-of-the-normal-equation-for-linear-regression/&quot;&gt;here&lt;/a&gt; - Perhaps, let’s see if we can modify the objective function to make it more logistic-y and see where that takes us?&lt;/p&gt;
+
+&lt;p&gt;The objective function is defined as \(L = \dfrac{(X\theta - y)^{T}(X\theta - y)}{N}\) (let’s stick to \(\theta\) instead of \(m\) to look smarter) where \(X\) is the training feature matrix, \(\theta\) is weight vector (multi-dimensional \(m\)), and \(y\) is the labels vector. We would modify this to contain \(\sigma(X\theta)- y\), and soon it becomes clear this approach probably will not work as the resulting expression (before differentiation) will contain a lot of \(\sigma(X\theta^{T})\sigma(X\theta)\) which is too annoying for my brain to work with. Nobody, promised there would be a solution right?&lt;/p&gt;
+
+&lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y_{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function 
+(\(\dfrac{1}{1 + e^{-x_{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x_{i}} - 1)\). Definitely not the worst thing in the world!&lt;/p&gt;
+
+&lt;p&gt;Let’s specify this inverse as \(\sigma&apos;\) and take a step back. We need to apply the function \(\sigma&apos;\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!&lt;/p&gt;
+
+&lt;p&gt;So far, we have tried a closed-form solution and then layering modifications of inputs and predictions on top of a standard linear closed-form solve. If anything, these examples demonstrate why the logistic regression has no closed-form solution. I believe it is always better to fail yourself than to take somebody else’s word that the &lt;a href=&quot;https://youtu.be/32ZemGEYraY?t=76&quot;&gt;transcedental equation&lt;/a&gt; is why there is no logistic regression closed-form solution. The intuitive explanation I could come up with is that closed-form solutions don’t work as well when not trying to draw a line not to predict values (regression) but instead trying to separate areas (classification).&lt;/p&gt;
+
+&lt;p&gt;This is the end of our journey. Please let me know what errors I may have made or whatever you find. Thanks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
