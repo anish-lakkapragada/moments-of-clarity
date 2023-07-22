@@ -11,4 +11,5 @@ Here's a few of them.
 - How everyone's life is infinitely different but ultimately the same
 - How the value of a happy memory grows over time
 - The fact that we experience time only as an increasing dimension
+- How well all understand each other, but our headspaces are different
 - [The importance of things I'll forget](/jekyll/update/2023/07/21/hardquestions)
