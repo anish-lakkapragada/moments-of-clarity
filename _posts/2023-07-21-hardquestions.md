@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Hard Question (Partially) Answered, Badly"
-date: 2023-07-21 0:00:00
+date: 2023-07-21 7:00:00
 categories: jekyll update
 ---
 
@@ -65,9 +65,11 @@ This actually, does make sense. When going to a restuarant and eating a dish we'
 
 Therefore, I think it's fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that $$ m(t) $$ is very likely 0. Therefore, counterintuitively we should be optimize memorability over happiness.
 
-## Back to Math
+## Back to Problem Again
 
 Because $$ m(t) $$ is going to be 0 a lot more than $$ h(t) $$, we need to increase $$ m(t) $$ as much as possible to make $$ h(t) $$ actually mean something. Therefore uniqueness of experience and variety matters more than feel-good indulgence.
+
+> Stop watching YouTube at 4am lol.
 
 ## Why use Pseudomath
 
