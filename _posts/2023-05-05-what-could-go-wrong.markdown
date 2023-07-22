@@ -20,4 +20,6 @@ In light of this idea of _gratitude_, one idea I had was to keep a rolling list 
 - The MCQ was Free
 - Only lost a year due to COVID-19
 - Practice Tests Haven't Asked About Holes in a Conductor
+- The company I work at doesn't focus on engineering as much as research
+- I was able to conduct an independent project, instead of continue an existing one
 - Admin didn't kick us out even though we didn't formally sign up to run the event
