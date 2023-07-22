@@ -13,7 +13,7 @@ Every night, I am challenged with the question of whether to keep on watching vi
 
 ## Getting Started
 
-Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of $$ life(t) $$ or $$ l(t) $$ is set. This function will return your experiences $$ e(t) $$ each of which can be evaluated for a happiness score $$ H(e(t)) $$ and a memorability score $$ M(e(t)) $$. For now, let's assume that $$ e(t) $$ is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life $$ Q $$ from $$ t=0 $$ to time $$ T $$ over a total of $$ E $$ experiences
+Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of $$ life(t) $$ or $$ l(t) $$ is set. This function will return your set of experiences $$ e $$ each of which can be evaluated for a happiness score $$ H(e(t)) $$ and a memorability score $$ M(e(t)) $$. For now, let's assume that $$ e(t) $$ is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life $$ Q $$ from $$ t=0 $$ to time $$ T $$ over a total of $$ E $$ experiences
 
 $$
 Q(T) = \sum_{i=1}^{E} M(e_{i}) * H(e_{i})
