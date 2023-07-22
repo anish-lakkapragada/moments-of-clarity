@@ -67,7 +67,7 @@ Therefore, I think it's fair to say that because memorability of an experience a
 
 ## Back to Math
 
-Because $$ m(t) $$ is going to be 0 a lot more than $$ h(t) $$, we need to increase $$ m(t) $$ as much as possible to make $$ h(t) $$ possible. Therefore uniqueness of experience and variety matters more than feel-good indulgence.
+Because $$ m(t) $$ is going to be 0 a lot more than $$ h(t) $$, we need to increase $$ m(t) $$ as much as possible to make $$ h(t) $$ actually mean something. Therefore uniqueness of experience and variety matters more than feel-good indulgence.
 
 ## Why use Pseudomath
 
