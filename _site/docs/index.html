@@ -93,6 +93,12 @@
     
       
         
+          <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/ideas/">ideas</a>
+        
+      
+    
+      
+        
           <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/notes/">theoretical</a>
         
       
@@ -113,19 +119,13 @@
         
       
     
-      
-        
-          <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/tragedies/">tragedies</a>
-        
-      
-    
   </nav>
 
   <nav class="sidebar-nav">
       <details class="sidebar-nav-item"> 
         <summary> All Posts </summary>  
           
-            <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/jekyll/update/2023/07/20/hardquestions/">A Hard Question (Partially) Answered, Badly</a>
+            <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions/">A Hard Question (Partially) Answered, Badly</a>
           
             <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/jekyll/update/2023/05/09/tests/">On The Value of Tests</a>
           
@@ -208,10 +208,10 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="https://anish.lakkapragada.com/jekyll/update/2023/07/20/hardquestions/"> A Hard Question (Partially) Answered, Badly </a>
+      <a href="https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions/"> A Hard Question (Partially) Answered, Badly </a>
     </h1>
 
-    <span class="post-date">20 Jul 2023</span>
+    <span class="post-date">21 Jul 2023</span>
 
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -223,7 +223,7 @@
 
 <h2 id="getting-started">Getting Started</h2>
 
-<p>Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of \(life(t)\) or \(l(t)\) is set. This function will return your experiences \(e(t)\) each of which can be evaluated for a happiness score \(H(e(t))\) and a memorability score \(M(e(t))\). For now, let’s assume that \(e(t)\) is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life \(Q\) from \(t=0\) to time \(T\) over a total of \(E\) experiences</p>
+<p>Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of \(life(t)\) or \(l(t)\) is set. This function will return your set of experiences \(e\) each of which can be evaluated for a happiness score \(H(e(t))\) and a memorability score \(M(e(t))\). For now, let’s assume that \(e(t)\) is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life \(Q\) from \(t=0\) to time \(T\) over a total of \(E\) experiences</p>
 
 \[Q(T) = \sum_{i=1}^{E} M(e_{i}) * H(e_{i})\]
 
@@ -265,9 +265,13 @@
 
 <p>Therefore, I think it’s fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that \(m(t)\) is very likely 0. Therefore, counterintuitively we should be optimize memorability over happiness.</p>
 
-<h2 id="back-to-math">Back to Math</h2>
+<h2 id="back-to-problem-again">Back to Problem Again</h2>
 
-<p>Because \(m(t)\) is going to be 0 a lot more than \(h(t)\), we need to increase \(m(t)\) as much as possible to make \(h(t)\) possible. Therefore uniqueness of experience and variety matters more than feel-good indulgence.</p>
+<p>Because \(m(t)\) is going to be 0 a lot more than \(h(t)\), we need to increase \(m(t)\) as much as possible to make \(h(t)\) actually mean something. Therefore uniqueness of experience and variety matters more than feel-good indulgence.</p>
+
+<blockquote>
+  <p>Stop watching YouTube at 4am lol.</p>
+</blockquote>
 
 <h2 id="why-use-pseudomath">Why use Pseudomath</h2>
 

@@ -1,39 +1,41 @@
 ---
 layout: post
-title:  "PSA Reminder: History Actually Happened"
-date:   2022-12-22 -0700
-categories: jekyll update
+title: "PSA Reminder: History Actually Happened"
+date: 2022-12-22 -0700
+categories: [thinking]
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 **Keywords: Random**
 
-Today was the last day of finals for me, and my final final was history. While preparing for it, I realized that there was something I had been thinking about for a good time now but just haven't got around to writing about. 
+Today was the last day of finals for me, and my final final was history. While preparing for it, I realized that there was something I had been thinking about for a good time now but just haven't got around to writing about.
 
-## How History is Taught 
+## How History is Taught
 
-I'm confident the way that history is taught is the reason why so many students don't enjoy it. We are expected to remember that the vague, narrative events we are reading about were actual deaths, actual soldiers, actual *people*. We see things as a series of chained events to understand, not an actual event that happened. When we read about the thousands of hands mutilated in the Congo we don't even flinch, let alone feel the pain for one of our fingers to be removed. It's not like the shock of assasinations, public statements, or word of mouth has changed for the last two thousands of years; but when we read about them in a sentence we feel nothing. This problem will only persist with history recorded for the 21th century if we let this continue. 
+I'm confident the way that history is taught is the reason why so many students don't enjoy it. We are expected to remember that the vague, narrative events we are reading about were actual deaths, actual soldiers, actual _people_. We see things as a series of chained events to understand, not an actual event that happened. When we read about the thousands of hands mutilated in the Congo we don't even flinch, let alone feel the pain for one of our fingers to be removed. It's not like the shock of assasinations, public statements, or word of mouth has changed for the last two thousands of years; but when we read about them in a sentence we feel nothing. This problem will only persist with history recorded for the 21th century if we let this continue.
 
-> The headlines of Roe v. Wade or Kanye West's statements on InfoWars are sensational and beyond real: how would we feel if they just got summarized in a textbook as "The highly influential ruling by the Supreme Court led to radical protests across the country and for some marked the US complacency in progress." Kinda bland, right? 
+> The headlines of Roe v. Wade or Kanye West's statements on InfoWars are sensational and beyond real: how would we feel if they just got summarized in a textbook as "The highly influential ruling by the Supreme Court led to radical protests across the country and for some marked the US complacency in progress." Kinda bland, right?
 
-Perhaps it's too hard for us to even imagine these events as real without tangible proof. After all the worlds we learn about in history, like India's partition or Chinese dynasties, are not only so physically far away for some of us but also extremely distant in the past. Textbooks only make this worse by condensing this into a very singular narrative of event *X* leading to War *Y* which resulted in the Treaty of *Z*. While many teachers in this generation have done away with memorizing dates for good, the underlying problem of emphasis on events and not experience is a problem. 
+Perhaps it's too hard for us to even imagine these events as real without tangible proof. After all the worlds we learn about in history, like India's partition or Chinese dynasties, are not only so physically far away for some of us but also extremely distant in the past. Textbooks only make this worse by condensing this into a very singular narrative of event _X_ leading to War _Y_ which resulted in the Treaty of _Z_. While many teachers in this generation have done away with memorizing dates for good, the underlying problem of emphasis on events and not experience is a problem.
 
-Even if the problem of history feeling like a straight story to be told is inevitable, it still can be done better. What makes stories interesting to most people is not just the ability to explore a new world (which history by definition can give!) but also its power to make us feel something. History classes should try to make us feel the same thing as the people we are learning about did. The collective *psyche* of a nation during massive events is more moving than a description and at a level of deeper understanding. 
+Even if the problem of history feeling like a straight story to be told is inevitable, it still can be done better. What makes stories interesting to most people is not just the ability to explore a new world (which history by definition can give!) but also its power to make us feel something. History classes should try to make us feel the same thing as the people we are learning about did. The collective _psyche_ of a nation during massive events is more moving than a description and at a level of deeper understanding.
 
-Examples of this "psyche": 
-- After Columbine, people were frightened to send their children to school and provided them with directions home. 
-- After Jonestown, people mocked those killed as crazy and hell-driven. 
-- After 9/11, the America re-evaluated Bush as a serious president and some races tried their best to be hidden. 
+Examples of this "psyche":
 
-You may have heard the saying "drink the Kool-aid", but have you listened to the chilling Death Tape hours in Guyana before tragedy? 
+- After Columbine, people were frightened to send their children to school and provided them with directions home.
+- After Jonestown, people mocked those killed as crazy and hell-driven.
+- After 9/11, the America re-evaluated Bush as a serious president and some races tried their best to be hidden.
+
+You may have heard the saying "drink the Kool-aid", but have you listened to the chilling Death Tape hours in Guyana before tragedy?
 
 ## (My) Solution To Teach History Better
 
-Pretty simple. Use primary source accounts. In fact, just have students read autobiographies like *Narrative of the Life of Frederick Douglass* detailing the experience of a slave or *Night* by a Holocaust survivor's time in camp. Factual accounts are often seen as the peripheral or supplementary but that needs to change - textbook events / lectures should only be there to help give a basic way of thinking about the events at the time required to understand primary sources. 
+Pretty simple. Use primary source accounts. In fact, just have students read autobiographies like _Narrative of the Life of Frederick Douglass_ detailing the experience of a slave or _Night_ by a Holocaust survivor's time in camp. Factual accounts are often seen as the peripheral or supplementary but that needs to change - textbook events / lectures should only be there to help give a basic way of thinking about the events at the time required to understand primary sources.
 
-> In my opinion, this marks a shift away from history being about learning what happened in the past to *experiencing* it. 
+> In my opinion, this marks a shift away from history being about learning what happened in the past to _experiencing_ it.
 
-One of the motivations for learning history we are commonly told is from the famous Santayana quote: ​“Those who cannot remember the past are condemned to repeat it.” When we remember books or movies, we don't remember what happened as much as what we felt when we went through them. History is likely no different: our years of education are numbered (well, for most of us), and if we want our experience in classroom history to be most fruitful for us to be able to cause future change it's imperative that we remember them as best as possible. Heartstrings pull us into action, not words, and thus since reading first-hand sources is the best way to empathize with struggles in the past, it just may help prevent them from happening again. Otherwise, we are betting that we will remember numbers of tragedy decades later and furthermore, act on them.  
+One of the motivations for learning history we are commonly told is from the famous Santayana quote: ​“Those who cannot remember the past are condemned to repeat it.” When we remember books or movies, we don't remember what happened as much as what we felt when we went through them. History is likely no different: our years of education are numbered (well, for most of us), and if we want our experience in classroom history to be most fruitful for us to be able to cause future change it's imperative that we remember them as best as possible. Heartstrings pull us into action, not words, and thus since reading first-hand sources is the best way to empathize with struggles in the past, it just may help prevent them from happening again. Otherwise, we are betting that we will remember numbers of tragedy decades later and furthermore, act on them.
 
 ## Conclusion
 

@@ -187,6 +187,8 @@ locations:
 {% endfor %}
 {% endleaflet_map %}
 
+<p class="reg"> If you are interested, feel free to checkout the <a href="/notes/bay-area-birds-field-guide.pdf"> Bay Area Birds Field Guide </a> I made (with only my photographs :)</p>
+
 <style>
 
 .column {

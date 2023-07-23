@@ -2,7 +2,7 @@
 layout: post
 title: "Photograph Birds List"
 date: 2022-10-04 0:00:00 -0700
-categories: jekyll update
+categories: [birds]
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

@@ -2,7 +2,7 @@
 layout: post
 title: "A Hard Question (Partially) Answered, Badly"
 date: 2023-07-21 7:00:00
-categories: jekyll update
+categories: [thinking]
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

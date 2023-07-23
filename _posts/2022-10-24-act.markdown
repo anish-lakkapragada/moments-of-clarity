@@ -1,64 +1,63 @@
 ---
 layout: post
-title:  "Falling Forward, Not Back: Drake"
-date:   2022-10-24 0:00:00 -0700
-categories: jekyll update
+title: "Falling Forward, Not Back: Drake"
+date: 2022-10-24 0:00:00 -0700
+categories: [random]
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 **Keywords: Aubrey Drake Graham, Falling ~~Back~~ Off, Random**
 
-> This post is for pseudo-informational purposes and entertainment only. 
+> This post is for pseudo-informational purposes and entertainment only.
 
-So by this point, you've probably heard of Drake. He's the guy who gave us the infamous Hotline bling meme, the most amount of *Billboard* Music Awards, and easily over a hundred grammies. Needless to say, he is a big deal.
+So by this point, you've probably heard of Drake. He's the guy who gave us the infamous Hotline bling meme, the most amount of _Billboard_ Music Awards, and easily over a hundred grammies. Needless to say, he is a big deal.
 
 However, a lot of people have argued that his music has been steadily declining for the last five years since 2015. I wouldn't go to that extent, but there is some truth in the fact that I find myself listening to a lot more of his past songs than his current songs. Maybe that's a problem within rap itself, but for current rap music - Migos, 21 Savage, Juice WRLD (RIP) - I find myself listening to 2017-2019 songs compared to Drake - where I frequently go as back as 2011-2013.
 
-Ironically, Headlines - easily one of Drake's best songs - has this line in it: 
+Ironically, Headlines - easily one of Drake's best songs - has this line in it:
 
 > I had someone tell me I fell off, ouh I needed that
 
-Yet somehow, still so many feel he fell off. 
+Yet somehow, still so many feel he fell off.
 
 ## The Good: Drake's Best
 
-Let's start of with the good. Drake for sure has plentiful good songs - after all, you don't enjoy success without some talent. 
+Let's start of with the good. Drake for sure has plentiful good songs - after all, you don't enjoy success without some talent.
 
-A list of (my opinion ofc) Drake's best songs are: 
+A list of (my opinion ofc) Drake's best songs are:
 
-- *Headlines* (**2011**) 
-- *Marvin's Room* (**2011**)
-- *Energy* (**2015**)
-- *Forever* (**2009**)
-- *Too Good* (**2016**)
-- *Do Not Disturb* (2017)
-- *Fake Love* (2017)
-- *Worst Behavior* (**2013**) 
-- *From Time* (**2013**)
-- *Take Care* (**2011**)
-- *Hold On, We're Going Home* (**2013**)
-- *Pound Cake + Paris Morton 2* (**2013**)
-- *A Keeper* (**2022**)
-- *Sticky* (2022)
-- *Portland* (2017)
-- *Falling Back* (2022)
-
+- _Headlines_ (**2011**)
+- _Marvin's Room_ (**2011**)
+- _Energy_ (**2015**)
+- _Forever_ (**2009**)
+- _Too Good_ (**2016**)
+- _Do Not Disturb_ (2017)
+- _Fake Love_ (2017)
+- _Worst Behavior_ (**2013**)
+- _From Time_ (**2013**)
+- _Take Care_ (**2011**)
+- _Hold On, We're Going Home_ (**2013**)
+- _Pound Cake + Paris Morton 2_ (**2013**)
+- _A Keeper_ (**2022**)
+- _Sticky_ (2022)
+- _Portland_ (2017)
+- _Falling Back_ (2022)
 
 <sup><sub>I didn't bold the 2017 songs, even though that's five years ago!</sub></sup>
 
-You might be suprised by the last two. I do think those are decent songs by Drake in the future, and promising of perhaps a new wave of talent. Same goes with his featured verse on *Churchill Downs* - his verse was good to the point where videos have arised of his section only. 
+You might be suprised by the last two. I do think those are decent songs by Drake in the future, and promising of perhaps a new wave of talent. Same goes with his featured verse on _Churchill Downs_ - his verse was good to the point where videos have arised of his section only.
 
 But from the list, I think it's clear for the most part we're 5 years past his prime.
 
-## Why the downfall? 
+## Why the downfall?
 
-I'm not really experienced in Drake or analyzing celebrities, but I think based on my preliminary research it mostly comes down to the lack of originality and high predictability. 
+I'm not really experienced in Drake or analyzing celebrities, but I think based on my preliminary research it mostly comes down to the lack of originality and high predictability.
 
-Lot of people criticize for Drake not trying since his albums *Views From the Six*. Since then, he has released infamous albums *Certified Love Boy* and *Honestly, Nevermind*. Aside from *Falling Back* or *Sticky*, neither really had that great songs compared to his past. CLB in particular has been described as having boring beats and using a monotone, tuned out voice. This is in contrast to his past songs like *Marvin's Room* and *Headlines* which had more complex tunes and beats. *Worst Behavior* and *Energy* both also demonstrate a good use of a passionate voice than something with a tuned-out voice like *Girls Want Girls*. While the argument could be made that there is just a natural appreciation for loud, energetic sounds, a lack of diversity in an album is never a pro. Maybe this is just a meta point about rap songs by artists these days than anything else. 
+Lot of people criticize for Drake not trying since his albums _Views From the Six_. Since then, he has released infamous albums _Certified Love Boy_ and _Honestly, Nevermind_. Aside from _Falling Back_ or _Sticky_, neither really had that great songs compared to his past. CLB in particular has been described as having boring beats and using a monotone, tuned out voice. This is in contrast to his past songs like _Marvin's Room_ and _Headlines_ which had more complex tunes and beats. _Worst Behavior_ and _Energy_ both also demonstrate a good use of a passionate voice than something with a tuned-out voice like _Girls Want Girls_. While the argument could be made that there is just a natural appreciation for loud, energetic sounds, a lack of diversity in an album is never a pro. Maybe this is just a meta point about rap songs by artists these days than anything else.
 
-## Is this to be expected? 
+## Is this to be expected?
 
-To some extent, yes. The pressure of being a star is insurmountable and expecting consistent hits is unreasonable. But, artists like Kendrick Lamar have delivered consistently creative songs. People wouldn't place this much attention to Drake's supposed downfall if they didn't believe he couldn't do better. 
+To some extent, yes. The pressure of being a star is insurmountable and expecting consistent hits is unreasonable. But, artists like Kendrick Lamar have delivered consistently creative songs. People wouldn't place this much attention to Drake's supposed downfall if they didn't believe he couldn't do better.
 
-This is the conclusion of this rant. Don't take anything here seriously. 
-
+This is the conclusion of this rant. Don't take anything here seriously.

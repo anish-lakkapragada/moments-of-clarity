@@ -1,25 +1,26 @@
 ---
 layout: post
-title:  "How did We Get Here?" 
-date:   2023-04-29 0:00:00
-categories: jekyll update
+title: "How did We Get Here?"
+date: 2023-04-29 0:00:00
+categories: [thinking]
 ---
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-*I know I have not maintained this thing. That is not due to AP exams but laziness.* 
+_I know I have not maintained this thing. That is not due to AP exams but laziness._
 
-One thing that's been on my mind for a while now is why the internet has taken form in the way that it has. Why is United States the country with the highest GDP? Why did they choose a different shade of blue and typeface for different parts of the chapstick container that will be not noticed by 99% of users? Why am I born at this station of status in the world? 
+One thing that's been on my mind for a while now is why the internet has taken form in the way that it has. Why is United States the country with the highest GDP? Why did they choose a different shade of blue and typeface for different parts of the chapstick container that will be not noticed by 99% of users? Why am I born at this station of status in the world?
 
-Too often, we don't don't ask enough questions. There's a lack of questioning of why the world acts in the way it does and why it arrived at this specific state out of an infinite amount. I'm pretty sure this is because in such a highly structured and organized society, we don't realize the bigger picture that the single planet we are engrossed in comprises of man-made concepts. The world is deterministic to some extent. I can't find the eraser at school because I forgot it. It's not in multiple positions as we may think, it's in one. 
+Too often, we don't don't ask enough questions. There's a lack of questioning of why the world acts in the way it does and why it arrived at this specific state out of an infinite amount. I'm pretty sure this is because in such a highly structured and organized society, we don't realize the bigger picture that the single planet we are engrossed in comprises of man-made concepts. The world is deterministic to some extent. I can't find the eraser at school because I forgot it. It's not in multiple positions as we may think, it's in one.
 
 There's so much for us to question. The Pacific Ocean isn't real, country lines are imaginary, money has no intrinsic value. So much of the prejudice around us in baseless and crumbles under reasoning of "WHY"? How have humans been able to create fake illusions that now are considered as real as the earth itself? In our origins where we could die at any minute, why do we celebrate [birthdays](https://en.wikipedia.org/wiki/Birthday_effect) - are we proud to survive another year or cheering away the fact that we are closer to our death :skull:?
 
 > Alan Kay: "The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made"
 
-Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a *permutation* of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better ([overall](https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving))? If  our world's state, configuration, policies, whatever is just one in an infinite amount - is it even important? 
+Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a _permutation_ of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better ([overall](https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving))? If our world's state, configuration, policies, whatever is just one in an infinite amount - is it even important?
 
-But if it's the only one in this shape - can we not also conclude with a 0% p-value that this configuration is sacred in a way? Like, the trajectory of how the world evolves that we are part of is significant (maybe the best, the worst, or some other distinguisher)? With a infinite amount of paths to take, is the road that we have taken special? 
+But if it's the only one in this shape - can we not also conclude with a 0% p-value that this configuration is sacred in a way? Like, the trajectory of how the world evolves that we are part of is significant (maybe the best, the worst, or some other distinguisher)? With a infinite amount of paths to take, is the road that we have taken special?
 
-I've been thinking about this especially after reading *Grendel* for my school's APLAC class. In *Grendel*, the rich dragon criticizes the beast at his ignorance of the world. In particular, he mentions that the fact a certain object (e.g. a jug) has been repeatedly made proves its inherent value; after all it was that particular configuration of atoms (from an infinite set) repeated many times that shows it's too significant to ignore. Similarly, our policies & ideas may be significant, holy decisions as we continue to practice the same rules again and again, like monetary and fiscal policy.
+I've been thinking about this especially after reading _Grendel_ for my school's APLAC class. In _Grendel_, the rich dragon criticizes the beast at his ignorance of the world. In particular, he mentions that the fact a certain object (e.g. a jug) has been repeatedly made proves its inherent value; after all it was that particular configuration of atoms (from an infinite set) repeated many times that shows it's too significant to ignore. Similarly, our policies & ideas may be significant, holy decisions as we continue to practice the same rules again and again, like monetary and fiscal policy.
 
 Nobody knows.

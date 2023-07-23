@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
  <link href="https://anish.lakkapragada.com/"/>
- <updated>2023-07-21T17:49:10-07:00</updated>
+ <updated>2023-07-22T14:01:05-07:00</updated>
  <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>A Hard Question (Partially) Answered, Badly</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/07/20/hardquestions/"/>
-   <updated>2023-07-20T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/07/20/hardquestions</id>
+   <link href="https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions/"/>
+   <updated>2023-07-21T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -27,7 +27,7 @@
 
 &lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 
-&lt;p&gt;Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of \(life(t)\) or \(l(t)\) is set. This function will return your experiences \(e(t)\) each of which can be evaluated for a happiness score \(H(e(t))\) and a memorability score \(M(e(t))\). For now, let’s assume that \(e(t)\) is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life \(Q\) from \(t=0\) to time \(T\) over a total of \(E\) experiences&lt;/p&gt;
+&lt;p&gt;Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of \(life(t)\) or \(l(t)\) is set. This function will return your set of experiences \(e\) each of which can be evaluated for a happiness score \(H(e(t))\) and a memorability score \(M(e(t))\). For now, let’s assume that \(e(t)\) is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life \(Q\) from \(t=0\) to time \(T\) over a total of \(E\) experiences&lt;/p&gt;
 
 \[Q(T) = \sum_{i=1}^{E} M(e_{i}) * H(e_{i})\]
 
@@ -69,9 +69,13 @@
 
 &lt;p&gt;Therefore, I think it’s fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that \(m(t)\) is very likely 0. Therefore, counterintuitively we should be optimize memorability over happiness.&lt;/p&gt;
 
-&lt;h2 id=&quot;back-to-math&quot;&gt;Back to Math&lt;/h2&gt;
+&lt;h2 id=&quot;back-to-problem-again&quot;&gt;Back to Problem Again&lt;/h2&gt;
 
-&lt;p&gt;Because \(m(t)\) is going to be 0 a lot more than \(h(t)\), we need to increase \(m(t)\) as much as possible to make \(h(t)\) possible. Therefore uniqueness of experience and variety matters more than feel-good indulgence.&lt;/p&gt;
+&lt;p&gt;Because \(m(t)\) is going to be 0 a lot more than \(h(t)\), we need to increase \(m(t)\) as much as possible to make \(h(t)\) actually mean something. Therefore uniqueness of experience and variety matters more than feel-good indulgence.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stop watching YouTube at 4am lol.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;why-use-pseudomath&quot;&gt;Why use Pseudomath&lt;/h2&gt;
 

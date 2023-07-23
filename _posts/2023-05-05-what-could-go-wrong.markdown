@@ -2,7 +2,7 @@
 layout: post
 title: "A Growing List of Lucky Things"
 date: 2023-05-05 0:00:00
-categories: jekyll update
+categories: [thinking]
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

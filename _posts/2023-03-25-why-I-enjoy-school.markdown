@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Enjoy School"
 date: 2023-03-25 0:00:00
-categories: jekyll update
+categories: [thinking]
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
