@@ -131,6 +131,8 @@
       <details class="sidebar-nav-item"> 
         <summary> All Posts </summary>  
           
+            <a class="sidebar-nav-item" href="http://localhost:4000/songs/2023/07/23/club-paradise/">Club Paradise by Drake</a>
+          
             <a class="sidebar-nav-item" href="http://localhost:4000/thinking/2023/07/21/hardquestions/">A Hard Question (Partially) Answered, Badly</a>
           
             <a class="sidebar-nav-item" href="http://localhost:4000/thinking/2023/05/09/tests/">On The Value of Tests</a>
@@ -212,6 +214,47 @@
 </div>
 
 <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="http://localhost:4000/thinking/2023/03/24/why-I-enjoy-school/"> Why I Enjoy School </a>
+    </h1>
+
+    <span class="post-date">24 Mar 2023</span>
+
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<blockquote>
+  <p>Writing this with a C in APLAC lmao. Now a B. Now an A.</p>
+</blockquote>
+
+<p>Our school recently encountered a power outage where we got a good amount time off from school. When the announcement came, I was surprised to see how prevalent the belief that students-must-hate-school stuck (I am somewhat guilty of this, but in my defense it meant I didn’t have a quiz tomorrow). Everybody cheered because there was less school, as if the fact that school was bad was dogma and self-evident. Well, I don’t hate school and thus here this <del>💩post</del> goes.</p>
+
+<h2 id="meeting-people">Meeting People</h2>
+
+<p>No, the first reason is not learning. I am not that corny/predictable (for now).</p>
+
+<p>Despite the striking lack of diversity my 90% Asian high school has, there’s a good amount of varied attitudes and people. It’s not hard to find math nerds five feet away from students blasting music and playing spikeball. As part of going to school, I enjoy chance interactions/conversations and making as many jokes, however degenerate, as possible. Collaborations &amp; opportunities all come from exposure to people outside your “bubble” - I find you only (or at least for me) get that from talking to different people. Futhermore, it’s always interesting to learn about people and what they spend their time on precisely because sometimes I could never imagine myself doing what they do. I will sometimes even pretend that a door is not open just to start a conversation with whoever will open it 💀.</p>
+
+<p>These chance conversations literally whenever - during class, passing periods, walking to and from school - are already a good enough why to go to school. Regardless of how much sleep I got the last night, meeting new faces who eventually become friends makes school worth it.</p>
+
+<h2 id="shared-suffering">Shared Suffering</h2>
+
+<p>OK, so I’ve been talking about how I like school but now state that in it we <em>suffer</em>? Let me elucidate (as my english teacher says).</p>
+
+<p>Getting screwed week after week with hard tests in tough classes, as far as I’ve seen, generally brings people together. I’ve noticed that the hardest classes usually create the best bonds as everybody tries to prepare for the upcoming test. I would argue that is part of the reason that students actually enjoy harder classes than those easier (assuming it works out for them). For some reason it can be embarrassing to admit, but we do like learning.</p>
+
+<h2 id="generally-useful-information">Generally Useful Information?</h2>
+
+<p>Starting with a quick disclaimer that I am in awkward position to praise the American public education school system as a student at a high school ranked in the top 100 in the US and top 10 in California.</p>
+
+<p>But as far as I have seen, most of the information we learn in school is NOT useless. Gaining a broad foundation across disciplines is valuable at an age (&lt;20) where it cannot be expected (in first-world countries) that we should know what we want to dedicate time to. I do think there is value in being able to understand the world around us, which school addresses somewhat completely - how the world formed around us (history), provable truths about our world (sciences), what our world &amp; collective psyche is based on (language classes). It’s <em>not</em> bad.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I’d say most students would happily take two weeks off from school if given the choice but then secretly want to return in a month or so. Would anybody ask to restart school? Idk.</p>
+
+  </div>
   
   <div class="post">
     <h1 class="post-title">
@@ -352,57 +395,6 @@
 <p>I digress, but the returning of a baseline stands. We really can’t change this baseline happiness other than preventing negative events from taking hold and finding more positive events to genuinely celebrate. To do this, I guess it’s best to just be happy with have. I am still curious about its function though.</p>
 
 <p>This article may have been kinda cringe 🙃 :D</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="http://localhost:4000/theoretical/2023/01/01/double-backprop/"> Double Backpropagation: A Forgotten Algorithm </a>
-    </h1>
-
-    <span class="post-date">01 Jan 2023</span>
-
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<p><strong>Keywords: Backpropgation, Gradient Descent, Theoretical ML</strong></p>
-
-<p>Hope you are enjoying the new year 2023! It’s been a while since I’ve uploaded a theoretical algorithm so here we are :)</p>
-
-<p>I’ve made a few posts and challenges about typical first-order gradient descent that I think it’s time I move on to other aspects of ML. But before I do, here’s one last gradient-descent-ish article on a variant of standard optimization algorithms and my theory on its potential usefulness in generative models.</p>
-
-<p>Double backpropagation was first created by Le Cun and Drucker in 1992 and since then has been widely dismissed (maybe for computational reasons).Introductory ML courses and books don’t even cover it, so perhaps this article will help explain some things.</p>
-
-<h2 id="double-backpropagation-algorithm">Double Backpropagation Algorithm</h2>
-
-<p>The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J'\) is given by:</p>
-
-\[J'(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
-
-<p>It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some <em>hyperparameter</em> (you choose the value) \(\lambda\).</p>
-
-<h3 id="why">Why?</h3>
-
-<blockquote>
-  <p>Double Backpropagation is motivated by forcing the parameters to be as generalizable as possible.</p>
-</blockquote>
-
-<p>More concretely, the value of the adjusted function \(J'\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to <em>augmentations</em> where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to <em>force</em> the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.</p>
-
-<p>This is why the (partial) derivative in the equation measures the model’s performance (objective function value) sensitivity to small changes in the input \(X\) is added. The algorithm is known as <em>double</em> backpropagation because a <a href="http://luiz.hafemann.ca/libraries/2018/06/22/pytorch-doublebackprop/">gradient of a gradient</a> is utilized.</p>
-
-<h2 id="double-backpropagation-for-smooth-latent-spaces-">Double-Backpropagation for Smooth Latent Spaces (?)</h2>
-
-<p>Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector \(\vec{x}\) and returns an image \(Y\).</p>
-
-<p>Let’s say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)</p>
-
-<blockquote>
-  <p>A latent space is the full extent of values the vector can take, where similar generated images will come from vectors which are near each other in this space.</p>
-</blockquote>
-
-<p>A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don’t really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.</p>
-
-<p>Ideally in these models, the mapping of the input vector \(\vec{x}\) to the image \(Y\) learned by \(G\) is <em>smooth</em> - small changes in \(\vec{x}\) shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?</p>
 
   </div>
   

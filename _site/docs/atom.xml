@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
  <link href="https://anish.lakkapragada.com/"/>
- <updated>2023-07-22T14:01:05-07:00</updated>
+ <updated>2023-07-23T16:08:26-07:00</updated>
  <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>A Hard Question (Partially) Answered, Badly</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions/"/>
    <updated>2023-07-21T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/07/21/hardquestions</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -87,9 +87,9 @@
  
  <entry>
    <title>On The Value of Tests</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/05/09/tests/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/09/tests/"/>
    <updated>2023-05-09T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/05/09/tests</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/09/tests</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -110,9 +110,9 @@
  
  <entry>
    <title>A Growing List of Lucky Things</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/05/04/what-could-go-wrong/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong/"/>
    <updated>2023-05-04T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/05/04/what-could-go-wrong</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
@@ -138,9 +138,9 @@
  
  <entry>
    <title>How did We Get Here?</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/04/28/reminded/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/04/28/reminded/"/>
    <updated>2023-04-28T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/04/28/reminded</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/04/28/reminded</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;em&gt;I know I have not maintained this thing. That is not due to AP exams but laziness.&lt;/em&gt;&lt;/p&gt;
@@ -155,7 +155,7 @@
   &lt;p&gt;Alan Kay: “The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a &lt;em&gt;permutation&lt;/em&gt; of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better (&lt;a href=&quot;https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving&quot;&gt;overall&lt;/a&gt;)? If  our world’s state, configuration, policies, whatever is just one in an infinite amount - is it even important?&lt;/p&gt;
+&lt;p&gt;Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a &lt;em&gt;permutation&lt;/em&gt; of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better (&lt;a href=&quot;https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving&quot;&gt;overall&lt;/a&gt;)? If our world’s state, configuration, policies, whatever is just one in an infinite amount - is it even important?&lt;/p&gt;
 
 &lt;p&gt;But if it’s the only one in this shape - can we not also conclude with a 0% p-value that this configuration is sacred in a way? Like, the trajectory of how the world evolves that we are part of is significant (maybe the best, the worst, or some other distinguisher)? With a infinite amount of paths to take, is the road that we have taken special?&lt;/p&gt;
 
@@ -167,9 +167,9 @@
  
  <entry>
    <title>Why I Enjoy School</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/03/24/why-I-enjoy-school/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school/"/>
    <updated>2023-03-24T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/03/24/why-I-enjoy-school</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -206,12 +206,12 @@
  
  <entry>
    <title>Bird Notes after a Year</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/03/14/birds-notes/"/>
+   <link href="https://anish.lakkapragada.com/birds/2023/03/14/birds-notes/"/>
    <updated>2023-03-14T17:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/03/14/birds-notes</id>
+   <id>https://anish.lakkapragada.com/birds/2023/03/14/birds-notes</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds  ¯\_(ツ)_/¯&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds ¯\_(ツ)_/¯&lt;/p&gt;
 
 &lt;h2 id=&quot;common-reason-for-failed-photographs&quot;&gt;Common Reason for Failed Photographs&lt;/h2&gt;
 
@@ -243,9 +243,9 @@
  
  <entry>
    <title>Naps</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/02/22/naps/"/>
+   <link href="https://anish.lakkapragada.com/random/2023/02/22/naps/"/>
    <updated>2023-02-22T16:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/02/22/naps</id>
+   <id>https://anish.lakkapragada.com/random/2023/02/22/naps</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential &amp;amp; voltage. Naps are typically taken wrong but are also pretty dangerous if you don’t take them right. Here’s to everything I know about naps on 2/23/2023 at 2:14am.&lt;/p&gt;
@@ -261,18 +261,20 @@
 &lt;p&gt;Naps, especially those of 20-30min taken in the afternoon after something intensive like school, allow for the brain to shut down. This essentially means that after waking up from the nap, memory of what happened before the nap will suffer. Thus, what you just did an hour ago in school will seem distant and somewhat feel like a completely different day. Also, if you are a “morning person” (inceased productivity after waking up) - ig waking up more in a day can only be useful then?? Or instead you like sleeping/dreaming (or the feeling of normal force supporting your side), naps can give you a way to sleep more with the pretense of “productivity”. I’ve had a good amount of times when while napping I feel like I am awake with eyes open - it’s always pretty fun.&lt;/p&gt;
 
 &lt;h2 id=&quot;escape-from-reality&quot;&gt;Escape from Reality&lt;/h2&gt;
+
 &lt;p&gt;Naps are a great way to escape your problems.&lt;/p&gt;
 
 &lt;h2 id=&quot;drawbacks&quot;&gt;Drawbacks&lt;/h2&gt;
+
 &lt;p&gt;Naps can really screw you up. For one, if you lack self-control and extend your nap to more than 1 hour, your basically screwing up the time when your body will want you to sleep. Second, I guess people feel unproductive taking naps or something? I guess you just have to really believe that 20min of dead time outweighs switching back-and-forth tabs with distractions for 30min of work.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>A Series of Life Observations</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/02/01/update/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/02/01/update/"/>
    <updated>2023-02-01T23:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/02/01/update</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/02/01/update</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -319,9 +321,9 @@
  
  <entry>
    <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/01/11/hedonistic-happy/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy/"/>
    <updated>2023-01-11T23:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/01/11/hedonistic-happy</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -338,9 +340,9 @@
  
  <entry>
    <title>Double Backpropagation: A Forgotten Algorithm</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2023/01/01/double-backprop/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/"/>
    <updated>2023-01-01T00:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2023/01/01/double-backprop</id>
+   <id>https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Backpropgation, Gradient Descent, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
@@ -355,7 +357,7 @@
 
 &lt;p&gt;The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J&apos;\) is given by:&lt;/p&gt;
 
-\[J&apos;(\theta) = J(\theta)  + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
+\[J&apos;(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
 
 &lt;p&gt;It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some &lt;em&gt;hyperparameter&lt;/em&gt; (you choose the value) \(\lambda\).&lt;/p&gt;
 
@@ -387,9 +389,9 @@
  
  <entry>
    <title>PSA Reminder: History Actually Happened</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/12/22/history/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/12/22/history/"/>
    <updated>2022-12-22T00:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/12/22/history</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/12/22/history</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -409,6 +411,7 @@
 &lt;p&gt;Even if the problem of history feeling like a straight story to be told is inevitable, it still can be done better. What makes stories interesting to most people is not just the ability to explore a new world (which history by definition can give!) but also its power to make us feel something. History classes should try to make us feel the same thing as the people we are learning about did. The collective &lt;em&gt;psyche&lt;/em&gt; of a nation during massive events is more moving than a description and at a level of deeper understanding.&lt;/p&gt;
 
 &lt;p&gt;Examples of this “psyche”:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;After Columbine, people were frightened to send their children to school and provided them with directions home.&lt;/li&gt;
   &lt;li&gt;After Jonestown, people mocked those killed as crazy and hell-driven.&lt;/li&gt;
@@ -435,9 +438,9 @@
  
  <entry>
    <title>My Experience Growing a Beard, And Then Shaving It</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/12/10/beards/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/12/10/beards/"/>
    <updated>2022-12-10T16:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/12/10/beards</id>
+   <id>https://anish.lakkapragada.com/random/2022/12/10/beards</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;This year, I participated in No Shave November (we don’t talk about how the other \(N^{3}\) went for me.) Almost a week in December, I decided to shave it off. While I have no regrets about shaving it off, I do want to remember what it felt like (without having to wait almost a month.) Hence, this account.&lt;/p&gt;
@@ -471,6 +474,7 @@
 &lt;p&gt;While this kind of a beard with stray hairs and even a little bald spot in the middle of the chin doesn’t look great to say the least, it does feel great. With my clean shaven face right now, I still find myself rubbing my chin hoping to feel the prickly sensation akin to mild acupuncture.&lt;/p&gt;
 
 &lt;p&gt;Here’s a list of all the things you can do with a beard:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Make Fun of Your Friends Who Can’t Grow One&lt;/li&gt;
   &lt;li&gt;Convince yourself you look better with it&lt;/li&gt;
@@ -563,9 +567,9 @@
  
  <entry>
    <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/11/24/crawdads-tkam/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam/"/>
    <updated>2022-11-24T23:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/11/24/crawdads-tkam</id>
+   <id>https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
@@ -608,9 +612,9 @@
  
  <entry>
    <title>Food for Thought: Word Predictability</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/11/09/word-association/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/11/09/word-association/"/>
    <updated>2022-11-09T23:00:00-08:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/11/09/word-association</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/11/09/word-association</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
@@ -619,45 +623,44 @@
 
 &lt;p&gt;Think of it as a fill-in-the blank challenge. Given some word or sets of word, what word will follow. Here are a few examples below.&lt;/p&gt;
 
-&lt;p&gt;“Give me some bread and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;“Give me some bread and ____.”&lt;/p&gt;
 
-&lt;p&gt;“I just need to put on my suit and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;“I just need to put on my suit and ____.”&lt;/p&gt;
 
-&lt;p&gt;“That sweet and &lt;em&gt;__&lt;/em&gt; taste is amazing.”&lt;/p&gt;
+&lt;p&gt;“That sweet and ____ taste is amazing.”&lt;/p&gt;
 
-&lt;p&gt;“Who are you guys, Adam and &lt;em&gt;__&lt;/em&gt;?”&lt;/p&gt;
+&lt;p&gt;“Who are you guys, Adam and ____?”&lt;/p&gt;
 
 &lt;p&gt;Those were pretty simple right? It wasn’t like you’ve memorized these pairs.&lt;/p&gt;
 
 &lt;p&gt;But you have learned them. In fact, this actually has a special name of being a &lt;strong&gt;collocation.&lt;/strong&gt; Collocations are words that are commonly said in one way and not reversed. You wouldn’t say “cons and pros” or “butter and bread”, now would you?&lt;/p&gt;
 
-&lt;p&gt;However, collocations are only one type of such word association where one or two words can effectively predict the next word. Another example would be the blank in “&lt;em&gt;__&lt;/em&gt; your bets” being “hedge”. Those aren’t necessary groups of words, as “protect”, “safeguard”, and “derisk” all would work, but basically work the same as collocation pairs.&lt;/p&gt;
+&lt;p&gt;However, collocations are only one type of such word association where one or two words can effectively predict the next word. Another example would be the blank in “____ your bets” being “hedge”. Those aren’t necessary groups of words, as “protect”, “safeguard”, and “derisk” all would work, but basically work the same as collocation pairs.&lt;/p&gt;
 
 &lt;p&gt;The main point of showing these examples is to demonstrate that we actually don’t think about what we are going to say in terms of singular words but instead in terms of concepts/ideas/blocks. Beyond proper nouns, a simple proof of this is that we (well, most of us) can’t understand why we need the word “the”, instead of something like “a”, in the phrase “In &lt;em&gt;the&lt;/em&gt; interest of time”, but naturally say the phrase.&lt;/p&gt;
 
 &lt;p&gt;Predicting one word in a sentence from what has already is a miracle and a super interesting task that we do on a daily basis. Here are a few more to enjoy :)&lt;/p&gt;
 
-&lt;p&gt;“Oh for &lt;em&gt;__&lt;/em&gt;’s sake, do the dishes!”&lt;/p&gt;
+&lt;p&gt;“Oh for ____’s sake, do the dishes!”&lt;/p&gt;
 
-&lt;p&gt;“If &lt;em&gt;__&lt;/em&gt; permits, we can show a demo at the end.”&lt;/p&gt;
+&lt;p&gt;“If ____ permits, we can show a demo at the end.”&lt;/p&gt;
 
-&lt;p&gt;“That moment absolutely crushed my &lt;em&gt;__&lt;/em&gt; in humanity.”&lt;/p&gt;
-
+&lt;p&gt;“That moment absolutely crushed my ____ in humanity.”&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Why Does Latex look so good?</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/11/04/latex/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/11/04/latex/"/>
    <updated>2022-11-04T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/11/04/latex</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/11/04/latex</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve used LaTex for writing some stuff (check my &lt;a href=&quot;/notes&quot;&gt;notes&lt;/a&gt; lmao). In fact, if you’ve read some of the other articles here, you’ve seen latex before. It’s what allows me to render equations like:&lt;/p&gt;
 
-\[L^{a}t^{e}x = p_{r}^{e} \int ect\]
+\[L^{a}t^{e}x = p\_{r}^{e} \int ect\]
 
 &lt;p&gt;Latex &lt;em&gt;is&lt;/em&gt; perfect. Why does it look so good and feel so good to write?&lt;/p&gt;
 
@@ -672,18 +675,18 @@
 &lt;h2 id=&quot;style&quot;&gt;Style&lt;/h2&gt;
 
 &lt;p&gt;Style is a weird thing to describe. Aesthethic is an even worse word to use, because that makes it just more abstract. But I guess the best way to describe LaTex in three words is professional, clean, and precise. The LaTex Rendering never fails to produce the cleanest font. It makes me feel like I’m a real scientist who knows what they’re doing.&lt;/p&gt;
+
 &lt;h2 id=&quot;how-to-use-latex&quot;&gt;How to Use Latex&lt;/h2&gt;
 
 &lt;p&gt;Just create another project on &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; and that’s it. Our you can select an arXiv preprint and start from there.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Falling Forward, Not Back: Drake</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/10/24/act/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/10/24/act/"/>
    <updated>2022-10-24T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/10/24/act</id>
+   <id>https://anish.lakkapragada.com/random/2022/10/24/act</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Aubrey Drake Graham, Falling &lt;del&gt;Back&lt;/del&gt; Off, Random&lt;/strong&gt;&lt;/p&gt;
@@ -746,15 +749,14 @@
 &lt;p&gt;To some extent, yes. The pressure of being a star is insurmountable and expecting consistent hits is unreasonable. But, artists like Kendrick Lamar have delivered consistently creative songs. People wouldn’t place this much attention to Drake’s supposed downfall if they didn’t believe he couldn’t do better.&lt;/p&gt;
 
 &lt;p&gt;This is the conclusion of this rant. Don’t take anything here seriously.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Gradient Descent Revisited As Euler's Method</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/10/11/gradient-descent-euler/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler/"/>
    <updated>2022-10-11T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/10/11/gradient-descent-euler</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Gradient Descent, Euler’s Method, Differential Equation&lt;/strong&gt;&lt;/p&gt;
@@ -765,13 +767,13 @@
 
 &lt;p&gt;As a refresher Gradient Descent is:&lt;/p&gt;
 
-\[\theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J\]
+\[\theta*{t} = \theta*{t - 1} - \alpha\nabla*{\theta*{t - 1}} J\]
 
 &lt;p&gt;Unlike with the Taylor Series article, this time we will be keeping the learning rate \(\alpha\) into consideration.&lt;/p&gt;
 
 &lt;p&gt;Gradient Descent can actually be summarized as this Differential Equation.&lt;/p&gt;
 
-\[\dfrac{∂\theta_{t}}{∂t} = -\alpha \dfrac{∂J(\theta_{t})}{∂\theta_{t}}\]
+\[\dfrac{∂\theta*{t}}{∂t} = -\alpha \dfrac{∂J(\theta*{t})}{∂\theta\_{t}}\]
 
 &lt;p&gt;This differential equation is obviously unsolvable. A common way of approximating a function when an unsolvable differential equation is given is to use Euler’s method.&lt;/p&gt;
 
@@ -789,7 +791,7 @@
 
 &lt;h2 id=&quot;gradient-descent-conclusion&quot;&gt;Gradient Descent Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Let’s look at our algo again - gradient descent is given by \(\theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J\), thus we can see that it is basically euler’s method with a step size of \(\alpha\), however done in reverse (hence the negative in the step size.)&lt;/p&gt;
+&lt;p&gt;Let’s look at our algo again - gradient descent is given by \(\theta*{t} = \theta*{t - 1} - \alpha\nabla*{\theta*{t - 1}} J\), thus we can see that it is basically euler’s method with a step size of \(\alpha\), however done in reverse (hence the negative in the step size.)&lt;/p&gt;
 
 &lt;p&gt;Yet another perspective on how to view Gradient Descent. More to come.&lt;/p&gt;
 </content>
@@ -797,9 +799,9 @@
  
  <entry>
    <title>Photograph Birds List</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/10/04/birdslist/"/>
+   <link href="https://anish.lakkapragada.com/birds/2022/10/04/birdslist/"/>
    <updated>2022-10-04T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/10/04/birdslist</id>
+   <id>https://anish.lakkapragada.com/birds/2022/10/04/birdslist</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
@@ -902,14 +904,14 @@
  
  <entry>
    <title>Hidden Taylor Series in Theoretical Machine Learning</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries-copy/"/>
    <updated>2022-09-26T00:49:49-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/09/26/mltaylorseries copy</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries copy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This article hopes to provide an alternate look at some of the most foundational algorithms in machine learning, namely Gradient Descent and Polynomial Regression, from an angle of Taylor Series. 
+&lt;p&gt;This article hopes to provide an alternate look at some of the most foundational algorithms in machine learning, namely Gradient Descent and Polynomial Regression, from an angle of Taylor Series.
 Taylor Series are an extremely nice approximation method from calculus and are actually quite common in machine learning.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -932,27 +934,27 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;Gradient Descent is an iterative algorithm to generally optimize some function overtime based on its gradient (vector of partial derivatives.) The gradient yields a vector that tells the fastest way to ascend a curve - with gradient &lt;em&gt;descent&lt;/em&gt; you try to go &lt;em&gt;down&lt;/em&gt; the curve and thus constantly move in the negative of this gradient (moving with the positive is called gradient ascent). Gradient Descent is shown below.&lt;/p&gt;
 
-\[\theta_{t} = \theta_{t - 1}  - \alpha * \nabla_{\theta_{t - 1}} J\]
+\[\theta*{t} = \theta*{t - 1} - \alpha \* \nabla*{\theta*{t - 1}} J\]
 
-&lt;p&gt;For more clarification, \(\theta_{t}\) are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep \(t\) and \(\nabla_{\theta_{t - 1}} J\) represents the gradient of the objective function \(J\) that we are trying to minimize. It’s not shown, but \(J\) takes in the parameters \(x, y\) and \(\theta\).  As stated, we move in the direction of the negative of the gradient. \(\alpha\) is the learning rate and is applied to scale the gradient and prevent too high movements.&lt;/p&gt;
+&lt;p&gt;For more clarification, \(\theta*{t}\) are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep \(t\) and \(\nabla*{\theta\_{t - 1}} J\) represents the gradient of the objective function \(J\) that we are trying to minimize. It’s not shown, but \(J\) takes in the parameters \(x, y\) and \(\theta\).  As stated, we move in the direction of the negative of the gradient. \(\alpha\) is the learning rate and is applied to scale the gradient and prevent too high movements.&lt;/p&gt;
 
-&lt;p&gt;Gradient Descent can be re-thought of as finding some value \(\Delta \theta\) to adjust \(\theta_{t - 1}\) at each iteration \(t\) such that \(J(\theta_{t - 1} + \Delta \theta)\) is less than \(J(\theta_{t - 1})\). This is where taylor series come in - they help us find this required change. The taylor series to approximate the new value of the objective function to the first-degree is shown below.&lt;/p&gt;
+&lt;p&gt;Gradient Descent can be re-thought of as finding some value \(\Delta \theta\) to adjust \(\theta*{t - 1}\) at each iteration \(t\) such that \(J(\theta*{t - 1} + \Delta \theta)\) is less than \(J(\theta\_{t - 1})\). This is where taylor series come in - they help us find this required change. The taylor series to approximate the new value of the objective function to the first-degree is shown below.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Disclaimer: My linear algebra and multivariable calculus skills are kinda DNE, so please don’t try to inspect every term and make sure that the shapes all match up (probably missing a transpose here and there). Instead try to built intuition of the general approach.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-\[J(\theta_{t - 1} + \Delta \theta) \approx J(\theta_{t - 1}) + \nabla_{\theta_{t - 1}} J * \Delta \theta\]
+\[J(\theta*{t - 1} + \Delta \theta) \approx J(\theta*{t - 1}) + \nabla*{\theta*{t - 1}} J \* \Delta \theta\]
 
-&lt;p&gt;This is a bit confusing, so let’s clarify, in this case the \(x\) in the approximation of \(f(x)\) is actually \(\theta_{t - 1} + \Delta \theta\) and thus the taylor series is centered at a point \(c\) of \(\theta_{t - 1}\). This means that the first-degree term \(x - c\) actually equals just \(\Delta \theta\).&lt;/p&gt;
+&lt;p&gt;This is a bit confusing, so let’s clarify, in this case the \(x\) in the approximation of \(f(x)\) is actually \(\theta*{t - 1} + \Delta \theta\) and thus the taylor series is centered at a point \(c\) of \(\theta*{t - 1}\). This means that the first-degree term \(x - c\) actually equals just \(\Delta \theta\).&lt;/p&gt;
 
-&lt;p&gt;This is where it gets clever. Given that we set \(J(\theta_{t - 1})\) or \(J(\theta_{t - 1} + \Delta \theta)\) to be less than \(J(\theta_{t - 1})\), to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing \(J(\theta_{t - 1})\) with negatives from the first-degree expression (\(\nabla_{\theta_{t - 1}} J * \Delta\theta\)) to it. We could just set \(\Delta \theta\) to \(-1\), but because \(\nabla_{\theta{t - 1}} J\) is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of \(\Delta \theta\) that will make \(\nabla_{\theta{t - 1}} J\) ALL negative.&lt;/p&gt;
+&lt;p&gt;This is where it gets clever. Given that we set \(J(\theta*{t - 1})\) or \(J(\theta*{t - 1} + \Delta \theta)\) to be less than \(J(\theta*{t - 1})\), to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing \(J(\theta*{t - 1})\) with negatives from the first-degree expression (\(\nabla*{\theta*{t - 1}} J \* \Delta\theta\)) to it. We could just set \(\Delta \theta\) to \(-1\), but because \(\nabla*{\theta{t - 1}} J\) is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of \(\Delta \theta\) that will make \(\nabla*{\theta{t - 1}} J\) ALL negative.&lt;/p&gt;
 
-&lt;p&gt;This is actually much easier than expected. Just set \(\Delta \theta\) to the &lt;em&gt;negative&lt;/em&gt; of \(\nabla_{\theta{t - 1}} J\) and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.&lt;/p&gt;
+&lt;p&gt;This is actually much easier than expected. Just set \(\Delta \theta\) to the &lt;em&gt;negative&lt;/em&gt; of \(\nabla\_{\theta{t - 1}} J\) and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.&lt;/p&gt;
 
 &lt;p&gt;This means that in our (minimization) algorithm of Gradient Descent, with \(\alpha\) for stability, we have:&lt;/p&gt;
 
-\[\theta_{t} = \theta_{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta{t - 1}} J\]
+\[\theta*{t} = \theta*{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha \* \nabla\_{\theta{t - 1}} J\]
 
 &lt;p&gt;That’s gradient descent!&lt;/p&gt;
 
@@ -964,9 +966,9 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;Polynomial regression is basically a type of linear regression where a single input (let’s stick to one-dimensional input for simplicity) is raised to higher powers and then the appropriate coefficients are found. The prediction function for a two-degree polynomial regression is shown below.&lt;/p&gt;
 
-\[\hat{y} = h(x) = \beta_{0} + \beta_{1}x + \beta_{2}x^{2}\]
+\[\hat{y} = h(x) = \beta*{0} + \beta*{1}x + \beta\_{2}x^{2}\]
 
-&lt;p&gt;As shown above, \(\hat{y}\) are the predictions and \(\beta_{n}\) are the coefficients for \(x\) raised to the \(n\)-th power. Already looks like a taylor series (or maclaurin series as \(c = 0\)) right?&lt;/p&gt;
+&lt;p&gt;As shown above, \(\hat{y}\) are the predictions and \(\beta\_{n}\) are the coefficients for \(x\) raised to the \(n\)-th power. Already looks like a taylor series (or maclaurin series as \(c = 0\)) right?&lt;/p&gt;
 
 &lt;p&gt;In fact, it is! It’s that simple. Let’s see if this actually works in practice.&lt;/p&gt;
 
@@ -974,20 +976,20 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;Alliteration, huh? Okay, so the famous taylor series of the function \(e^{x}\) is shown below.&lt;/p&gt;
 
-\[e^{x} = \sum_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots\]
+\[e^{x} = \sum\_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots\]
 
-&lt;p&gt;Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with &lt;a href=&quot;https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html&quot;&gt;scikit-learn&lt;/a&gt;’s in Python, that takes in \(x\) and \(x^{2}\) as input - will it learn \({1, 1, 0.5}\) as \(\beta_{0}, \beta_{1}, \beta_{2}\) respectively?&lt;/p&gt;
+&lt;p&gt;Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with &lt;a href=&quot;https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html&quot;&gt;scikit-learn&lt;/a&gt;’s in Python, that takes in \(x\) and \(x^{2}\) as input - will it learn \({1, 1, 0.5}\) as \(\beta*{0}, \beta*{1}, \beta\_{2}\) respectively?&lt;/p&gt;
 
 &lt;p&gt;Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?&lt;/p&gt;
 
 &lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sklearn.linear_model&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt; 
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
 
 &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;
-we&apos;ll generate from a normal distribution as the 
+we&apos;ll generate from a normal distribution as the
 second-degree polynomial approximates best in this range.
 &quot;&quot;&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples 
+&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples
 &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# labels
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -999,15 +1001,18 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;Let’s apply Linear Regression.&lt;/p&gt;
 
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm 
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm
 &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Let’s inspect the coefficients \(\beta_{1}, \beta_{2}\).&lt;/p&gt;
+&lt;p&gt;Let’s inspect the coefficients \(\beta*{1}, \beta*{2}\).&lt;/p&gt;
+
 &lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coef_&lt;/span&gt;
 &lt;span class=&quot;nf&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.24106858&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;mf&quot;&gt;2.25427569&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;And the bias \(\beta_{0}\).&lt;/p&gt;
+
+&lt;p&gt;And the bias \(\beta\_{0}\).&lt;/p&gt;
+
 &lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intercept_&lt;/span&gt;
 &lt;span class=&quot;mf&quot;&gt;1.5053263303981406&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -1016,7 +1021,7 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;My hypothesis is that if you use a higher-degree approximation (and of course have much more data), it will be more likely the coefficients will slowly fall in line with the &lt;em&gt;true&lt;/em&gt; taylor polynomial. In our case, given that it only had a sample of \(e^{x}\) and not the whole infinite set of values, it is to be expected that not the precise values were found as these values actually could have minimized the mean-squared error more for this specific training set \(X\).&lt;/p&gt;
 
-&lt;p&gt;Also,  if Polynomial Regression is a taylor series polynomial then linear regression is a first-degree taylor series?&lt;/p&gt;
+&lt;p&gt;Also, if Polynomial Regression is a taylor series polynomial then linear regression is a first-degree taylor series?&lt;/p&gt;
 
 &lt;h2 id=&quot;review&quot;&gt;Review&lt;/h2&gt;
 
@@ -1030,9 +1035,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>An explanation of Pareto's Principle</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/09/25/paretoprinciple/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple/"/>
    <updated>2022-09-25T00:49:49-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/09/25/paretoprinciple</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Pareto’s Principle, 80/20 rule, Distribution of Outcomes, Applications&lt;/strong&gt;&lt;/p&gt;
@@ -1044,15 +1049,14 @@ second-degree polynomial approximates best in this range.
 &lt;p&gt;So, how can we use Pareto’s principle in our daily lives? Internalizing the exponential nature in our lives is probably the best way to implement it. If we want a 90 on a test, we’ll only need to put in about half of the effort and time studying compared to getting a 97+. The same goes for standardizing testing; scores are gradually harder to get at the top. Keeping in mind the 80/20 rule can help us decide when the extra mile is excessive or essential.&lt;/p&gt;
 
 &lt;p&gt;So now we’ve gone over the how and what - only the &lt;em&gt;why&lt;/em&gt; remains. Any ideas on why our world and outcomes are distributed this way? My guess is that the underlying reason of the 80/20 rule is disparity and inequity - one group having much more extreme outliers that overpower all others. The world is moving at an &lt;a href=&quot;https://www.su.org/blog/thriving-in-an-exponential-world-and-making-a-difference-doing-so&quot;&gt;exponential rate&lt;/a&gt;; the most successful stocks (which are extremes in themselves) almost always follow exponential curves as compared to linear ascents. Moore’s law literally forecasts that the number of transistors on a microchip double every 2 years; it’s no secret that &lt;a href=&quot;https://en.wikipedia.org/wiki/Accelerating_change&quot;&gt;we also think the world is constantly growing faster&lt;/a&gt; than it ever has before. In short, Pareto’s principle seems to be very common when disparity or a gap grows uncontrollably. In our world, that’s not too uncommon.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Yet Another Comparison of Svelte & React</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/09/21/sveltevreact/"/>
+   <link href="https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact/"/>
    <updated>2022-09-21T00:00:00-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/09/21/sveltevreact</id>
+   <id>https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on &lt;a href=&quot;https://dayssincelastjavascriptframework.com/&quot;&gt;getting released every single day&lt;/a&gt; and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.&lt;/p&gt;
@@ -1101,14 +1105,14 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Attempts at Closed-Form Logistic Regression</title>
-   <link href="https://anish.lakkapragada.com/jekyll/update/2022/09/20/closed-form-logreg/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"/>
    <updated>2022-09-20T16:27:08-07:00</updated>
-   <id>https://anish.lakkapragada.com/jekyll/update/2022/09/20/closed-form-logreg</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Let’s work our way up from the start. Linear Regression is a ubiquitous algorithm in machine learning today, which is most commonly performed through iterative gradient descent. However, another method that I find pretty fascinating is the closed-form solution called the &lt;em&gt;Normal Equation&lt;/em&gt;, where instead of iteratively trying to minimize \(L = \sum_{i=1}^{N} (mx_{i} + b - y_{i})^2\), (\({m, b}\) are the parameters), a solution of what value of \(m\) sets \(\dfrac{dL}{dm}\) to 0 is found. The bias \(b\) is then found as \(\bar{y} - m\bar{x}\), where \(\bar{z}\) is the average of a set \(z\). Thus this solution is called &lt;em&gt;closed-form&lt;/em&gt; as it takes a known amount of mathematical operations to solve.&lt;/p&gt;
+&lt;p&gt;Let’s work our way up from the start. Linear Regression is a ubiquitous algorithm in machine learning today, which is most commonly performed through iterative gradient descent. However, another method that I find pretty fascinating is the closed-form solution called the &lt;em&gt;Normal Equation&lt;/em&gt;, where instead of iteratively trying to minimize \(L = \sum*{i=1}^{N} (mx*{i} + b - y\_{i})^2\), (\({m, b}\) are the parameters), a solution of what value of \(m\) sets \(\dfrac{dL}{dm}\) to 0 is found. The bias \(b\) is then found as \(\bar{y} - m\bar{x}\), where \(\bar{z}\) is the average of a set \(z\). Thus this solution is called &lt;em&gt;closed-form&lt;/em&gt; as it takes a known amount of mathematical operations to solve.&lt;/p&gt;
 
 &lt;p&gt;However, this is old news. Unfortunately, this style of optimization is only possible for simple linear regression. The main reason for this is that the derivative of a linear model is really simple, compared to something like a composite neural network, which likely will require endless chain rule. The closest thing I could find to Linear Regression that has a different shape (hence ridge regression not included) is Logistic Regression, where predictions of \(y_{i}\) are modeled as \(\sigma(mx_{i} + b)\), where \(\sigma\) is the logistic (hence the name) function. The thing to remember though is that Logistic Regression is not really a regressor, but actually a binary classifier model.&lt;/p&gt;
 
@@ -1116,8 +1120,8 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;The objective function is defined as \(L = \dfrac{(X\theta - y)^{T}(X\theta - y)}{N}\) (let’s stick to \(\theta\) instead of \(m\) to look smarter) where \(X\) is the training feature matrix, \(\theta\) is weight vector (multi-dimensional \(m\)), and \(y\) is the labels vector. We would modify this to contain \(\sigma(X\theta)- y\), and soon it becomes clear this approach probably will not work as the resulting expression (before differentiation) will contain a lot of \(\sigma(X\theta^{T})\sigma(X\theta)\) which is too annoying for my brain to work with. Nobody, promised there would be a solution right?&lt;/p&gt;
 
-&lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y_{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function 
-(\(\dfrac{1}{1 + e^{-x_{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x_{i}} - 1)\). Definitely not the worst thing in the world!&lt;/p&gt;
+&lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y*{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function
+(\(\dfrac{1}{1 + e^{-x*{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x\_{i}} - 1)\). Definitely not the worst thing in the world!&lt;/p&gt;
 
 &lt;p&gt;Let’s specify this inverse as \(\sigma&apos;\) and take a step back. We need to apply the function \(\sigma&apos;\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!&lt;/p&gt;
 

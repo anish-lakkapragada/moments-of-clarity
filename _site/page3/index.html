@@ -131,6 +131,8 @@
       <details class="sidebar-nav-item"> 
         <summary> All Posts </summary>  
           
+            <a class="sidebar-nav-item" href="http://localhost:4000/songs/2023/07/23/club-paradise/">Club Paradise by Drake</a>
+          
             <a class="sidebar-nav-item" href="http://localhost:4000/thinking/2023/07/21/hardquestions/">A Hard Question (Partially) Answered, Badly</a>
           
             <a class="sidebar-nav-item" href="http://localhost:4000/thinking/2023/05/09/tests/">On The Value of Tests</a>
@@ -212,6 +214,57 @@
 </div>
 
 <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="http://localhost:4000/theoretical/2023/01/01/double-backprop/"> Double Backpropagation: A Forgotten Algorithm </a>
+    </h1>
+
+    <span class="post-date">01 Jan 2023</span>
+
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<p><strong>Keywords: Backpropgation, Gradient Descent, Theoretical ML</strong></p>
+
+<p>Hope you are enjoying the new year 2023! It’s been a while since I’ve uploaded a theoretical algorithm so here we are :)</p>
+
+<p>I’ve made a few posts and challenges about typical first-order gradient descent that I think it’s time I move on to other aspects of ML. But before I do, here’s one last gradient-descent-ish article on a variant of standard optimization algorithms and my theory on its potential usefulness in generative models.</p>
+
+<p>Double backpropagation was first created by Le Cun and Drucker in 1992 and since then has been widely dismissed (maybe for computational reasons).Introductory ML courses and books don’t even cover it, so perhaps this article will help explain some things.</p>
+
+<h2 id="double-backpropagation-algorithm">Double Backpropagation Algorithm</h2>
+
+<p>The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J'\) is given by:</p>
+
+\[J'(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
+
+<p>It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some <em>hyperparameter</em> (you choose the value) \(\lambda\).</p>
+
+<h3 id="why">Why?</h3>
+
+<blockquote>
+  <p>Double Backpropagation is motivated by forcing the parameters to be as generalizable as possible.</p>
+</blockquote>
+
+<p>More concretely, the value of the adjusted function \(J'\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to <em>augmentations</em> where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to <em>force</em> the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.</p>
+
+<p>This is why the (partial) derivative in the equation measures the model’s performance (objective function value) sensitivity to small changes in the input \(X\) is added. The algorithm is known as <em>double</em> backpropagation because a <a href="http://luiz.hafemann.ca/libraries/2018/06/22/pytorch-doublebackprop/">gradient of a gradient</a> is utilized.</p>
+
+<h2 id="double-backpropagation-for-smooth-latent-spaces-">Double-Backpropagation for Smooth Latent Spaces (?)</h2>
+
+<p>Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector \(\vec{x}\) and returns an image \(Y\).</p>
+
+<p>Let’s say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)</p>
+
+<blockquote>
+  <p>A latent space is the full extent of values the vector can take, where similar generated images will come from vectors which are near each other in this space.</p>
+</blockquote>
+
+<p>A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don’t really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.</p>
+
+<p>Ideally in these models, the mapping of the input vector \(\vec{x}\) to the image \(Y\) learned by \(G\) is <em>smooth</em> - small changes in \(\vec{x}\) shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?</p>
+
+  </div>
   
   <div class="post">
     <h1 class="post-title">
@@ -480,41 +533,6 @@
 <p>“If ____ permits, we can show a demo at the end.”</p>
 
 <p>“That moment absolutely crushed my ____ in humanity.”</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="http://localhost:4000/theoretical/2022/11/04/latex/"> Why Does Latex look so good? </a>
-    </h1>
-
-    <span class="post-date">04 Nov 2022</span>
-
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<p><strong>Keywords: Random</strong></p>
-
-<p>I’ve used LaTex for writing some stuff (check my <a href="/notes">notes</a> lmao). In fact, if you’ve read some of the other articles here, you’ve seen latex before. It’s what allows me to render equations like:</p>
-
-\[L^{a}t^{e}x = p\_{r}^{e} \int ect\]
-
-<p>Latex <em>is</em> perfect. Why does it look so good and feel so good to write?</p>
-
-<h2 id="code-like-writing">Code-like writing.</h2>
-
-<p>With latex, you still feel like you are coding while you are writing. It’s set with it’s own set of commands like \int for a nice \(\int\) or \begin{section} to start a new section of an article. Hell, you are even writing inside of a project with all the other files. You are literally <strong>compiling</strong> the files. Need I say more? This makes you feel cool and productive compared to writing words on an MLA formatted Google Document for an in-class APLAC essay 💀</p>
-
-<h2 id="consistency-in-rendering">Consistency in Rendering</h2>
-
-<p>LaTex always looks the same. You can count on its section headers to look the same, and you know that when you request a bibliography for you it will be automatically alphabetized. You can write an equation, move it to another section, and it will look the same.</p>
-
-<h2 id="style">Style</h2>
-
-<p>Style is a weird thing to describe. Aesthethic is an even worse word to use, because that makes it just more abstract. But I guess the best way to describe LaTex in three words is professional, clean, and precise. The LaTex Rendering never fails to produce the cleanest font. It makes me feel like I’m a real scientist who knows what they’re doing.</p>
-
-<h2 id="how-to-use-latex">How to Use Latex</h2>
-
-<p>Just create another project on <a href="https://www.overleaf.com">Overleaf</a> and that’s it. Our you can select an arXiv preprint and start from there.</p>
 
   </div>
   
