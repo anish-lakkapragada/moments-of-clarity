@@ -12,4 +12,5 @@ Here's a few of them.
 - How the value of a happy memory grows over time
 - The fact that we experience time only as an increasing dimension
 - How we all understand each other, but our headspaces are different
+- How an eterntiy is contained in a 3 minute song
 - [The importance of things I'll forget](/jekyll/update/2023/07/21/hardquestions)
