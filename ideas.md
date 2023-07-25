@@ -13,4 +13,5 @@ Here's a few of them.
 - The fact that we experience time only as an increasing dimension
 - How we all understand each other, but our headspaces are different
 - How an eterntiy is contained in a 3 minute song
+- How the real outcomes are only feelings, and expectations are nominal values
 - [The importance of things I'll forget](/jekyll/update/2023/07/21/hardquestions)
