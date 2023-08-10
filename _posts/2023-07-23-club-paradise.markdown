@@ -33,4 +33,4 @@ As promised, I would check with smarter sources if I missed anything.
 
 This was an easy song to look at it, so there's not a ton of discrepancies between what I found and Genius. Mostly I couldn't recognize the subtle indications that Drake doesn't intend to change based on his performance, and instead maintain the same sound. _Club Paradise_ is actually not a tribute to the 1986 movie but to Drake's favorite gentleman's club.
 
-More songs coming!
+More songs coming! _MELTDOWN_ next?
