@@ -2,7 +2,7 @@
 layout: post
 title: "Series of Philosophies"
 date: 2023-8-15 0:00:00 -0700
-categories: [songs]
+categories: [thinking]
 ---
 
 Here's a list of philosophies to go over. Mostly just so I remember what they mean.

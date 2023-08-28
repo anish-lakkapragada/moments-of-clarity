@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-15T16:06:00-07:00</updated>
+ <updated>2023-08-19T00:55:58-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -13,10 +13,44 @@
 
  
  <entry>
+   <title>Trophies by Drake</title>
+   <link href="http://localhost:4000/songs/2023/08/18/trophies/"/>
+   <updated>2023-08-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/songs/2023/08/18/trophies</id>
+   <content type="html">&lt;p&gt;Besides &lt;em&gt;Club Paradise&lt;/em&gt;, another one of Drake’s best (old) songs I want to revisit is &lt;em&gt;Trophies&lt;/em&gt;. In accordance to the rules of analyzing these songs, I’ve not visited any pages on the lyrical meaning and will do so at the end after I give it my shot.&lt;/p&gt;
+
+&lt;h2 id=&quot;interpretation&quot;&gt;Interpretation&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Trophies&lt;/em&gt; seems to tell the story of Drake defending himself in front of his enemies by claiming that he is an instrumental figure to outsiders (remember this song was made 9 years ago) like him.&lt;/p&gt;
+
+&lt;p&gt;In particular, the song begins with brags (e.g. he doesn’t own, he rents) from Drake meant to establish clearly to the listener that he is beefing with somebody. In case by four lines this is unclear, he clarifies that this song is “not a love song.”&lt;/p&gt;
+
+&lt;p&gt;The tune changes as Drake goes from brags to being vulnerable with his enemies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Damn, what’s the move? &lt;br /&gt;
+Can I tell truth? &lt;br /&gt;
+If I was doing this for you &lt;br /&gt;
+Then I have nothing left to prove, nah &lt;br /&gt;
+This for me, though &lt;br /&gt;
+I’m just tryna stay alive and take care of my people &lt;br /&gt;
+And they don’t have no award for that &lt;br /&gt;
+Trophies, trophies &lt;br /&gt;
+And they don’t have no award for that &lt;br /&gt;
+Shit don’t come with trophies &lt;br /&gt;
+Ain’t no envelopes to open &lt;br /&gt;
+I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The first part&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Series of Philosophies</title>
-   <link href="http://localhost:4000/songs/2023/08/15/perception/"/>
+   <link href="http://localhost:4000/thinking/2023/08/15/perception/"/>
    <updated>2023-08-15T00:00:00-07:00</updated>
-   <id>http://localhost:4000/songs/2023/08/15/perception</id>
+   <id>http://localhost:4000/thinking/2023/08/15/perception</id>
    <content type="html">&lt;p&gt;Here’s a list of philosophies to go over. Mostly just so I remember what they mean.&lt;/p&gt;
 
 &lt;h2 id=&quot;solipsism&quot;&gt;Solipsism&lt;/h2&gt;
