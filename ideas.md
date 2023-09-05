@@ -15,4 +15,4 @@ Here's a few of them.
 - How an eterntiy is contained in a 3 minute song
 - Importance of things I know I'll forget, like walks
 - How the real outcomes are only feelings, and expectations are nominal values
-- [The importance of things I'll forget](/jekyll/update/2023/07/21/hardquestions)
+- [The importance of things I'll forget](/thinking/2023/07/21/hardquestions)
