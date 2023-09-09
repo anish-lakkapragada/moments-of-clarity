@@ -4,13 +4,44 @@
  <title>Moments of Clarity</title>
  <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
  <link href="https://anish.lakkapragada.com/"/>
- <updated>2023-09-04T19:23:55-07:00</updated>
+ <updated>2023-09-08T18:13:34-07:00</updated>
  <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
    <email>anish.lakkapragada@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Our World, In Distributions</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/09/08/bruh/"/>
+   <updated>2023-09-08T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/09/08/bruh</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Flat-earthers have been debating for a long time about whether the earth is flat. And while a nearly unanimous conclusion has been met, I dare say that our earth is not just flat or round. Our world is a distribution. More precisely, many of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;we--data&quot;&gt;We = Data&lt;/h2&gt;
+
+&lt;p&gt;Every single process of our life contributes to a distribution. When I go to the Tea Top store, the boba I buy is added to the distribution of customers, of customers from Lynbrook High School, of customers from Miller Middle School, of customers from San Jose, you get the point. The time when I wake up is added to an number of distributions as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
+
+&lt;p&gt;So, what’s the significance of this? This year I will be applying to college &amp;amp; graduating high school. As I take my AP exams this upcoming May or graduate, I will be contributing to a distribution(s) that thousands of high schoolers have gone through.&lt;/p&gt;
+
+&lt;p&gt;In other words, this process is not unusual. So how much of my life, from 8am to 2am when I’m awake, is? As much as mathematicians and computer scientists like low standard deviations &amp;amp; “big data”, isn’t it boring to consistently be lumped with thousands, to be denied individuality? Are we trapped to the distributions that not-so-subtly tell us that, yes, we are unoriginal?&lt;/p&gt;
+
+&lt;h2 id=&quot;change-makers&quot;&gt;Change-makers&lt;/h2&gt;
+
+&lt;p&gt;Instead, make a distribution. Or refine an existing one.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Change-makers&lt;/em&gt; in our world are those who either a) create distributions and/or b) add significant data to existing distributions and/or c) shift existing distributions. When Jobs invented the iPhone, he expanded the existing distribution of hand-held iPhones, shifted the distribution of the most valued company, and created distributions for touch-screen phones. Same applies for anybody whose ever created users to a product. Making change is about making current models of the world inadequate.&lt;/p&gt;
+
+&lt;h2 id=&quot;ending&quot;&gt;Ending&lt;/h2&gt;
+
+&lt;p&gt;In statistics, the standard deviation formula \(\sigma(x) = \sqrt{\frac{\sum (x[i] - \mu)^2}{N - 1}}\) contains a pesky \(N - 1\). This is there to prevent creating distributions modeling one datapoint (\(N = 1\).) So instead of creating, refining, or shifting a distribution - try to be that &lt;strong&gt;1&lt;/strong&gt; living outside of it all.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Trophies by Drake</title>
@@ -63,7 +94,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/08/15/perception/"/>
    <updated>2023-08-15T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/08/15/perception</id>
-   <content type="html">&lt;p&gt;Here’s a list of philosophies to go over. Mostly just so I remember what they mean.&lt;/p&gt;
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Here’s a list of philosophies to go over. Mostly just so I remember what they mean.&lt;/p&gt;
 
 &lt;h2 id=&quot;solipsism&quot;&gt;Solipsism&lt;/h2&gt;
 
