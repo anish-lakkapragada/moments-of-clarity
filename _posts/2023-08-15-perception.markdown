@@ -5,6 +5,8 @@ date: 2023-8-15 0:00:00 -0700
 categories: [thinking]
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 Here's a list of philosophies to go over. Mostly just so I remember what they mean.
 
 ## Solipsism
