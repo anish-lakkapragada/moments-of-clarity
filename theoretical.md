@@ -4,7 +4,7 @@ title: theoretical
 permalink: /notes/
 ---
 
-Attached are all the articles and challenges (for my school's ML Club) that I've written here. Most, if not all, will (hopefully) be rendered with LaTeX, which I've discussed [here][7].
+Attached are all the articles and challenges (for my school's ML Club) that I've written here. Most will (hopefully) be rendered with LaTeX, which I've discussed [here][7].
 
 ## Articles
 
