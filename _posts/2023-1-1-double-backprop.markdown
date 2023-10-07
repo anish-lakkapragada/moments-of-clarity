@@ -34,7 +34,7 @@ This is why the (partial) derivative in the equation measures the model's perfor
 
 ## Double-Backpropagation for Smooth Latent Spaces (?)
 
-Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model $$ G $$ is a function that takes in a random generated vector $$ \vec{x} $$ and returns an image $$ Y $$.
+Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model $$ G $$ is a function that takes in a random generated vector **v** and returns an image $$ Y $$.
 
 Let's say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)
 
@@ -42,4 +42,4 @@ Let's say this generative model is trained through some black-box witchcraft (or
 
 A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don't really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.
 
-Ideally in these models, the mapping of the input vector $$ \vec{x} $$ to the image $$ Y $$ learned by $$ G $$ is _smooth_ - small changes in $$ \vec{x} $$ shouldn't lead to drastic changes in $$ Y $$. Do you see where I am going with this?
+Ideally in these models, the mapping of the input vector **x** to the image $$ Y $$ learned by $$ G $$ is _smooth_ - small changes in **x** shouldn't lead to drastic changes in $$ Y $$. Do you see where I am going with this?

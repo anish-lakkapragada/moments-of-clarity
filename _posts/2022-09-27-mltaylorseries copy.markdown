@@ -30,29 +30,29 @@ _Before reading about the usage of Taylor Series in gradient descent, keep in mi
 
 Gradient Descent is an iterative algorithm to generally optimize some function overtime based on its gradient (vector of partial derivatives.) The gradient yields a vector that tells the fastest way to ascend a curve - with gradient _descent_ you try to go _down_ the curve and thus constantly move in the negative of this gradient (moving with the positive is called gradient ascent). Gradient Descent is shown below.
 
-$$ \theta*{t} = \theta*{t - 1} - \alpha \* \nabla*{\theta*{t - 1}} J $$
+$$ \theta_{t} = \theta_{t - 1} - \alpha * \nabla_{\theta_{t - 1}} J $$
 
-For more clarification, $$ \theta*{t} $$ are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep $$ t $$ and $$ \nabla*{\theta\_{t - 1}} J $$ represents the gradient of the objective function $$ J $$ that we are trying to minimize. It's not shown, but $$ J $$ takes in the parameters $$ x, y $$ and $$ \theta $$.  As stated, we move in the direction of the negative of the gradient. $$ \alpha $$ is the learning rate and is applied to scale the gradient and prevent too high movements.
+For more clarification, $$ \theta_{t} $$ are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep $$ t $$ and $$ \nabla_{\theta_{t - 1}} J $$ represents the gradient of the objective function $$ J $$ that we are trying to minimize. It's not shown, but $$ J $$ takes in the parameters $$ x, y $$ and $$ \theta $$.  As stated, we move in the direction of the negative of the gradient. $$ \alpha $$ is the learning rate and is applied to scale the gradient and prevent too high movements.
 
-Gradient Descent can be re-thought of as finding some value $$ \Delta \theta $$ to adjust $$ \theta*{t - 1} $$ at each iteration $$ t $$ such that $$ J(\theta*{t - 1} + \Delta \theta) $$ is less than $$ J(\theta\_{t - 1}) $$. This is where taylor series come in - they help us find this required change. The taylor series to approximate the new value of the objective function to the first-degree is shown below.
+Gradient Descent can be re-thought of as finding some value $$ \Delta \theta $$ to adjust $$ \theta_{t - 1} $$ at each iteration $$ t $$ such that $$ J(\theta_{t - 1} + \Delta \theta) $$ is less than $$ J(\theta_{t - 1}) $$. This is where taylor series come in - they help us find this required change. The taylor series to approximate the new value of the objective function to the first-degree is shown below.
 
 > Disclaimer: My linear algebra and multivariable calculus skills are kinda DNE, so please don't try to inspect every term and make sure that the shapes all match up (probably missing a transpose here and there). Instead try to built intuition of the general approach.
 
-$$ J(\theta*{t - 1} + \Delta \theta) \approx J(\theta*{t - 1}) + \nabla*{\theta*{t - 1}} J \* \Delta \theta $$
+$$ J(\theta_{t - 1} + \Delta \theta) \approx J(\theta_{t - 1}) + \nabla_{\theta_{t - 1}} J * \Delta \theta $$
 
-This is a bit confusing, so let's clarify, in this case the $$ x $$ in the approximation of $$ f(x) $$ is actually $$ \theta*{t - 1} + \Delta \theta $$ and thus the taylor series is centered at a point $$ c $$ of $$ \theta*{t - 1} $$. This means that the first-degree term $$ x - c $$ actually equals just $$ \Delta \theta $$.
+This is a bit confusing, so let's clarify, in this case the $$ x $$ in the approximation of $$ f(x) $$ is actually $$ \theta_{t - 1} + \Delta \theta $$ and thus the taylor series is centered at a point $$ c $$ of $$ \theta_{t - 1} $$. This means that the first-degree term $$ x - c $$ actually equals just $$ \Delta \theta $$.
 
-This is where it gets clever. Given that we set $$ J(\theta*{t - 1}) $$ or $$ J(\theta*{t - 1} + \Delta \theta) $$ to be less than $$ J(\theta*{t - 1}) $$, to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing $$ J(\theta*{t - 1}) $$ with negatives from the first-degree expression ($$ \nabla*{\theta*{t - 1}} J \* \Delta\theta $$) to it. We could just set $$ \Delta \theta $$ to $$ -1 $$, but because $$ \nabla*{\theta{t - 1}} J $$ is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of $$ \Delta \theta $$ that will make $$ \nabla*{\theta{t - 1}} J $$ ALL negative.
+This is where it gets clever. Given that we set $$ J(\theta_{t - 1}) $$ or $$ J(\theta_{t - 1} + \Delta \theta) $$ to be less than $$ J(\theta_{t - 1}) $$, to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing $$ J(\theta_{t - 1}) $$ with negatives from the first-degree expression ($$ \nabla_{\theta_{t - 1}} J * \Delta\theta $$) to it. We could just set $$ \Delta \theta $$ to $$ -1 $$, but because $$ \nabla_{\theta_{t - 1}} J $$ is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of $$ \Delta \theta $$ that will make $$ \nabla_{\theta_{t - 1}} J $$ ALL negative.
 
-This is actually much easier than expected. Just set $$ \Delta \theta $$ to the _negative_ of $$ \nabla\_{\theta{t - 1}} J$$ and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.
+This is actually much easier than expected. Just set $$ \Delta \theta $$ to the _negative_ of $$ \nabla_{\theta_{t - 1}} J$$ and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.
 
 This means that in our (minimization) algorithm of Gradient Descent, with $$ \alpha $$ for stability, we have:
 
-$$ \theta*{t} = \theta*{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha \* \nabla\_{\theta{t - 1}} J $$
+$$ \theta_{t} = \theta_{t - 1} + \Delta \theta_{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta_{t - 1}} J $$
 
 That's gradient descent!
 
-A lot of this information was taken from [here](https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf) and summarized to be less confusing and more intuitive here. We can expand this method to actually include second and third derivatives as well - but those aren't used as much due to requiring more computational power (sorry for the explanation that literally _everyone_ gives.)
+A lot of this information was taken from [here](https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf) and summarized here. We can expand this method to actually include second and third derivatives as well - but those aren't used as much due to requiring more computational power (sorry for the explanation that literally _everyone_ gives.)
 
 ## Taylor Series in Polynomial Regression
 
@@ -60,9 +60,9 @@ Weeee that was a lot of work for gradient descent! Luckily, applications of tayl
 
 Polynomial regression is basically a type of linear regression where a single input (let's stick to one-dimensional input for simplicity) is raised to higher powers and then the appropriate coefficients are found. The prediction function for a two-degree polynomial regression is shown below.
 
-$$ \hat{y} = h(x) = \beta*{0} + \beta*{1}x + \beta\_{2}x^{2} $$
+$$ \hat{y} = h(x) = \beta_{0} + \beta_{1}x + \beta_{2}x^{2} $$
 
-As shown above, $$ \hat{y} $$ are the predictions and $$ \beta\_{n} $$ are the coefficients for $$ x $$ raised to the $$n$$-th power. Already looks like a taylor series (or maclaurin series as $$ c = 0 $$) right?
+As shown above, $$ \hat{y} $$ are the predictions and $$ \beta_{n} $$ are the coefficients for $$ x $$ raised to the $$n$$-th power. Already looks like a taylor series (or maclaurin series as $$ c = 0 $$) right?
 
 In fact, it is! It's that simple. Let's see if this actually works in practice.
 
@@ -70,9 +70,9 @@ In fact, it is! It's that simple. Let's see if this actually works in practice.
 
 Alliteration, huh? Okay, so the famous taylor series of the function $$ e^{x} $$ is shown below.
 
-$$ e^{x} = \sum\_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots$$
+$$ e^{x} = \sum_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots$$
 
-Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)'s in Python, that takes in $$ x $$ and $$ x^{2} $$ as input - will it learn $$ {1, 1, 0.5} $$ as $$ \beta*{0}, \beta*{1}, \beta\_{2} $$ respectively?
+Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)'s in Python, that takes in $$ x $$ and $$ x^{2} $$ as input - will it learn $$ {1, 1, 0.5} $$ as $$ \beta_{0}, \beta_{1}, \beta\_{2} $$ respectively?
 
 Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?
 
@@ -102,14 +102,14 @@ lin_reg = LinearRegression() # lin reg algorithm
 lin_reg.fit(X_poly, y)
 ```
 
-Let's inspect the coefficients $$ \beta*{1}, \beta*{2} $$.
+Let's inspect the coefficients $$ \beta_{1}, \beta_{2} $$.
 
 ```py
 >>> lin_reg.coef_
 array([-1.24106858,  2.25427569])
 ```
 
-And the bias $$ \beta\_{0} $$.
+And the bias $$ \beta_{0} $$.
 
 ```py
 >>> lin_reg.intercept_

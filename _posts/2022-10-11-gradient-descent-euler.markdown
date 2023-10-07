@@ -15,13 +15,13 @@ I've already talked a fair amount about Gradient Descent. One of the most fascin
 
 As a refresher Gradient Descent is:
 
-$$ \theta*{t} = \theta*{t - 1} - \alpha\nabla*{\theta*{t - 1}} J$$
+$$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$
 
 Unlike with the Taylor Series article, this time we will be keeping the learning rate $$ \alpha $$ into consideration.
 
 Gradient Descent can actually be summarized as this Differential Equation.
 
-$$ \dfrac{∂\theta*{t}}{∂t} = -\alpha \dfrac{∂J(\theta*{t})}{∂\theta\_{t}} $$
+$$ \dfrac{∂\theta_{t}}{∂t} = -\alpha \dfrac{∂J(\theta_{t})}{∂\theta_{t}} $$
 
 This differential equation is obviously unsolvable. A common way of approximating a function when an unsolvable differential equation is given is to use Euler's method.
 
@@ -39,6 +39,6 @@ We could redo this one more time and get $$y(2) \approx y(1) + y'(1)$$, yielding
 
 ## Gradient Descent Conclusion
 
-Let's look at our algo again - gradient descent is given by $$ \theta*{t} = \theta*{t - 1} - \alpha\nabla*{\theta*{t - 1}} J$$, thus we can see that it is basically euler's method with a step size of $$\alpha$$, however done in reverse (hence the negative in the step size.)
+Let's look at our algo again - gradient descent is given by $$ \theta_{t} = \theta_{t - 1} - \alpha\nabla_{\theta_{t - 1}} J$$, thus we can see that it is basically euler's method with a step size of $$\alpha$$, however done in reverse (hence the negative in the step size.)
 
 Yet another perspective on how to view Gradient Descent. More to come.
