@@ -16,11 +16,11 @@ And how much do those seconds take up of the entire song?
 
 Even further, is it better if they take up less seconds (so that I don't get bored of them as much), or do I want these timespans of joy to be longer because well ... they are nice to listen?
 
-I don't have an answer (yet). So, as a reasonable excuse to procrastinate on deliberating this question, I hope you accept my offering of a lot of songs I listen to and those musically gold seconds worth listening to.It's also a good excuse for me to revisit my favorite songs. And make a playlist (but pretend that I am coding) of only the best parts of my favorite songs.
+I don't have an answer (yet). So, as a reasonable excuse to procrastinate on deliberating this question, I hope you enjoy/utilize my offering of the musical golden seconds I listen to in some of my favorite songs.
 
 ## Musically Gold List (in no specific order)
 
-With a three-word description of each segment!
+With a three-word, freely-associated description of each interval!
 
 #### 1. _You Only Live Twice_ - Drake ft. Lil Wayne, Rick Ross (0:49-1:00)
 
