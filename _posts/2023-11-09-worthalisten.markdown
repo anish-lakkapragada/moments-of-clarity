@@ -36,7 +36,7 @@ _Tone: Peaceful, Emotional, Soft_
 
 #### 3. _Tuscan Leather_ - Drake (3:12-3:42)
 
-<audio style="text-align:center" src="/songs/tl.mp4#t=192" controls preload></audio>
+<audio style="text-align:center" src="/songs/tl.mp3#t=192" controls preload></audio>
 
 _Tone: End, Of, (A) Movie_
 
@@ -75,3 +75,15 @@ _Tone: Great, Gatsby, Vibes_
 <audio style="text-align:center" src="/songs/trophies.mp3#t=120" controls preload></audio>
 
 _Tone: Humble, Tired, Sweating_
+
+#### 10. _All The Parties_ - Drake (1:07 - 1:20)
+
+<audio style="text-align:center" src="/songs/alltheparties.mp3#t=67" controls preload></audio>
+
+_Tone: Sad, Bored, Teary_
+
+## Original Question
+
+First of: yes, they did all have Drake in them.
+
+Based on this song sample (which came straight from memory, so probably not super representative), it looks like shorter time frames almost always lead to stronger moments than those longer.
