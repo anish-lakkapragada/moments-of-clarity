@@ -1,6 +1,6 @@
 on:
   workflow_run:
-    workflows: ["Deploy GitHub Pages site"]
+    workflows: ["Custom Deploy"]
     types:
       - completed
 
