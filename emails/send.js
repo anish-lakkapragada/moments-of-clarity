@@ -31,7 +31,7 @@ const run = async () => {
             title: `Moments of Clarity v2.0 Campaign-${currentDate}`, 
             from_name: "Anish Krishna Lakkapragada", 
             inline_css: true,
-            reply_to: "631917@bah.com", 
+            reply_to: "anish.lakkapragada@gmail.com", 
             template_id: 10563987
         }
     });
@@ -43,12 +43,6 @@ const run = async () => {
 }
 
 run();
-
-
-
-
-
-
 
 
 
