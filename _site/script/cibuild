@@ -1,0 +1,25 @@
+#!/bin/bash
+# skip if build is triggered by pull request
+if [ $TRAVIS_PULL_REQUEST == "true" ]; then
+  echo "this is PR, exiting"
+  exit 0
+fi
+# enable error reporting to the console
+set -e
+# cleanup "_site"
+rm -rf _site
+mkdir _site
+# clone remote repo to "_site"
+git clone https://${GH_TOKEN}@github.com/anish-lakkapragada/anish-lakkapragada.github.io.git --branch gh-pages _site
+# build with Jekyll into "_site"
+bundle install
+bundle exec jekyll build
+
+# push
+cd _site
+git config user.email "anish.lakkapragada@gmail.com"
+git config user.name "anish-lakkapragada"
+git config --list 
+git add --all
+git commit -m "Travis Deployment #$TRAVIS_BUILD_NUMBER"
+git push --force origin gh-pages
