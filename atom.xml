@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Moments of Clarity</title>
- <link href="https://anish-lakkapragada.github.io/atom.xml" rel="self"/>
- <link href="https://anish-lakkapragada.github.io/"/>
- <updated>2023-05-19T06:20:48+00:00</updated>
- <id>https://anish-lakkapragada.github.io</id>
+ <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
+ <link href="https://anish.lakkapragada.com/"/>
+ <updated>2023-11-10T23:06:41-08:00</updated>
+ <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
    <email>anish.lakkapragada@gmail.com</email>
@@ -13,10 +13,374 @@
 
  
  <entry>
+   <title>Worth A Listen?</title>
+   <link href="https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten/"/>
+   <updated>2023-11-08T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;A famous quote I’ve remembered for the last four years goes something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If a book even has a few words of literary gold, it’s worth rereading the entire thing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recently, I’ve been thinking about how many songs I listen to just for a few seconds - a tone change, a beat switch, etc.
+And how much do those seconds take up of the entire song?&lt;/p&gt;
+
+&lt;p&gt;Even further, is it better if they take up less seconds (so that I don’t get bored of them as much), or do I want these timespans of joy to be longer because well … they are nice to listen?&lt;/p&gt;
+
+&lt;p&gt;I don’t have an answer (yet). So, as a reasonable excuse to procrastinate on deliberating this question, I hope you enjoy/utilize my offering of the musical golden seconds I listen to in some of my favorite songs.&lt;/p&gt;
+
+&lt;h2 id=&quot;musically-gold-list-in-no-specific-order&quot;&gt;Musically Gold List (in no specific order)&lt;/h2&gt;
+
+&lt;p&gt;With a three-word, freely-associated description of each interval!&lt;/p&gt;
+
+&lt;h4 id=&quot;1-you-only-live-twice---drake-ft-lil-wayne-rick-ross-049-100&quot;&gt;1. &lt;em&gt;You Only Live Twice&lt;/em&gt; - Drake ft. Lil Wayne, Rick Ross (0:49-1:00)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/yolo.mp3#t=49&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Inspirational, Uplifting, Funky&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-cameras--good-ones-go-interlude-medley---drake-434-600&quot;&gt;2. &lt;em&gt;Cameras / Good Ones Go Interlude (Medley)&lt;/em&gt; - Drake (4:34-6:00)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/cameras.mp3#t=274&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Peaceful, Emotional, Soft&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-tuscan-leather---drake-312-342&quot;&gt;3. &lt;em&gt;Tuscan Leather&lt;/em&gt; - Drake (3:12-3:42)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/tl.mp3#t=192&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: End, Of, (A) Movie&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;4-shot-for-me---drake-325---336&quot;&gt;4. &lt;em&gt;Shot For Me&lt;/em&gt; - Drake (3:25 - 3:36)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/shotforme.mp3#t=205&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Optimistic, Upbeat, Wavy&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5-lord-knows---drake-rick-ross-326---415&quot;&gt;5. &lt;em&gt;Lord Knows&lt;/em&gt; - Drake, Rick Ross (3:26 - 4:15)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/lord_knows.mp3#t=206&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Elevated, Rising, Floating&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;6-race-my-mind---drake-337---420&quot;&gt;6. &lt;em&gt;Race My Mind&lt;/em&gt; - Drake (3:37 - 4:20)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/rcm.mp3#t=217&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Spaceship, Forward, Rushing&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;7-0-to-100--the-catch-up---drake-300---328&quot;&gt;7. &lt;em&gt;0 To 100 / The Catch Up&lt;/em&gt; - Drake (3:00 - 3:28)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/zerotohundo.mp3#t=180&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Reflective, Quiet, Lost&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;8-connect---drake-246---322&quot;&gt;8. &lt;em&gt;Connect&lt;/em&gt; - Drake (2:46 - 3:22)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/connect.mp3#t=166&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Great, Gatsby, Vibes&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;9-trophies---drake-200---240&quot;&gt;9. &lt;em&gt;Trophies&lt;/em&gt; - Drake (2:00 - 2:40)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/trophies.mp3#t=120&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Humble, Tired, Sweating&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;10-all-the-parties---drake-107---120&quot;&gt;10. &lt;em&gt;All The Parties&lt;/em&gt; - Drake (1:07 - 1:20)&lt;/h4&gt;
+
+&lt;audio style=&quot;text-align:center&quot; src=&quot;/songs/alltheparties.mp3#t=67&quot; controls=&quot;&quot; preload=&quot;&quot;&gt;&lt;/audio&gt;
+
+&lt;p&gt;&lt;em&gt;Tone: Sad, Bored, Teary&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;original-question&quot;&gt;Original Question&lt;/h2&gt;
+
+&lt;p&gt;First of: yes, they did all have Drake in them.&lt;/p&gt;
+
+&lt;p&gt;Based on this song sample (which came straight from memory, so probably not super representative), it looks like shorter time frames almost always lead to stronger moments than those longer.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Review: For All The Dogs</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/10/06/fatd/"/>
+   <updated>2023-10-06T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/10/06/fatd</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;disclaimer: i am a drake stan&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;trigger warnings: Drake, album&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TLDR&lt;/h2&gt;
+
+&lt;p&gt;Not a bad album. I’ll repeat that again. Not a bad album.&lt;/p&gt;
+
+&lt;p&gt;Obviously, don’t expect another &lt;em&gt;Nothing Was The Same&lt;/em&gt; and &lt;em&gt;Take Care&lt;/em&gt; to get dropped by the 6 God, but don’t dismiss another solid album either. The album carries the same angry tone from Drizzy’s previous &lt;em&gt;Her Loss&lt;/em&gt; album with a fair share of emotional tracks as well. Does it sound as reflective as his past works? No. Is it passable? More than so.&lt;/p&gt;
+
+&lt;h2 id=&quot;lack-of-changes&quot;&gt;Lack of Changes&lt;/h2&gt;
+
+&lt;p&gt;That being said, the album doesn’t come with a whole lot of changes. His style of complaining, crooning, denigrating, and out-of-pocket lyrics haven’t gone anywhere. It just feels like a natural extension of the angry tones on &lt;em&gt;Her Loss&lt;/em&gt; with the perceived absurdity/memery of &lt;em&gt;Certified Lover Boy&lt;/em&gt;. Personally, I find nothing wrong with sticking to one what knows, but the internet seems to have higher standards for him. Granted, he is in the top 3 (conservatively top 7) rappers of all time.&lt;/p&gt;
+
+&lt;p&gt;In particular, Drake got a lot of static for his use of features on this album. There’s no shortage of criticism that these days, regardless of whether it’s Lil Baby, SZA, J. Cole, or Yeat, Drake gets washed up with his features. While there may be some truth in that, I feel like that’s heavily overexaggerated and largely just a function of disagreements of with Drake’s style. Specifically his “zoned out” feel that makes him seem like he doesn’t want to be in a studio.&lt;/p&gt;
+
+&lt;h2 id=&quot;defending-the-sound-&quot;&gt;Defending the Sound (?)&lt;/h2&gt;
+
+&lt;p&gt;Has nobody ever picked up that maybe he does this intentionally or that this frankly fits his lyrics more? Drake &lt;em&gt;doesn’t&lt;/em&gt; need to be here. He doesn’t &lt;em&gt;need&lt;/em&gt; to compete with current rap forerunners like Yeat, Lil Baby, or whoever else – he’s truly in a league of his own, rivaling widely recognized artists like Taylor Swift. As he said on &lt;em&gt;First Person Shooter&lt;/em&gt;, he’s just short of Michael (Jordan). Not to mention that Drake quite literally has been doing this for perhaps too long? Few rappers are able to maintain prevalence for a couple of years, let alone decades. It should come as no surprise then that he needs a break.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-note-on-consistency&quot;&gt;A Note On Consistency&lt;/h2&gt;
+
+&lt;p&gt;Drake is consistent in two ways: 1) creating music that sounds the same and 2) doing #1 over years. Few artists have maintained his consistency as he has done. Is this a good excuse for a B music-point average, compared to other artists with higher peaks? I would say it’s not entirely devoid of merit, but not to be overly celebrated either.&lt;/p&gt;
+
+&lt;p&gt;Of course, ideally Drake would be consistent in just creating sounds with a new song. But that’s not realistic.&lt;/p&gt;
+
+&lt;p&gt;And on an ending note, that drawing may have been his best album cover.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lifetimes in 3 Minutes: Music</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/10/06/songs/"/>
+   <updated>2023-10-06T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/10/06/songs</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Lately, I’ve been thinking about different forms of media. More specifically, the differences between movies, books, and music.&lt;/p&gt;
+
+&lt;p&gt;All of them vary in terms in the time we spend understanding them, with music by far taking the least. In ~3ish minutes, we hear a song full of rhetorical devices &amp;amp; references only to skip past it. In contrast, we spend hours analyzing the written word for meaning in literature classes – even when those words are a transcription of audio. The fact that just because something is intangible – sound – leads to its perceived lack of meaning is astounding.&lt;/p&gt;
+
+&lt;p&gt;In any song, an eternity is present. Similarly to how a story can liberally extend across years, decades, or even lifetimes - so do songs. Rarely does a mainstream song seem to be conveying a moment in the few minutes it is listened to. The lack of ability to hit pause (literally) causes a gap in our understandig of this crucial media through which thousands of stories are shared.&lt;/p&gt;
+
+&lt;p&gt;Some websites do a decent job of analyzing meaning, notably Genius. Regardless, the level of attention (or lack thereof) paid to songs of the 21st century leaves me concerned on whether such pieces of art will persist through generations. It can be argued that monumental works like &lt;em&gt;To Kill a Mockingbird&lt;/em&gt; has survived in no small part due to its passage in high-school/college education; will not the same occur for the music we listen to today on the radio? Music from the past has persisted through centuries (think Beethoven, Mozart), will not the same be true for today’s Drake/21 Savage/Rihanna/YMCB? It may feel absurd to even suggest a comparison between the two artists, but then again artists often gain the respect they deserve &lt;em&gt;after&lt;/em&gt; they are long gone.&lt;/p&gt;
+
+&lt;p&gt;To be clear, I am not advocating for not listening to songs back to back, or switching radio stations, etc. Instead I am asking for higher academic attention placed on the music media of today.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our World, In Distributions</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/09/08/bruh/"/>
+   <updated>2023-09-08T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/09/08/bruh</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Flat-earthers have been debating for a long time about whether the earth is flat. And while a nearly unanimous conclusion has been met, I dare say that our earth is not just flat or round. Our world is a distribution. More precisely, many of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;we--data&quot;&gt;We = Data&lt;/h2&gt;
+
+&lt;p&gt;Every single process of our life contributes to a distribution. When I go to the Tea Top store, the boba I buy is added to the distribution of customers, of customers from Lynbrook High School, of customers from Miller Middle School, of customers from San Jose, you get the point. The time when I wake up is added to an number of distributions as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
+
+&lt;p&gt;So, what’s the significance of this? This year I will be applying to college &amp;amp; graduating high school. As I take my AP exams this upcoming May or graduate, I will be contributing to a distribution(s) that thousands of high schoolers have gone through.&lt;/p&gt;
+
+&lt;p&gt;In other words, this process is not unusual. So how much of my life, from 8am to 2am when I’m awake, is? As much as mathematicians and computer scientists like low standard deviations &amp;amp; “big data”, isn’t it boring to consistently be lumped with thousands, to be denied individuality? Are we trapped to the distributions that not-so-subtly tell us that, yes, we are unoriginal?&lt;/p&gt;
+
+&lt;h2 id=&quot;change-makers&quot;&gt;Change-makers&lt;/h2&gt;
+
+&lt;p&gt;Instead, make a distribution. Or refine an existing one.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Change-makers&lt;/em&gt; in our world are those who either a) create distributions and/or b) add significant data to existing distributions and/or c) shift existing distributions. When Jobs invented the iPhone, he expanded the existing distribution of hand-held iPhones, shifted the distribution of the most valued company, and created distributions for touch-screen phones. Same applies for anybody whose ever created users to a product. Making change is about making current models of the world inadequate.&lt;/p&gt;
+
+&lt;h2 id=&quot;ending&quot;&gt;Ending&lt;/h2&gt;
+
+&lt;p&gt;In statistics, the standard deviation formula \(\sigma(x) = \sqrt{\frac{\sum (x[i] - \mu)^2}{N - 1}}\) contains a pesky \(N - 1\). This is there to prevent creating distributions modeling one datapoint (\(N = 1\).) So instead of creating, refining, or shifting a distribution - try to be that &lt;strong&gt;1&lt;/strong&gt; living outside of it all.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trophies by Drake</title>
+   <link href="https://anish.lakkapragada.com/songs/2023/08/18/trophies/"/>
+   <updated>2023-08-18T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/songs/2023/08/18/trophies</id>
+   <content type="html">&lt;p&gt;Besides &lt;em&gt;Club Paradise&lt;/em&gt;, another one of Drake’s best (old) songs I want to revisit is &lt;em&gt;Trophies&lt;/em&gt;. In accordance to the rules of analyzing these songs, I’ve not visited any pages on the lyrical meaning and will do so at the end after I give it my shot.&lt;/p&gt;
+
+&lt;h2 id=&quot;interpretation&quot;&gt;Interpretation&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Trophies&lt;/em&gt; seems to tell the story of Drake defending himself in front of his enemies by claiming that he is an instrumental figure to outsiders (remember this song was made 9 years ago) like him.&lt;/p&gt;
+
+&lt;p&gt;In particular, the song begins with brags (e.g. he doesn’t own, he rents) from Drake meant to establish clearly to the listener that he is beefing with somebody. In case by four lines this is unclear, he clarifies that this song is “not a love song.”&lt;/p&gt;
+
+&lt;p&gt;The tune changes as Drake goes from brags to being vulnerable with his enemies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Damn, what’s the move? &lt;br /&gt;
+Can I tell truth? &lt;br /&gt;
+If I was doing this for you &lt;br /&gt;
+Then I have nothing left to prove, nah &lt;br /&gt;
+This for me, though &lt;br /&gt;
+I’m just tryna stay alive and take care of my people &lt;br /&gt;
+And they don’t have no award for that &lt;br /&gt;
+Trophies, trophies &lt;br /&gt;
+And they don’t have no award for that &lt;br /&gt;
+—- don’t come with trophies &lt;br /&gt;
+Ain’t no envelopes to open &lt;br /&gt;
+I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Drake here is explaining how his performance is purportedly not to impress anyone, as (through yet another brag) he has already done so, but to show what’s possible for “my people” (most likely referring to those from Toronto?). He repeats the fact that there are no trophies for taking care of others, as if he needs &lt;a href=&quot;https://imageio.forbes.com/specials-images/imageserve/686541504/0x0.jpg?format=jpg&amp;amp;width=1200&quot;&gt;any more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While it’s unclear if Drake in this verse embodies a man vs. society conflict, it seems more likely than a man vs. man conflict as I cannot see any clear references to others when he says “boys” in the brags that begin the song.&lt;/p&gt;
+
+&lt;p&gt;The song repeats a second time, and then ends.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-i-right&quot;&gt;Was I right?&lt;/h2&gt;
+
+&lt;p&gt;As is custom, I’ll check my interpretation with Genius.&lt;/p&gt;
+
+&lt;p&gt;Genius cannot find any specific people Drake is referring to in this song. Drake’s vulnerable segment about not proving himself to others does not seem directed to anybody and is connected to the general idea that at this time he is basically undisputed #1. All the other references Genius finds are for his brag verse.&lt;/p&gt;
+
+&lt;p&gt;That’s all!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Series of Philosophies</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/08/15/perception/"/>
+   <updated>2023-08-15T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/08/15/perception</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Here’s a list of philosophies to go over. Mostly just so I remember what they mean.&lt;/p&gt;
+
+&lt;h2 id=&quot;solipsism&quot;&gt;Solipsism&lt;/h2&gt;
+
+&lt;p&gt;We will never know if we see the world in the same way. Meaning, are our colors the same? My pink could be your green and your green could be my pink. Do we really taste food the same way?&lt;/p&gt;
+
+&lt;p&gt;In short, beyond ourselves, we can’t really think further about what is real. We all mutually agree that the leaves are green, but what if it’s objectively blue but we all say that it’s green because green to us is blue.&lt;/p&gt;
+
+&lt;p&gt;This is where science comes into play. While wavelengths do exist to scientifically explain different colors or pH scales measuring acidity - I’m reminded of the dragon in &lt;em&gt;Grendel&lt;/em&gt; reprimanding humans for overgeneralization of observations made in an inconsequential amount of time. Like a 2D-seeing deer that can’t recognize the car approaching it, we could be failing to recognize that these easily distinguishable properties between the colors of leaves or tastes of food comes from the simplicity of a 3D view of a potentially ∞-d world. In other words, everything could be an illusion.&lt;/p&gt;
+
+&lt;p&gt;What we only know to be true is that we exist and our perception of reality. That’s &lt;em&gt;solipsism&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Club Paradise by Drake</title>
+   <link href="https://anish.lakkapragada.com/songs/2023/07/23/club-paradise/"/>
+   <updated>2023-07-23T16:27:08-07:00</updated>
+   <id>https://anish.lakkapragada.com/songs/2023/07/23/club-paradise</id>
+   <content type="html">&lt;p&gt;One of my favorite time wasters is reading song lyrics to understand what they mean. After all, we do the same for literature - analyzing things up to the colon - so maybe doing the same for well-thought music is not a bad idea.&lt;/p&gt;
+
+&lt;p&gt;The first song I’d like to try this with is Drake’s reflective song &lt;em&gt;Club Paradise&lt;/em&gt; as part of the Care Package album. Keep in mind that at the end of this article I’ll confirm with more reliable sources (cough cough &lt;em&gt;Genius&lt;/em&gt; cough cough) about whether I got the meaning correct - so don’t hyperventilate if I completely mis close read.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The lyrics to &lt;em&gt;Club Paradise&lt;/em&gt; can be found &lt;a href=&quot;https://www.azlyrics.com/lyrics/drake/clubparadise.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;story-line&quot;&gt;Story Line&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Club Paradise&lt;/em&gt; tells the story of Drake having left his hometown (Toronto) wanting to come back to a home that doesn’t accept him anymore. Although not specifically stated, there are strong allusions to Drake being seen as disconnected from who he was due to how he seems “caught up in where [he is] right now.”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“No wonder I feel awkward at this Fashion Week”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Drake denies allegations that he’s changed from his original hometown persona by taking shots at all the fancy things he secretly (or now, publicly) can’t stand - notably Fashion Week or how to formally do a double-cheek kiss. He even goes so far as to defend his realness by the very fact that he knows the names of performers at a gentleman’s club.&lt;/p&gt;
+
+&lt;p&gt;Throughout the song, he asks the same question about &lt;em&gt;“who did he leave behind”&lt;/em&gt;. My guess is that this is a reference to who Drake has not publicly acknowledged has helped him or not given anything back to in return. He’s desperate for reassurance that he &lt;em&gt;is&lt;/em&gt; still the same person, as shown in the lines below:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Yeah, just lie to my ears. Tell me it feel the same, that’s all I’ve been dying to hear”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The next part of the story confirms his identity crisis even more. Even his mom considers him a &lt;em&gt;“slave to the wealth”&lt;/em&gt;. He explains that he’s never failed to achieve anything but is still vulnerable and most importantly needs love.&lt;/p&gt;
+
+&lt;p&gt;Overall, this is one of Drake’s better tracks which indicates why it’s probably less listened to (this is real.) The level of introspection present is insane.&lt;/p&gt;
+
+&lt;h2 id=&quot;did-i-get-it-correct&quot;&gt;Did I get it correct?&lt;/h2&gt;
+
+&lt;p&gt;As promised, I would check with smarter sources if I missed anything.&lt;/p&gt;
+
+&lt;p&gt;This was an easy song to look at it, so there’s not a ton of discrepancies between what I found and Genius. Mostly I couldn’t recognize the subtle indications that Drake doesn’t intend to change based on his performance, and instead maintain the same sound. &lt;em&gt;Club Paradise&lt;/em&gt; is actually not a tribute to the 1986 movie but to Drake’s favorite gentleman’s club.&lt;/p&gt;
+
+&lt;p&gt;More songs coming! &lt;em&gt;MELTDOWN&lt;/em&gt; next?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Hard Question (Partially) Answered, Badly</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions/"/>
+   <updated>2023-07-21T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions</id>
+   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have managed to not post anything here for a whole month. :&amp;lt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Every night, I am challenged with the question of whether to keep on watching videos on YouTube that I know I’ll forget by the next morning or whether not to sleep. As a big fan of psuedomathematics - mathematics applied in the least non-rigorous setting for the most fun possible - I’m going to try to apply that here. I’ll go over in the end why pseudomathematics is (maybe?) not a complete waste of time.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Assuming everything in your life is predetermined (big assumption, I know) - we can assume the functions of \(life(t)\) or \(l(t)\) is set. This function will return your set of experiences \(e\) each of which can be evaluated for a happiness score \(H(e(t))\) and a memorability score \(M(e(t))\). For now, let’s assume that \(e(t)\) is a vector-valued function with values that are interpretable in the same way of a latent space. The first element of this vector is the time at which this experience starts. Given this, the total happiness in your life \(Q\) from \(t=0\) to time \(T\) over a total of \(E\) experiences&lt;/p&gt;
+
+\[Q(T) = \sum_{i=1}^{E} M(e_{i}) * H(e_{i})\]
+
+&lt;p&gt;or with cheesy calculus,&lt;/p&gt;
+
+\[Q(T) = \int_{t=0}^{T} M(l(t)) * H(l(t)) dt\]
+
+&lt;p&gt;But we are not done yet! Keep in mind that the memorability \(M(e(t))\) and its happiness \(H(e(t))\) will actually vary throughout your life. An event may be forgotten about but then remembered, or may seem happy at first but then become sad. Not to mention both \(M\) and \(H\) are probably correlated, which we can ignore to make things simpler. For now, let’s revise the calculation of happiness to be for a single experience.&lt;/p&gt;
+
+\[Q(e_{i}, T) = \int_{t=e_{i}[0]}^{T} m_{i}(t) * h_{i}(t) dt\]
+
+&lt;p&gt;where the \(i\)th event will have it’s own memorability and happiness functions for each second - \(m_{i}(t)\) and \(h_{i}(t)\) respectively. Because “life is nothing more than experiences” we can just sum up the experiences given by \(l(t)\) at each second.&lt;/p&gt;
+
+\[Q(t) = \int_{t=0}^{T} Q(l(t), T)dt = \int_{t=0}^{T} [\int_{s=t}^{s=T} m_{i}(t) * h_{i}(t) * ds] * dt\]
+
+&lt;p&gt;This also means the change of your happiness every second is given by&lt;/p&gt;
+
+\[Q&apos;(t)= \int_{t}^{T} m_{i}(t) h_{i}(t) dt\]
+
+&lt;p&gt;Of course this can all be repeated for pain/sadness, which we’ll just assume is the negative of happiness here. But the basic tradeoff of memorability vs. happiness is still there.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-the-question&quot;&gt;Back to the Question&lt;/h2&gt;
+
+&lt;p&gt;So basically this view of happiness leaves a question of whether its better to have higher happiness and less memorability or vice versa. We’ll look at each case before translating our rationale to math.&lt;/p&gt;
+
+&lt;h3 id=&quot;case-1&quot;&gt;Case 1&lt;/h3&gt;
+
+&lt;p&gt;A situation with higher happiness and less memorability looks like an overworked hedge fund manager choosing to have a year long vacation (at its extreme).&lt;/p&gt;
+
+&lt;h3 id=&quot;case-2&quot;&gt;Case 2&lt;/h3&gt;
+
+&lt;p&gt;The most extreme example of living with no memorability but constant happiness would be partying every single day, watching YouTube every single day, not working a mundane job, etc.&lt;/p&gt;
+
+&lt;p&gt;The goal of contemplating this is to understand the behavior of the functions \(m(t)\) and \(h(t)\). Which scenario seems better? Of course, I think most people would choose Case 1 - the common argument would be that Case 2 is aimless and vainful. Both memorability &amp;amp; happiness of a given experience \(i\) decay past that event’s starting time.&lt;/p&gt;
+
+&lt;p&gt;It’s also imperative to remember that given the current mathematical formulation, we are trying to maximize happiness greedily as we are only looking at \(Q(t)\) of the current time and not considering long-term effects. This sways much more heavily to case 2 - that happiness leaves slower than memorability.&lt;/p&gt;
+
+&lt;p&gt;This actually, does make sense. When going to a restuarant and eating a dish we’ve never seen before we will likely only remember a few things - 2 minutes of conversation, the first time we saw our food, etc. Happiness of eating the dish when we are hungry would last a little longer.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I think it’s fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that \(m(t)\) is very likely 0. Therefore, counterintuitively we should be optimize memorability over happiness.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-problem-again&quot;&gt;Back to Problem Again&lt;/h2&gt;
+
+&lt;p&gt;Because \(m(t)\) is going to be 0 a lot more than \(h(t)\), we need to increase \(m(t)\) as much as possible to make \(h(t)\) actually mean something. Therefore uniqueness of experience and variety matters more than feel-good indulgence.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stop watching YouTube at 4am lol.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-use-pseudomath&quot;&gt;Why use Pseudomath&lt;/h2&gt;
+
+&lt;p&gt;What I just did is a horrible way to solve a problem.&lt;/p&gt;
+
+&lt;p&gt;Pseudomath is a continual reminder that math can’t solve &lt;em&gt;all&lt;/em&gt; our toughest problems. Problems so hard a book didn’t come with them. Furthermore, if I had not used pseudomath how would I have thought about the tradeoffs of memorability and happiness? Maybe I would have instead said optimizing happiness is better because we only have one life, or that we don’t forget the happy moments in our life.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>On The Value of Tests</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/10/tests/"/>
-   <updated>2023-05-10T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/10/tests</id>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/09/tests/"/>
+   <updated>2023-05-09T17:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/09/tests</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
@@ -37,9 +401,9 @@
  
  <entry>
    <title>A Growing List of Lucky Things</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/05/05/what-could-go-wrong/"/>
-   <updated>2023-05-05T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/05/05/what-could-go-wrong</id>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong/"/>
+   <updated>2023-05-04T17:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
@@ -49,21 +413,25 @@
 &lt;p&gt;In light of this idea of &lt;em&gt;gratitude&lt;/em&gt;, one idea I had was to keep a rolling list of all the things I’ve seen that have luckily gone in a favorable direction. That way, I’ll pay more attention to what is working than just what isn’t.&lt;/p&gt;
 
 &lt;h2 id=&quot;lucky-nice-things&quot;&gt;Lucky Nice Things&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Important Account Online for me has its password, not entire account, expire&lt;/li&gt;
   &lt;li&gt;The Test Question did not ask about simulations&lt;/li&gt;
   &lt;li&gt;The MCQ was Free&lt;/li&gt;
-  &lt;li&gt;Only lost a year&lt;/li&gt;
+  &lt;li&gt;Only lost a year due to COVID-19&lt;/li&gt;
   &lt;li&gt;Practice Tests Haven’t Asked About Holes in a Conductor&lt;/li&gt;
+  &lt;li&gt;The company I work at doesn’t focus on engineering as much as research&lt;/li&gt;
+  &lt;li&gt;I was able to conduct an independent project, instead of continue an existing one&lt;/li&gt;
+  &lt;li&gt;Admin didn’t kick us out even though we didn’t formally sign up to run the event&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
  
  <entry>
    <title>How did We Get Here?</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/04/29/reminded/"/>
-   <updated>2023-04-29T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/04/29/reminded</id>
+   <link href="https://anish.lakkapragada.com/thinking/2023/04/28/reminded/"/>
+   <updated>2023-04-28T17:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/04/28/reminded</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;em&gt;I know I have not maintained this thing. That is not due to AP exams but laziness.&lt;/em&gt;&lt;/p&gt;
@@ -78,7 +446,7 @@
   &lt;p&gt;Alan Kay: “The Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a &lt;em&gt;permutation&lt;/em&gt; of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better (&lt;a href=&quot;https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving&quot;&gt;overall&lt;/a&gt;)? If  our world’s state, configuration, policies, whatever is just one in an infinite amount - is it even important?&lt;/p&gt;
+&lt;p&gt;Furthermore, is pondering the current state of the world even worth it? If scientists are correctly, we are one in infinite parallel universes - just a &lt;em&gt;permutation&lt;/em&gt; of what could have occurred over the span of all time. Why debilitate over whether we need to change when life is getting better (&lt;a href=&quot;https://www.bbc.com/future/article/20190111-seven-reasons-why-the-world-is-improving&quot;&gt;overall&lt;/a&gt;)? If our world’s state, configuration, policies, whatever is just one in an infinite amount - is it even important?&lt;/p&gt;
 
 &lt;p&gt;But if it’s the only one in this shape - can we not also conclude with a 0% p-value that this configuration is sacred in a way? Like, the trajectory of how the world evolves that we are part of is significant (maybe the best, the worst, or some other distinguisher)? With a infinite amount of paths to take, is the road that we have taken special?&lt;/p&gt;
 
@@ -90,13 +458,13 @@
  
  <entry>
    <title>Why I Enjoy School</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/25/why-I-enjoy-school/"/>
-   <updated>2023-03-25T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/25/why-I-enjoy-school</id>
+   <link href="https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school/"/>
+   <updated>2023-03-24T17:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Writing this with a C in APLAC lmao. &lt;em&gt;Now a B&lt;/em&gt;.&lt;/p&gt;
+  &lt;p&gt;Writing this with a C in APLAC lmao. Now a B. Now an A. lmao.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Our school recently encountered a power outage where we got a good amount time off from school. When the announcement came, I was surprised to see how prevalent the belief that students-must-hate-school stuck (I am somewhat guilty of this, but in my defense it meant I didn’t have a quiz tomorrow). Everybody cheered because there was less school, as if the fact that school was bad was dogma and self-evident. Well, I don’t hate school and thus here this &lt;del&gt;💩post&lt;/del&gt; goes.&lt;/p&gt;
@@ -129,12 +497,12 @@
  
  <entry>
    <title>Bird Notes after a Year</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/03/15/birds-notes/"/>
-   <updated>2023-03-15T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/03/15/birds-notes</id>
+   <link href="https://anish.lakkapragada.com/birds/2023/03/14/birds-notes/"/>
+   <updated>2023-03-14T17:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/birds/2023/03/14/birds-notes</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds  ¯\_(ツ)_/¯&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds ¯\_(ツ)_/¯&lt;/p&gt;
 
 &lt;h2 id=&quot;common-reason-for-failed-photographs&quot;&gt;Common Reason for Failed Photographs&lt;/h2&gt;
 
@@ -166,9 +534,9 @@
  
  <entry>
    <title>Naps</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/23/naps/"/>
-   <updated>2023-02-23T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/23/naps</id>
+   <link href="https://anish.lakkapragada.com/random/2023/02/22/naps/"/>
+   <updated>2023-02-22T16:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/random/2023/02/22/naps</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential &amp;amp; voltage. Naps are typically taken wrong but are also pretty dangerous if you don’t take them right. Here’s to everything I know about naps on 2/23/2023 at 2:14am.&lt;/p&gt;
@@ -184,18 +552,20 @@
 &lt;p&gt;Naps, especially those of 20-30min taken in the afternoon after something intensive like school, allow for the brain to shut down. This essentially means that after waking up from the nap, memory of what happened before the nap will suffer. Thus, what you just did an hour ago in school will seem distant and somewhat feel like a completely different day. Also, if you are a “morning person” (inceased productivity after waking up) - ig waking up more in a day can only be useful then?? Or instead you like sleeping/dreaming (or the feeling of normal force supporting your side), naps can give you a way to sleep more with the pretense of “productivity”. I’ve had a good amount of times when while napping I feel like I am awake with eyes open - it’s always pretty fun.&lt;/p&gt;
 
 &lt;h2 id=&quot;escape-from-reality&quot;&gt;Escape from Reality&lt;/h2&gt;
+
 &lt;p&gt;Naps are a great way to escape your problems.&lt;/p&gt;
 
 &lt;h2 id=&quot;drawbacks&quot;&gt;Drawbacks&lt;/h2&gt;
+
 &lt;p&gt;Naps can really screw you up. For one, if you lack self-control and extend your nap to more than 1 hour, your basically screwing up the time when your body will want you to sleep. Second, I guess people feel unproductive taking naps or something? I guess you just have to really believe that 20min of dead time outweighs switching back-and-forth tabs with distractions for 30min of work.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>A Series of Life Observations</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/02/02/update/"/>
-   <updated>2023-02-02T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/02/02/update</id>
+   <title>Series of Observations</title>
+   <link href="https://anish.lakkapragada.com/thinking/2023/02/01/update/"/>
+   <updated>2023-02-01T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/02/01/update</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -210,7 +580,9 @@
 
 &lt;p&gt;I remember when I was younger, visiting a beach in Europe. It was pretty fun to be in the waves and all day. The next day, I wanted to have exactly what I had yesterday - a nice day on the sand - but the tides were going crazy and the weather was cloudy and gloomy. From that experience in itself around ~7 years ago, I’ve come to realize that any memory cannot be repeated more than once. Time is a monotonically increasing function - you cannot go back - to the first time you listented to your favorite song, read your favorite book, or had a genuinely good time.&lt;/p&gt;
 
-&lt;p&gt;What this implies is the idea of &lt;em&gt;living in the moment&lt;/em&gt; as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of our lives. If this seems too idealistic for you, here’s a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen.&lt;/p&gt;
+&lt;p&gt;What this implies is the idea of &lt;em&gt;living in the moment&lt;/em&gt; as being necessary to experience life better. If we are having a fun, spontaneous time, we have to be smart enough to realize that 1) we are having fun and that 2) this time will never come again in its pure, natural form and thus the best thing that can be done is to make it the best time of it. While in the moment we are just living - just like we always are - and thus we don’t see the moment’s importance (e.g. importance of spontantenously going out or looking around), it’s important to see every second of this moment will be valuable in the future. Memories &lt;em&gt;appreciate&lt;/em&gt; in value over time, so make the best investments with what time you have now.&lt;/p&gt;
+
+&lt;p&gt;If this seems too idealistic for you, here’s a simpler one - just next time you find a song that hits your ears in a nice way just try to listen to that song only because the pleasure you get from its novelties, unexpected beats, etc. will die with each listen.&lt;/p&gt;
 
 &lt;h2 id=&quot;useful-vs-useless-arguments&quot;&gt;Useful vs. Useless Arguments&lt;/h2&gt;
 
@@ -220,17 +592,29 @@
 
 &lt;p&gt;For this mysterious thing called &lt;em&gt;prestige&lt;/em&gt;, there seems to be an implicit order of the world. The world is full of diverse people yet at the same time follows predictable, statistically-significant patterns en masse: students offered a selection of universities generally choose some over others, certain countries are seen as just “better” (e.g. America) despite growing bodies of evidence saying anything but. Rankings for companies change yearly and yet the same implicit order of which companies are more prestigious stay - there is a general inertia for learnt rankings to change when they are founded on unstated social assumptions and not facts.&lt;/p&gt;
 
+&lt;h2 id=&quot;things-are-more-deterministic-than-we-realize&quot;&gt;Things are more deterministic than we realize&lt;/h2&gt;
+
+&lt;p&gt;My desk right now is an absolute mess. It is completely disorganized and there are random pens everywhere. I can’t even tell you how I got to this state. But it is deterministc. When I search for something, like a pen, that I will inevitably lose in this mess, I can guarantee I will try to search for multiple different locations. This is fine, but it’s better for me to realize there’s a reason why it’s the place it is beyond the fact that I “lost” it.&lt;/p&gt;
+
+&lt;p&gt;Decisions are not made in a vaccuum; they are not random. There is a reason why the U.S. sides with Israel or why India today may be reluctant to condemn Russia in the Ukraine-Russia conflict. The current standing of things - be it where my history notes went or a country’s foreign relations - can logically be retraced to their initial states.&lt;/p&gt;
+
+&lt;p&gt;The principle that things are the way they are for a reason (deterministic in machine learning) is an interesting one.&lt;/p&gt;
+
 &lt;h2 id=&quot;your-music-taste-is-not-really-unique&quot;&gt;Your Music Taste Is Not (Really) Unique&lt;/h2&gt;
 
 &lt;p&gt;(Might just be me.) I am always hungry about songs. It is always super funny to see how an unfamiliar song with a slightly weird name but a lot of streams slowly goes from something I completely don’t resonate or feel is part of my taste to my playlist. Time and time again, I have seen that whatever my initial reaction to the song - &lt;em&gt;I am not unique&lt;/em&gt; - I probably will find myself liking it. This means that I should try to explore different genres and not judge.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-are-always-closer-to-the-end&quot;&gt;You Are Always Closer to the End&lt;/h2&gt;
+
+&lt;p&gt;Basically, I have noticed more than likely there is always some way to frame your current timeframe in which you are at the end of the proces. During the summer, I will be near the end of high school. Right now, I am one day away from the last day of school. At the start of second semester in senior year, I am towards the end of the year (and the end of high-school.) At the start of first semester in senior year, I am towards the end of the college application process (and nearing the end of the year.) There is always an end in sight!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/12/hedonistic-happy/"/>
-   <updated>2023-01-12T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/12/hedonistic-happy</id>
+   <link href="https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy/"/>
+   <updated>2023-01-11T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -247,9 +631,9 @@
  
  <entry>
    <title>Double Backpropagation: A Forgotten Algorithm</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop/"/>
-   <updated>2023-01-01T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2023/01/01/double-backprop</id>
+   <link href="https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/"/>
+   <updated>2023-01-01T00:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Backpropgation, Gradient Descent, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
@@ -264,7 +648,7 @@
 
 &lt;p&gt;The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J&apos;\) is given by:&lt;/p&gt;
 
-\[J&apos;(\theta) = J(\theta)  + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
+\[J&apos;(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
 
 &lt;p&gt;It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some &lt;em&gt;hyperparameter&lt;/em&gt; (you choose the value) \(\lambda\).&lt;/p&gt;
 
@@ -280,7 +664,7 @@
 
 &lt;h2 id=&quot;double-backpropagation-for-smooth-latent-spaces-&quot;&gt;Double-Backpropagation for Smooth Latent Spaces (?)&lt;/h2&gt;
 
-&lt;p&gt;Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector \(\vec{x}\) and returns an image \(Y\).&lt;/p&gt;
+&lt;p&gt;Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector &lt;strong&gt;v&lt;/strong&gt; and returns an image \(Y\).&lt;/p&gt;
 
 &lt;p&gt;Let’s say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)&lt;/p&gt;
 
@@ -290,15 +674,15 @@
 
 &lt;p&gt;A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don’t really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.&lt;/p&gt;
 
-&lt;p&gt;Ideally in these models, the mapping of the input vector \(\vec{x}\) to the image \(Y\) learned by \(G\) is &lt;em&gt;smooth&lt;/em&gt; - small changes in \(\vec{x}\) shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?&lt;/p&gt;
+&lt;p&gt;Ideally in these models, the mapping of the input vector &lt;strong&gt;x&lt;/strong&gt; to the image \(Y\) learned by \(G\) is &lt;em&gt;smooth&lt;/em&gt; - small changes in &lt;strong&gt;x&lt;/strong&gt; shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>PSA Reminder: History Actually Happened</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history/"/>
-   <updated>2022-12-22T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/22/history</id>
+   <link href="https://anish.lakkapragada.com/thinking/2022/12/22/history/"/>
+   <updated>2022-12-22T00:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2022/12/22/history</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
@@ -318,6 +702,7 @@
 &lt;p&gt;Even if the problem of history feeling like a straight story to be told is inevitable, it still can be done better. What makes stories interesting to most people is not just the ability to explore a new world (which history by definition can give!) but also its power to make us feel something. History classes should try to make us feel the same thing as the people we are learning about did. The collective &lt;em&gt;psyche&lt;/em&gt; of a nation during massive events is more moving than a description and at a level of deeper understanding.&lt;/p&gt;
 
 &lt;p&gt;Examples of this “psyche”:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;After Columbine, people were frightened to send their children to school and provided them with directions home.&lt;/li&gt;
   &lt;li&gt;After Jonestown, people mocked those killed as crazy and hell-driven.&lt;/li&gt;
@@ -344,9 +729,9 @@
  
  <entry>
    <title>My Experience Growing a Beard, And Then Shaving It</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/12/11/beards/"/>
-   <updated>2022-12-11T00:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/12/11/beards</id>
+   <link href="https://anish.lakkapragada.com/random/2022/12/10/beards/"/>
+   <updated>2022-12-10T16:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/random/2022/12/10/beards</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;This year, I participated in No Shave November (we don’t talk about how the other \(N^{3}\) went for me.) Almost a week in December, I decided to shave it off. While I have no regrets about shaving it off, I do want to remember what it felt like (without having to wait almost a month.) Hence, this account.&lt;/p&gt;
@@ -380,6 +765,7 @@
 &lt;p&gt;While this kind of a beard with stray hairs and even a little bald spot in the middle of the chin doesn’t look great to say the least, it does feel great. With my clean shaven face right now, I still find myself rubbing my chin hoping to feel the prickly sensation akin to mild acupuncture.&lt;/p&gt;
 
 &lt;p&gt;Here’s a list of all the things you can do with a beard:&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Make Fun of Your Friends Who Can’t Grow One&lt;/li&gt;
   &lt;li&gt;Convince yourself you look better with it&lt;/li&gt;
@@ -472,9 +858,9 @@
  
  <entry>
    <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/25/crawdads-tkam/"/>
-   <updated>2022-11-25T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/25/crawdads-tkam</id>
+   <link href="https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam/"/>
+   <updated>2022-11-24T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
@@ -517,9 +903,9 @@
  
  <entry>
    <title>Food for Thought: Word Predictability</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/10/word-association/"/>
-   <updated>2022-11-10T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/10/word-association</id>
+   <link href="https://anish.lakkapragada.com/thinking/2022/11/09/word-association/"/>
+   <updated>2022-11-09T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2022/11/09/word-association</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
@@ -528,45 +914,44 @@
 
 &lt;p&gt;Think of it as a fill-in-the blank challenge. Given some word or sets of word, what word will follow. Here are a few examples below.&lt;/p&gt;
 
-&lt;p&gt;“Give me some bread and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;“Give me some bread and ____.”&lt;/p&gt;
 
-&lt;p&gt;“I just need to put on my suit and &lt;em&gt;__&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;“I just need to put on my suit and ____.”&lt;/p&gt;
 
-&lt;p&gt;“That sweet and &lt;em&gt;__&lt;/em&gt; taste is amazing.”&lt;/p&gt;
+&lt;p&gt;“That sweet and ____ taste is amazing.”&lt;/p&gt;
 
-&lt;p&gt;“Who are you guys, Adam and &lt;em&gt;__&lt;/em&gt;?”&lt;/p&gt;
+&lt;p&gt;“Who are you guys, Adam and ____?”&lt;/p&gt;
 
 &lt;p&gt;Those were pretty simple right? It wasn’t like you’ve memorized these pairs.&lt;/p&gt;
 
 &lt;p&gt;But you have learned them. In fact, this actually has a special name of being a &lt;strong&gt;collocation.&lt;/strong&gt; Collocations are words that are commonly said in one way and not reversed. You wouldn’t say “cons and pros” or “butter and bread”, now would you?&lt;/p&gt;
 
-&lt;p&gt;However, collocations are only one type of such word association where one or two words can effectively predict the next word. Another example would be the blank in “&lt;em&gt;__&lt;/em&gt; your bets” being “hedge”. Those aren’t necessary groups of words, as “protect”, “safeguard”, and “derisk” all would work, but basically work the same as collocation pairs.&lt;/p&gt;
+&lt;p&gt;However, collocations are only one type of such word association where one or two words can effectively predict the next word. Another example would be the blank in “____ your bets” being “hedge”. Those aren’t necessary groups of words, as “protect”, “safeguard”, and “derisk” all would work, but basically work the same as collocation pairs.&lt;/p&gt;
 
 &lt;p&gt;The main point of showing these examples is to demonstrate that we actually don’t think about what we are going to say in terms of singular words but instead in terms of concepts/ideas/blocks. Beyond proper nouns, a simple proof of this is that we (well, most of us) can’t understand why we need the word “the”, instead of something like “a”, in the phrase “In &lt;em&gt;the&lt;/em&gt; interest of time”, but naturally say the phrase.&lt;/p&gt;
 
 &lt;p&gt;Predicting one word in a sentence from what has already is a miracle and a super interesting task that we do on a daily basis. Here are a few more to enjoy :)&lt;/p&gt;
 
-&lt;p&gt;“Oh for &lt;em&gt;__&lt;/em&gt;’s sake, do the dishes!”&lt;/p&gt;
+&lt;p&gt;“Oh for ____’s sake, do the dishes!”&lt;/p&gt;
 
-&lt;p&gt;“If &lt;em&gt;__&lt;/em&gt; permits, we can show a demo at the end.”&lt;/p&gt;
+&lt;p&gt;“If ____ permits, we can show a demo at the end.”&lt;/p&gt;
 
-&lt;p&gt;“That moment absolutely crushed my &lt;em&gt;__&lt;/em&gt; in humanity.”&lt;/p&gt;
-
+&lt;p&gt;“That moment absolutely crushed my ____ in humanity.”&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Why Does Latex look so good?</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex/"/>
-   <updated>2022-11-04T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/11/04/latex</id>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/11/04/latex/"/>
+   <updated>2022-11-04T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/theoretical/2022/11/04/latex</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve used LaTex for writing some stuff (check my &lt;a href=&quot;/notes&quot;&gt;notes&lt;/a&gt; lmao). In fact, if you’ve read some of the other articles here, you’ve seen latex before. It’s what allows me to render equations like:&lt;/p&gt;
 
-\[L^{a}t^{e}x = p_{r}^{e} \int ect\]
+\[L^{a}t^{e}x = p\_{r}^{e} \int ect\]
 
 &lt;p&gt;Latex &lt;em&gt;is&lt;/em&gt; perfect. Why does it look so good and feel so good to write?&lt;/p&gt;
 
@@ -581,18 +966,18 @@
 &lt;h2 id=&quot;style&quot;&gt;Style&lt;/h2&gt;
 
 &lt;p&gt;Style is a weird thing to describe. Aesthethic is an even worse word to use, because that makes it just more abstract. But I guess the best way to describe LaTex in three words is professional, clean, and precise. The LaTex Rendering never fails to produce the cleanest font. It makes me feel like I’m a real scientist who knows what they’re doing.&lt;/p&gt;
+
 &lt;h2 id=&quot;how-to-use-latex&quot;&gt;How to Use Latex&lt;/h2&gt;
 
 &lt;p&gt;Just create another project on &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; and that’s it. Our you can select an arXiv preprint and start from there.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Falling Forward, Not Back: Drake</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act/"/>
-   <updated>2022-10-24T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/24/act</id>
+   <link href="https://anish.lakkapragada.com/random/2022/10/24/act/"/>
+   <updated>2022-10-24T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/random/2022/10/24/act</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Aubrey Drake Graham, Falling &lt;del&gt;Back&lt;/del&gt; Off, Random&lt;/strong&gt;&lt;/p&gt;
@@ -655,15 +1040,14 @@
 &lt;p&gt;To some extent, yes. The pressure of being a star is insurmountable and expecting consistent hits is unreasonable. But, artists like Kendrick Lamar have delivered consistently creative songs. People wouldn’t place this much attention to Drake’s supposed downfall if they didn’t believe he couldn’t do better.&lt;/p&gt;
 
 &lt;p&gt;This is the conclusion of this rant. Don’t take anything here seriously.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Gradient Descent Revisited As Euler's Method</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler/"/>
-   <updated>2022-10-11T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/11/gradient-descent-euler</id>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler/"/>
+   <updated>2022-10-11T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Gradient Descent, Euler’s Method, Differential Equation&lt;/strong&gt;&lt;/p&gt;
@@ -706,18 +1090,23 @@
  
  <entry>
    <title>Photograph Birds List</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist/"/>
-   <updated>2022-10-04T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/10/04/birdslist</id>
+   <link href="https://anish.lakkapragada.com/birds/2022/10/04/birdslist/"/>
+   <updated>2022-10-04T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/birds/2022/10/04/birdslist</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note: These are all of birds near San Francisco, California. East-coast birds that I have seen are mostly excluded here.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;bird-background&quot;&gt;Bird Background&lt;/h2&gt;
 
 &lt;p&gt;For the last year, I’ve gone outside and taken photos of specifically birds (yes those things) in my backyard, neighborhood, and local parks and forests. It’s pretty fun and one of the bird things I’ve always wanted to do is to maintain a list of all the bird’s I’ve photographed (the second is to make a tier list).&lt;/p&gt;
 
 &lt;h2 id=&quot;birds-photographed&quot;&gt;Birds Photographed&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;California Scrub Jay&lt;/li&gt;
   &lt;li&gt;Lesser Goldfinch&lt;/li&gt;
@@ -747,15 +1136,18 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;locations-photographed&quot;&gt;Locations Photographed&lt;/h2&gt;
+
 &lt;p&gt;&lt;em&gt;Includes even one photograph.&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Bay Area, California&lt;/li&gt;
   &lt;li&gt;San Francisco, California&lt;/li&gt;
+  &lt;li&gt;Half Moon Bay, California&lt;/li&gt;
   &lt;li&gt;Denali, Alaska&lt;/li&gt;
   &lt;li&gt;Princeton, New Jersey&lt;/li&gt;
   &lt;li&gt;Philadelphia, Pennsylvania&lt;/li&gt;
-  &lt;li&gt;Soon This Summer: Ithaca, New York 😉&lt;/li&gt;
+  &lt;li&gt;Anne Arundel County, Maryland&lt;/li&gt;
+  &lt;li&gt;Ithaca, New York 😉&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;bird-tiers&quot;&gt;Bird Tiers&lt;/h2&gt;
@@ -763,6 +1155,7 @@
 &lt;p&gt;I will be ranking birds now in terms of my experiences photographing them and my general appreciation of their beauty in my photographs.&lt;/p&gt;
 
 &lt;h2 id=&quot;tier-3-mid-birds&quot;&gt;Tier 3: Mid Birds&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Brewer’s Blackbird&lt;/li&gt;
   &lt;li&gt;Pine Siskin&lt;/li&gt;
@@ -772,6 +1165,7 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;tier-2-birds-that-ill-happily-take-a-photograph-of&quot;&gt;Tier 2: Birds that I’ll happily take a photograph of&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Lesser Goldfinch&lt;/li&gt;
   &lt;li&gt;Pine Siskin&lt;/li&gt;
@@ -779,18 +1173,20 @@
   &lt;li&gt;Dark-Eyed Junco&lt;/li&gt;
   &lt;li&gt;House Finch&lt;/li&gt;
   &lt;li&gt;Western Bluebird&lt;/li&gt;
+  &lt;li&gt;White-crowned / Gold-crowned Sparrow&lt;/li&gt;
   &lt;li&gt;Yellow-rumped warbler&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;tier-1-birds-that-are-rare&quot;&gt;Tier 1: Birds that Are Rare&lt;/h2&gt;
+
 &lt;ul&gt;
   &lt;li&gt;California Scrub Jay&lt;/li&gt;
   &lt;li&gt;American Robin&lt;/li&gt;
-  &lt;li&gt;White-crowned / Gold-crowned Sparrow&lt;/li&gt;
   &lt;li&gt;Tree Swallow&lt;/li&gt;
   &lt;li&gt;Barn Swallow&lt;/li&gt;
   &lt;li&gt;Song Sparrow&lt;/li&gt;
   &lt;li&gt;Bald Eagle&lt;/li&gt;
+  &lt;li&gt;Spotted Towhee&lt;/li&gt;
   &lt;li&gt;American Tree Sparrow&lt;/li&gt;
   &lt;li&gt;Acorn Woodpecker&lt;/li&gt;
 &lt;/ul&gt;
@@ -799,14 +1195,14 @@
  
  <entry>
    <title>Hidden Taylor Series in Theoretical Machine Learning</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries-copy/"/>
-   <updated>2022-09-26T07:49:49+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/26/mltaylorseries copy</id>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries-copy/"/>
+   <updated>2022-09-26T00:49:49-07:00</updated>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries copy</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This article hopes to provide an alternate look at some of the most foundational algorithms in machine learning, namely Gradient Descent and Polynomial Regression, from an angle of Taylor Series. 
+&lt;p&gt;This article hopes to provide an alternate look at some of the most foundational algorithms in machine learning, namely Gradient Descent and Polynomial Regression, from an angle of Taylor Series.
 Taylor Series are an extremely nice approximation method from calculus and are actually quite common in machine learning.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -829,7 +1225,7 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;Gradient Descent is an iterative algorithm to generally optimize some function overtime based on its gradient (vector of partial derivatives.) The gradient yields a vector that tells the fastest way to ascend a curve - with gradient &lt;em&gt;descent&lt;/em&gt; you try to go &lt;em&gt;down&lt;/em&gt; the curve and thus constantly move in the negative of this gradient (moving with the positive is called gradient ascent). Gradient Descent is shown below.&lt;/p&gt;
 
-\[\theta_{t} = \theta_{t - 1}  - \alpha * \nabla_{\theta_{t - 1}} J\]
+\[\theta_{t} = \theta_{t - 1} - \alpha * \nabla_{\theta_{t - 1}} J\]
 
 &lt;p&gt;For more clarification, \(\theta_{t}\) are the parameters of the model (gradient descent is model agnostic, so this could range from linear regression to GPT-3) at a timestep \(t\) and \(\nabla_{\theta_{t - 1}} J\) represents the gradient of the objective function \(J\) that we are trying to minimize. It’s not shown, but \(J\) takes in the parameters \(x, y\) and \(\theta\).  As stated, we move in the direction of the negative of the gradient. \(\alpha\) is the learning rate and is applied to scale the gradient and prevent too high movements.&lt;/p&gt;
 
@@ -843,17 +1239,17 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;This is a bit confusing, so let’s clarify, in this case the \(x\) in the approximation of \(f(x)\) is actually \(\theta_{t - 1} + \Delta \theta\) and thus the taylor series is centered at a point \(c\) of \(\theta_{t - 1}\). This means that the first-degree term \(x - c\) actually equals just \(\Delta \theta\).&lt;/p&gt;
 
-&lt;p&gt;This is where it gets clever. Given that we set \(J(\theta_{t - 1})\) or \(J(\theta_{t - 1} + \Delta \theta)\) to be less than \(J(\theta_{t - 1})\), to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing \(J(\theta_{t - 1})\) with negatives from the first-degree expression (\(\nabla_{\theta_{t - 1}} J * \Delta\theta\)) to it. We could just set \(\Delta \theta\) to \(-1\), but because \(\nabla_{\theta{t - 1}} J\) is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of \(\Delta \theta\) that will make \(\nabla_{\theta{t - 1}} J\) ALL negative.&lt;/p&gt;
+&lt;p&gt;This is where it gets clever. Given that we set \(J(\theta_{t - 1})\) or \(J(\theta_{t - 1} + \Delta \theta)\) to be less than \(J(\theta_{t - 1})\), to make both sides of the approximation equal, we basically need to find a way to balance the right and left side by reducing \(J(\theta_{t - 1})\) with negatives from the first-degree expression (\(\nabla_{\theta_{t - 1}} J * \Delta\theta\)) to it. We could just set \(\Delta \theta\) to \(-1\), but because \(\nabla_{\theta_{t - 1}} J\) is a matrix - there is no guarantee that all of the numbers inside of it will necessarily be the same sign. Thus we need to find some value of \(\Delta \theta\) that will make \(\nabla_{\theta_{t - 1}} J\) ALL negative.&lt;/p&gt;
 
-&lt;p&gt;This is actually much easier than expected. Just set \(\Delta \theta\) to the &lt;em&gt;negative&lt;/em&gt; of \(\nabla_{\theta{t - 1}} J\) and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.&lt;/p&gt;
+&lt;p&gt;This is actually much easier than expected. Just set \(\Delta \theta\) to the &lt;em&gt;negative&lt;/em&gt; of \(\nabla_{\theta_{t - 1}} J\) and we guarantee all elements are negative (as a gradient squared yields all positive values.) This leads to the approximation having any chance of balancing out. As we add more degrees to the taylor polynomial, this approximation would keep on getting better.&lt;/p&gt;
 
 &lt;p&gt;This means that in our (minimization) algorithm of Gradient Descent, with \(\alpha\) for stability, we have:&lt;/p&gt;
 
-\[\theta_{t} = \theta_{t - 1} + \Delta \theta _{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta{t - 1}} J\]
+\[\theta_{t} = \theta_{t - 1} + \Delta \theta_{t - 1} = \theta_{t - 1} - \alpha * \nabla_{\theta_{t - 1}} J\]
 
 &lt;p&gt;That’s gradient descent!&lt;/p&gt;
 
-&lt;p&gt;A lot of this information was taken from &lt;a href=&quot;https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf&quot;&gt;here&lt;/a&gt; and summarized to be less confusing and more intuitive here. We can expand this method to actually include second and third derivatives as well - but those aren’t used as much due to requiring more computational power (sorry for the explanation that literally &lt;em&gt;everyone&lt;/em&gt; gives.)&lt;/p&gt;
+&lt;p&gt;A lot of this information was taken from &lt;a href=&quot;https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf&quot;&gt;here&lt;/a&gt; and summarized here. We can expand this method to actually include second and third derivatives as well - but those aren’t used as much due to requiring more computational power (sorry for the explanation that literally &lt;em&gt;everyone&lt;/em&gt; gives.)&lt;/p&gt;
 
 &lt;h2 id=&quot;taylor-series-in-polynomial-regression&quot;&gt;Taylor Series in Polynomial Regression&lt;/h2&gt;
 
@@ -873,18 +1269,18 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 \[e^{x} = \sum_{n = 0}^{\infty} \dfrac{x^{n}}{n!} = 1 + x + \dfrac{x^{2}}{2} + \ldots\]
 
-&lt;p&gt;Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with &lt;a href=&quot;https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html&quot;&gt;scikit-learn&lt;/a&gt;’s in Python, that takes in \(x\) and \(x^{2}\) as input - will it learn \({1, 1, 0.5}\) as \(\beta_{0}, \beta_{1}, \beta_{2}\) respectively?&lt;/p&gt;
+&lt;p&gt;Will Polynomial Regression (to a degree of 2) actually learn this specific taylor series? To reiterate, if I train a Linear Regression model with &lt;a href=&quot;https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html&quot;&gt;scikit-learn&lt;/a&gt;’s in Python, that takes in \(x\) and \(x^{2}\) as input - will it learn \({1, 1, 0.5}\) as \(\beta_{0}, \beta_{1}, \beta\_{2}\) respectively?&lt;/p&gt;
 
 &lt;p&gt;Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?&lt;/p&gt;
 
 &lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sklearn.linear_model&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt; 
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
 
-&lt;span class=&quot;sh&quot;&gt;&quot;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;
-we&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;ll generate from a normal distribution as the 
+&lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;
+we&apos;ll generate from a normal distribution as the
 second-degree polynomial approximates best in this range.
-&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&quot;&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples 
+&quot;&quot;&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples
 &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# labels
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -896,16 +1292,19 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;Let’s apply Linear Regression.&lt;/p&gt;
 
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm 
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm
 &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Let’s inspect the coefficients \(\beta_{1}, \beta_{2}\).&lt;/p&gt;
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coef_&lt;/span&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coef_&lt;/span&gt;
 &lt;span class=&quot;nf&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.24106858&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;mf&quot;&gt;2.25427569&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;p&gt;And the bias \(\beta_{0}\).&lt;/p&gt;
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intercept_&lt;/span&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intercept_&lt;/span&gt;
 &lt;span class=&quot;mf&quot;&gt;1.5053263303981406&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -913,7 +1312,7 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;My hypothesis is that if you use a higher-degree approximation (and of course have much more data), it will be more likely the coefficients will slowly fall in line with the &lt;em&gt;true&lt;/em&gt; taylor polynomial. In our case, given that it only had a sample of \(e^{x}\) and not the whole infinite set of values, it is to be expected that not the precise values were found as these values actually could have minimized the mean-squared error more for this specific training set \(X\).&lt;/p&gt;
 
-&lt;p&gt;Also,  if Polynomial Regression is a taylor series polynomial then linear regression is a first-degree taylor series?&lt;/p&gt;
+&lt;p&gt;Also, if Polynomial Regression is a taylor series polynomial then linear regression is a first-degree taylor series?&lt;/p&gt;
 
 &lt;h2 id=&quot;review&quot;&gt;Review&lt;/h2&gt;
 
@@ -927,9 +1326,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>An explanation of Pareto's Principle</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple/"/>
-   <updated>2022-09-25T07:49:49+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/25/paretoprinciple</id>
+   <link href="https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple/"/>
+   <updated>2022-09-25T00:49:49-07:00</updated>
+   <id>https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Pareto’s Principle, 80/20 rule, Distribution of Outcomes, Applications&lt;/strong&gt;&lt;/p&gt;
@@ -941,15 +1340,14 @@ second-degree polynomial approximates best in this range.
 &lt;p&gt;So, how can we use Pareto’s principle in our daily lives? Internalizing the exponential nature in our lives is probably the best way to implement it. If we want a 90 on a test, we’ll only need to put in about half of the effort and time studying compared to getting a 97+. The same goes for standardizing testing; scores are gradually harder to get at the top. Keeping in mind the 80/20 rule can help us decide when the extra mile is excessive or essential.&lt;/p&gt;
 
 &lt;p&gt;So now we’ve gone over the how and what - only the &lt;em&gt;why&lt;/em&gt; remains. Any ideas on why our world and outcomes are distributed this way? My guess is that the underlying reason of the 80/20 rule is disparity and inequity - one group having much more extreme outliers that overpower all others. The world is moving at an &lt;a href=&quot;https://www.su.org/blog/thriving-in-an-exponential-world-and-making-a-difference-doing-so&quot;&gt;exponential rate&lt;/a&gt;; the most successful stocks (which are extremes in themselves) almost always follow exponential curves as compared to linear ascents. Moore’s law literally forecasts that the number of transistors on a microchip double every 2 years; it’s no secret that &lt;a href=&quot;https://en.wikipedia.org/wiki/Accelerating_change&quot;&gt;we also think the world is constantly growing faster&lt;/a&gt; than it ever has before. In short, Pareto’s principle seems to be very common when disparity or a gap grows uncontrollably. In our world, that’s not too uncommon.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Yet Another Comparison of Svelte & React</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact/"/>
-   <updated>2022-09-21T07:00:00+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/21/sveltevreact</id>
+   <link href="https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact/"/>
+   <updated>2022-09-21T00:00:00-07:00</updated>
+   <id>https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on &lt;a href=&quot;https://dayssincelastjavascriptframework.com/&quot;&gt;getting released every single day&lt;/a&gt; and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.&lt;/p&gt;
@@ -998,9 +1396,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Attempts at Closed-Form Logistic Regression</title>
-   <link href="https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg/"/>
-   <updated>2022-09-20T23:27:08+00:00</updated>
-   <id>https://anish-lakkapragada.github.io/jekyll/update/2022/09/20/closed-form-logreg</id>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"/>
+   <updated>2022-09-20T16:27:08-07:00</updated>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg</id>
    <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization&lt;/strong&gt;&lt;/p&gt;
@@ -1013,7 +1411,7 @@ second-degree polynomial approximates best in this range.
 
 &lt;p&gt;The objective function is defined as \(L = \dfrac{(X\theta - y)^{T}(X\theta - y)}{N}\) (let’s stick to \(\theta\) instead of \(m\) to look smarter) where \(X\) is the training feature matrix, \(\theta\) is weight vector (multi-dimensional \(m\)), and \(y\) is the labels vector. We would modify this to contain \(\sigma(X\theta)- y\), and soon it becomes clear this approach probably will not work as the resulting expression (before differentiation) will contain a lot of \(\sigma(X\theta^{T})\sigma(X\theta)\) which is too annoying for my brain to work with. Nobody, promised there would be a solution right?&lt;/p&gt;
 
-&lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y_{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function 
+&lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y*{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function
 (\(\dfrac{1}{1 + e^{-x_{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x_{i}} - 1)\). Definitely not the worst thing in the world!&lt;/p&gt;
 
 &lt;p&gt;Let’s specify this inverse as \(\sigma&apos;\) and take a step back. We need to apply the function \(\sigma&apos;\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!&lt;/p&gt;
