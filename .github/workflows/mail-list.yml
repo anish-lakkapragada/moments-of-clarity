@@ -8,6 +8,6 @@ jobs:
       - run: npm --version
       - uses: actions/checkout@v3
       - run: npm install
-      - run: node send.js
+      - run: node emails/send.js
         env:
           MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
