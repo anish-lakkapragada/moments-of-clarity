@@ -1,4 +1,9 @@
-on: push
+on:
+  workflow_run:
+    workflows: ["Deploy GitHub Pages site"]
+    types:
+      - completed
+
 jobs:
   build-node:
     runs-on: ubuntu-latest
