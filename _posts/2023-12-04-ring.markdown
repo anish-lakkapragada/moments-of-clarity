@@ -1,0 +1,38 @@
+---
+layout: post
+title: "% Repeatable"
+date: 2023-12-03 0:00:00 -0700
+categories: [thinking]
+---
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+> Sorry for not maintaining this website as well as I should have.
+
+## Introduction
+
+Lately, I've been thinking a bit about how much % of my daily actions are essentially the same each day. Because any action can be experienced in infinite ways, any given action cannot be repeated (see: [Series of Observations](thinking/2023/02/01/update/)). A better question would be to ask how much my experiences are performed each day that I cannot distinguish them from other days. Case-in-point: I can remember brushing with ketchup as a kid, but I can't remember all the other thousands of days I've brushed before school.
+
+Note, this article is *kind of* an extension of this one [here](thinking/2023/07/21/hardquestions/) and overlaps heavily with it. Maybe read that one first (?).
+
+## How To Approach
+
+This is a hard problem to even approach. Theoretically, a copout answer would be 100% because I spend all of my times in 2 highly consistent units of time: (1) weekdays and (2) weekends. 
+
+## Sampling Time
+
+I _could_ try to sample time. I could look at the % of repeatable there and then hope that gets a pretty decent estimate to the life. How much should we go for?
+
+Let's try a day first. In a day I do the following steps: (1) Waking up, (2) Getting ready, (3) Go to School, (4) Come Home ... dang, seems repeatadable already?
+
+The problem with this approach is that it's nearly impossible to predict when something memorable will occur (or when I will perform a memorable action) leading to a memorable experience that doesn't just blend in with the rest of my memories. Due to this uncertainty, I can only really estimate based on the number of days I remember from last school year: barely 10 out of ~180 come to mind. Does this mean that ~94% of the days are just a waste (besides enabling the ~6% to standout?)
+
+This is probably the part where I'm supposed to say something cliché like try new things daily to increase this percentage, but I'm going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it's worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences \* how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!
+
+$$ H(T) = \int_{t=0}^{T} P(e_{t}) * H(e_{t}) dt $$
+
+Where $$ P(e_{t}) $$ gives the memorability of a given event at time $$ t $$ and $$ \int_{t=0}^{T} P(e_{t}) $$ = some constant (to make the memorability of each event at odds with each other). 
+
+Maximizing $$ H(T) $$ has been similarly detailed [here](thinking/2023/07/21/hardquestions/), although in a slightly different form. Essentially, it's a question of having many fun experiences or only a few super-duper fun ones. 
+
+The question of this article was what % of my life is memorable. But it operates on the wrong premise -- that memorability is crucial to meaningful experiences. Based on the model of $$ H(T) $$, just living for the moment seems to be enough.

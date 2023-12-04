@@ -63,7 +63,7 @@ It's also imperative to remember that given the current mathematical formulation
 
 This actually, does make sense. When going to a restuarant and eating a dish we've never seen before we will likely only remember a few things - 2 minutes of conversation, the first time we saw our food, etc. Happiness of eating the dish when we are hungry would last a little longer.
 
-Therefore, I think it's fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that $$ m(t) $$ is very likely 0. Therefore, counterintuitively we should be optimize memorability over happiness.
+Therefore, I think it's fair to say that because memorability of an experience after its start date is naturally focused on non-mundane points (beginning, end) whereas happiness of an experience seems to last longer we can rationale that happiness of an event dies down at a lesser power than memorability. Even further, because memorability focused on specific points (1-2% of the actual lifetime), that means that $$ m(t) $$ is very likely 0. Therefore, counterintuitively we should be optimizing memorability over happiness.
 
 ## Back to Problem Again
 

@@ -42,7 +42,7 @@ const run = async () => {
     console.log(sendCampaign); 
 }
 
-run();
+// run();
 
 
 
