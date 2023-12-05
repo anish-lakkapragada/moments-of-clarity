@@ -9,12 +9,12 @@
 
   <title>
     
-      Attempts at Closed-Form Logistic Regression &middot; Moments of Clarity
+      Moments of Clarity &middot; 
     
   </title>
 
   
-  <link rel="canonical" href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/">
+  <link rel="canonical" href="https://anish.lakkapragada.com/page7/">
   
 
   <link rel="stylesheet" href="https://anish.lakkapragada.com/public/css/poole.css">
@@ -53,7 +53,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/">home</a>
+    <a class="sidebar-nav-item active" href="https://anish.lakkapragada.com/">home</a>
 
     
 
@@ -231,10 +231,152 @@
       </div>
 
       <div class="container content">
-        <div class="post">
-  <h1 class="post-title">Attempts at Closed-Form Logistic Regression</h1>
-  <span class="post-date">20 Sep 2022</span>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+        <div class="message" style="font-size: 0.9em">
+  Hey y'all! Same blog, different (<a href="https://github.com/poole/lanyon"
+    >Lanyon
+  </a>
+  themed) look. <br />
+  If you are here for my theoretical articles or notes, they are
+  <a href="/notes"> here</a>. <br />
+  The sidebar also contains all posts separated by categories
+  <a href="/categories"> here. </a> <br />
+  Hope you enjoy!
+</div>
+
+<!-- Mailchimp Emailing List Form -->
+
+<div id="mc_embed_shell">
+  <link
+    href="//cdn-images.mailchimp.com/embedcode/classic-061523.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style type="text/css">
+    #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+  <div id="mc_embed_signup">
+    <form
+      action="https://lakkapragada.us21.list-manage.com/subscribe/post?u=14f2c1767aebf590c27ef3978&amp;id=d9dd760afb&amp;f_id=00e7dee6f0"
+      method="post"
+      id="mc-embedded-subscribe-form"
+      name="mc-embedded-subscribe-form"
+      class="validate"
+      target="_blank"
+    >
+      <div id="mc_embed_signup_scroll">
+        <h2>Subscribe to Moments of Clarity Blog</h2>
+        <div class="indicates-required">
+          <span class="asterisk">*</span> indicates required
+        </div>
+        <div class="mc-field-group">
+          <label for="mce-EMAIL"
+            >Email Address <span class="asterisk">*</span></label
+          ><input
+            type="email"
+            name="EMAIL"
+            class="required email"
+            id="mce-EMAIL"
+            required=""
+            value=""
+          /><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+        </div>
+        <div id="mce-responses" class="clear foot">
+          <div
+            class="response"
+            id="mce-error-response"
+            style="display: none"
+          ></div>
+          <div
+            class="response"
+            id="mce-success-response"
+            style="display: none"
+          ></div>
+        </div>
+        <div aria-hidden="true" style="position: absolute; left: -5000px">
+          /* real people should not fill this in and expect good things - do not
+          remove this or risk form bot signups */
+          <input
+            type="text"
+            name="b_14f2c1767aebf590c27ef3978_d9dd760afb"
+            tabindex="-1"
+            value=""
+          />
+        </div>
+        <div class="optionalParent">
+          <div class="clear foot">
+            <input
+              type="submit"
+              name="subscribe"
+              id="mc-embedded-subscribe"
+              class="button"
+              value="Subscribe"
+            />
+            <p style="margin: 0px auto">
+              <a
+                href="http://eepurl.com/iDLimE"
+                title="Mailchimp - email marketing made easy and fun"
+                ><span
+                  style="
+                    display: inline-block;
+                    background-color: transparent;
+                    border-radius: 4px;
+                  "
+                  ><img
+                    class="refferal_badge"
+                    src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg"
+                    alt="Intuit Mailchimp"
+                    style="
+                      width: 220px;
+                      height: 40px;
+                      display: flex;
+                      padding: 2px 0px;
+                      justify-content: center;
+                      align-items: center;
+                    " /></span
+              ></a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <script
+    type="text/javascript"
+    src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"
+  ></script>
+  <script type="text/javascript">
+    (function ($) {
+      window.fnames = new Array();
+      window.ftypes = new Array();
+      fnames[0] = "EMAIL";
+      ftypes[0] = "email";
+      fnames[1] = "FNAME";
+      ftypes[1] = "text";
+      fnames[2] = "LNAME";
+      ftypes[2] = "text";
+      fnames[3] = "ADDRESS";
+      ftypes[3] = "address";
+      fnames[4] = "PHONE";
+      ftypes[4] = "phone";
+      fnames[5] = "BIRTHDAY";
+      ftypes[5] = "birthday";
+    })(jQuery);
+    var $mcj = jQuery.noConflict(true);
+  </script>
+</div>
+
+<div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"> Attempts at Closed-Form Logistic Regression </a>
+    </h1>
+
+    <span class="post-date">20 Sep 2022</span>
+
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 <p><strong>Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization</strong></p>
 
@@ -255,49 +397,21 @@
 
 <p>This is the end of our journey. Please let me know what errors I may have made or whatever you find. Thanks.</p>
 
+  </div>
+  
 </div>
 
-
-<div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
+<div class="pagination">
+  
+  <span class="pagination-item older">Older</span>
     
-      <li>
-        <h3>
-          <a href="/thinking/2023/12/02/ring/">
-            % Repeatable
-            <small>02 Dec 2023</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/songs/thinking/2023/11/10/mailinglist/">
-            Mailing List?
-            <small>10 Nov 2023</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/songs/thinking/2023/11/08/worthalisten/">
-            Worth A Listen?
-            <small>08 Nov 2023</small>
-          </a>
-        </h3>
-      </li>
-    
-  </ul>
+  <a
+    class="pagination-item newer"
+    href="https://anish.lakkapragada.com/page6"
+    >Newer</a
+  >
+   
 </div>
-
-<style> 
-  .title {
-    font-style: italic;
-  }
-</style> 
-
 
       </div>
     </div>
