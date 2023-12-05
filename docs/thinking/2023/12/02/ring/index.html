@@ -9,12 +9,12 @@
 
   <title>
     
-      Double Backpropagation: A Forgotten Algorithm &middot; Moments of Clarity
+      % Repeatable &middot; Moments of Clarity
     
   </title>
 
   
-  <link rel="canonical" href="https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/">
+  <link rel="canonical" href="https://anish.lakkapragada.com/thinking/2023/12/02/ring/">
   
 
   <link rel="stylesheet" href="https://anish.lakkapragada.com/public/css/poole.css">
@@ -232,49 +232,41 @@
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">Double Backpropagation: A Forgotten Algorithm</h1>
-  <span class="post-date">01 Jan 2023</span>
+  <h1 class="post-title">% Repeatable</h1>
+  <span class="post-date">02 Dec 2023</span>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-<p><strong>Keywords: Backpropgation, Gradient Descent, Theoretical ML</strong></p>
-
-<p>Hope you are enjoying the new year 2023! It’s been a while since I’ve uploaded a theoretical algorithm so here we are :)</p>
-
-<p>I’ve made a few posts and challenges about typical first-order gradient descent that I think it’s time I move on to other aspects of ML. But before I do, here’s one last gradient-descent-ish article on a variant of standard optimization algorithms and my theory on its potential usefulness in generative models.</p>
-
-<p>Double backpropagation was first created by Le Cun and Drucker in 1992 and since then has been widely dismissed (maybe for computational reasons).Introductory ML courses and books don’t even cover it, so perhaps this article will help explain some things.</p>
-
-<h2 id="double-backpropagation-algorithm">Double Backpropagation Algorithm</h2>
-
-<p>The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J'\) is given by:</p>
-
-\[J'(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
-
-<p>It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some <em>hyperparameter</em> (you choose the value) \(\lambda\).</p>
-
-<h3 id="why">Why?</h3>
-
 <blockquote>
-  <p>Double Backpropagation is motivated by forcing the parameters to be as generalizable as possible.</p>
+  <p>Sorry for not maintaining this website as well as I should have.</p>
 </blockquote>
 
-<p>More concretely, the value of the adjusted function \(J'\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to <em>augmentations</em> where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to <em>force</em> the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.</p>
+<h2 id="introduction">Introduction</h2>
 
-<p>This is why the (partial) derivative in the equation measures the model’s performance (objective function value) sensitivity to small changes in the input \(X\) is added. The algorithm is known as <em>double</em> backpropagation because a <a href="http://luiz.hafemann.ca/libraries/2018/06/22/pytorch-doublebackprop/">gradient of a gradient</a> is utilized.</p>
+<p>Lately, I’ve been thinking a bit about how much % of my daily actions are essentially the same each day. Because any action can be experienced in infinite ways, any given action cannot be repeated (see: <a href="thinking/2023/02/01/update/">Series of Observations</a>). A better question would be to ask how much my experiences are performed each day that I cannot distinguish them from other days. Case-in-point: I can remember brushing with ketchup as a kid, but I can’t remember all the other thousands of days I’ve brushed before school.</p>
 
-<h2 id="double-backpropagation-for-smooth-latent-spaces-">Double-Backpropagation for Smooth Latent Spaces (?)</h2>
+<p>Note, this article is <em>kind of</em> an extension of this one <a href="thinking/2023/07/21/hardquestions/">here</a> and overlaps heavily with it. Maybe read that one first (?).</p>
 
-<p>Just some background here. Generative models (for our purposes) are any type of model which takes in random vector input and generates some novel output. For example, a generative model \(G\) is a function that takes in a random generated vector <strong>v</strong> and returns an image \(Y\).</p>
+<h2 id="how-to-approach">How To Approach</h2>
 
-<p>Let’s say this generative model is trained through some black-box witchcraft (or a GAN training procedure) to generate images of people through these vectors. In this case, differing vectors will produce different people (e.g. different genders, races, body type, etc.)</p>
+<p>This is a hard problem to even approach. Theoretically, a copout answer would be 100% because I spend all of my times in 2 highly consistent units of time: (1) weekdays and (2) weekends.</p>
 
-<blockquote>
-  <p>A latent space is the full extent of values the vector can take, where similar generated images will come from vectors which are near each other in this space.</p>
-</blockquote>
+<h2 id="sampling-time">Sampling Time</h2>
 
-<p>A short aside: one of the most underrated parts about machine learning is its ability to frame an infinite space (e.g. vector input values in a generative model) in a way that makes sense: similar output images are generated with vectors that are close to each other. More impressive, these computers don’t really know the meaning of words or images (they just see numbers) but can formulate a good understanding of the world.</p>
+<p>I <em>could</em> try to sample time. I could look at the % of repeatable there and then hope that gets a pretty decent estimate to the life. How much should we go for?</p>
 
-<p>Ideally in these models, the mapping of the input vector <strong>x</strong> to the image \(Y\) learned by \(G\) is <em>smooth</em> - small changes in <strong>x</strong> shouldn’t lead to drastic changes in \(Y\). Do you see where I am going with this?</p>
+<p>Let’s try a day first. In a day I do the following steps: (1) Waking up, (2) Getting ready, (3) Go to School, (4) Come Home … dang, seems repeatadable already?</p>
+
+<p>The problem with this approach is that it’s nearly impossible to predict when something memorable will occur (or when I will perform a memorable action) leading to a memorable experience that doesn’t just blend in with the rest of my memories. Due to this uncertainty, I can only really estimate based on the number of days I remember from last school year: barely 10 out of ~180 come to mind. Does this mean that ~94% of the days are just a waste (besides enabling the ~6% to standout?)</p>
+
+<p>This is probably the part where I’m supposed to say something cliché like try new things daily to increase this percentage, but I’m going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it’s worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences * how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!</p>
+
+\[H(T) = \int_{t=0}^{T} P(e_{t}) * H(e_{t}) dt\]
+
+<p>Where \(P(e_{t})\) gives the memorability of a given event at time \(t\) and \(\int_{t=0}^{T} P(e_{t})\) = some constant (to make the memorability of each event at odds with each other).</p>
+
+<p>Maximizing \(H(T)\) has been similarly detailed <a href="thinking/2023/07/21/hardquestions/">here</a>, although in a slightly different form. Essentially, it’s a question of having many fun experiences or only a few super-duper fun ones.</p>
+
+<p>The question of this article was what % of my life is memorable. But it operates on the wrong premise – that memorability is crucial to meaningful experiences. Based on the model of \(H(T)\), just living for the moment seems to be enough.</p>
 
 </div>
 
@@ -282,15 +274,6 @@
 <div class="related">
   <h2>Related posts</h2>
   <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/thinking/2023/12/02/ring/">
-            % Repeatable
-            <small>02 Dec 2023</small>
-          </a>
-        </h3>
-      </li>
     
       <li>
         <h3>
@@ -306,6 +289,15 @@
           <a href="/songs/thinking/2023/11/08/worthalisten/">
             Worth A Listen?
             <small>08 Nov 2023</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/thinking/2023/10/06/fatd/">
+            A Review: For All The Dogs
+            <small>06 Oct 2023</small>
           </a>
         </h3>
       </li>
