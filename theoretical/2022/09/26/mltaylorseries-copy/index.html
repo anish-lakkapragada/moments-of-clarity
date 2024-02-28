@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://anish.lakkapragada.com/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="https://anish.lakkapragada.com/public/favicon.ico">
+  <!-- <link rel="shortcut icon" href="https://anish.lakkapragada.com/public/favicon.ico"> -->
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="https://anish.lakkapragada.com/atom.xml">
 
@@ -145,6 +145,8 @@
       <details class="sidebar-nav-item"> 
         <summary> All Posts </summary>  
           
+            <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/random/2024/02/26/firstpost/">First Post of 2024!</a>
+          
             <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/thinking/2023/12/02/ring/">% Repeatable</a>
           
             <a class="sidebar-nav-item" href="https://anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist/">Mailing List?</a>
@@ -231,10 +233,45 @@
       </div>
 
       <div class="container content">
-        <div class="post">
+        <script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
+<div class="post">
   <h1 class="post-title">Hidden Taylor Series in Theoretical Machine Learning</h1>
   <span class="post-date">26 Sep 2022</span>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
 
 <p><strong>Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML</strong></p>
 
@@ -309,33 +346,33 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 <p>Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?</p>
 
-<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">sklearn.linear_model</span> <span class="kn">import</span> <span class="n">LinearRegression</span>
-<span class="kn">import</span> <span class="n">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">sklearn.linear_model</span> <span class="kn">import</span> <span class="n">LinearRegression</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
 
 <span class="s">"""
 we'll generate from a normal distribution as the
 second-degree polynomial approximates best in this range.
 """</span>
-<span class="n">X</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">abs</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">random</span><span class="p">.</span><span class="nf">randn</span><span class="p">(</span><span class="mi">1000</span><span class="p">,</span> <span class="p">))</span> <span class="c1"># 1000 standard normal samples
-</span><span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">power</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">e</span><span class="p">,</span> <span class="n">X</span><span class="p">)</span> <span class="c1"># labels
+<span class="n">X</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nb">abs</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">random</span><span class="p">.</span><span class="n">randn</span><span class="p">(</span><span class="mi">1000</span><span class="p">,</span> <span class="p">))</span> <span class="c1"># 1000 standard normal samples
+</span><span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">power</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">e</span><span class="p">,</span> <span class="n">X</span><span class="p">)</span> <span class="c1"># labels
 </span></code></pre></div></div>
 
 <p>We can now construct the \(X^{2}\) data. We’ll merge into <code class="language-plaintext highlighter-rouge">X_poly</code> which will contain two columns - the first one for \(X\) and the second one for \(X^{2}\).</p>
 
-<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">X_2</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">power</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-<span class="n">X_poly</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nf">concatenate</span><span class="p">((</span><span class="n">X</span><span class="p">.</span><span class="nf">reshape</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">),</span> <span class="n">X_2</span><span class="p">.</span><span class="nf">reshape</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">X_2</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">power</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+<span class="n">X_poly</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">concatenate</span><span class="p">((</span><span class="n">X</span><span class="p">.</span><span class="n">reshape</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">),</span> <span class="n">X_2</span><span class="p">.</span><span class="n">reshape</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 </code></pre></div></div>
 
 <p>Let’s apply Linear Regression.</p>
 
-<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">lin_reg</span> <span class="o">=</span> <span class="nc">LinearRegression</span><span class="p">()</span> <span class="c1"># lin reg algorithm
-</span><span class="n">lin_reg</span><span class="p">.</span><span class="nf">fit</span><span class="p">(</span><span class="n">X_poly</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">lin_reg</span> <span class="o">=</span> <span class="n">LinearRegression</span><span class="p">()</span> <span class="c1"># lin reg algorithm
+</span><span class="n">lin_reg</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_poly</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
 </code></pre></div></div>
 
 <p>Let’s inspect the coefficients \(\beta_{1}, \beta_{2}\).</p>
 
 <div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&gt;&gt;&gt;</span> <span class="n">lin_reg</span><span class="p">.</span><span class="n">coef_</span>
-<span class="nf">array</span><span class="p">([</span><span class="o">-</span><span class="mf">1.24106858</span><span class="p">,</span>  <span class="mf">2.25427569</span><span class="p">])</span>
+<span class="n">array</span><span class="p">([</span><span class="o">-</span><span class="mf">1.24106858</span><span class="p">,</span>  <span class="mf">2.25427569</span><span class="p">])</span>
 </code></pre></div></div>
 
 <p>And the bias \(\beta_{0}\).</p>
@@ -367,6 +404,15 @@ second-degree polynomial approximates best in this range.
     
       <li>
         <h3>
+          <a href="/random/2024/02/26/firstpost/">
+            First Post of 2024!
+            <small>26 Feb 2024</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
           <a href="/thinking/2023/12/02/ring/">
             % Repeatable
             <small>02 Dec 2023</small>
@@ -379,15 +425,6 @@ second-degree polynomial approximates best in this range.
           <a href="/songs/thinking/2023/11/10/mailinglist/">
             Mailing List?
             <small>10 Nov 2023</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/songs/thinking/2023/11/08/worthalisten/">
-            Worth A Listen?
-            <small>08 Nov 2023</small>
           </a>
         </h3>
       </li>
