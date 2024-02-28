@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mailing List?"
-date: 2023-11-11 0:00:00 -0700
-categories: [songs, thinking]
+title: "First Post of 2024!"
+date: 2024-02-27 0:00:00 -0700
+categories: [random]
 ---
 
 <script type="text/javascript"
@@ -24,10 +24,16 @@ categories: [songs, thinking]
   });
 </script>
 
-## Mailing List
+# Foremost 
 
-Join it! If you want :}
+I should maintain this more. My head has been filled with not super duper interesting thoughts as of late - ideally this will change soon, and I will gain ideas to write here. 
 
-But yea, I've created one to alert you whenever I drop something (translation: whenever I push to github.) If this works right, this should only occur when I push to the main branch I use for development.
+# What I'm Thinking About 
 
-Short article! See ya.
+Here's a list: 
+- how to grow back a beard (flashback to November 2022) && how to resist the itch to shave
+- graph neural networks being interesting
+- how much I do not know about NLP ML (RAG, I'm looking at you)
+- why do we people type in lowercase so much? what's the appeal? 
+
+

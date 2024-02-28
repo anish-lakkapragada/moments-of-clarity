@@ -5,7 +5,24 @@ date: 2023-03-15 0:00:00
 categories: [birds]
 ---
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
 
 ~~It's been a minute since I've updated this thing.~~ Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds ¯\\\_(ツ)\_/¯
 

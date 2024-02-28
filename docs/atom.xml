@@ -4,7 +4,7 @@
  <title>Moments of Clarity</title>
  <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
  <link href="https://anish.lakkapragada.com/"/>
- <updated>2024-01-06T00:50:06-08:00</updated>
+ <updated>2024-02-27T23:58:42-08:00</updated>
  <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
@@ -13,13 +13,52 @@
 
  
  <entry>
+   <title>First Post of 2024!</title>
+   <link href="https://anish.lakkapragada.com/random/2024/02/26/firstpost/"/>
+   <updated>2024-02-26T23:00:00-08:00</updated>
+   <id>https://anish.lakkapragada.com/random/2024/02/26/firstpost</id>
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
+
+&lt;h1 id=&quot;foremost&quot;&gt;Foremost&lt;/h1&gt;
+
+&lt;p&gt;I should maintain this more. My head has been filled with not super duper interesting thoughts as of late - ideally this will change soon, and I will gain ideas to write here.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-im-thinking-about&quot;&gt;What I’m Thinking About&lt;/h1&gt;
+
+&lt;p&gt;Here’s a list:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how to grow back a beard (flashback to November 2022) &amp;amp;&amp;amp; how to resist the itch to shave&lt;/li&gt;
+  &lt;li&gt;graph neural networks being interesting&lt;/li&gt;
+  &lt;li&gt;how much I do not know about NLP ML (RAG, I’m looking at you)&lt;/li&gt;
+  &lt;li&gt;why do we people type in lowercase so much? what’s the appeal?&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>% Repeatable</title>
    <link href="https://anish.lakkapragada.com/thinking/2023/12/02/ring/"/>
    <updated>2023-12-02T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/12/02/ring</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-&lt;blockquote&gt;
+   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Sorry for not maintaining this website as well as I should have.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -41,7 +80,7 @@
 
 &lt;p&gt;The problem with this approach is that it’s nearly impossible to predict when something memorable will occur (or when I will perform a memorable action) leading to a memorable experience that doesn’t just blend in with the rest of my memories. Due to this uncertainty, I can only really estimate based on the number of days I remember from last school year: barely 10 out of ~180 come to mind. Does this mean that ~94% of the days are just a waste (besides enabling the ~6% to standout?)&lt;/p&gt;
 
-&lt;p&gt;This is probably the part where I’m supposed to say something cliché like try new things daily to increase this percentage, but I’m going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it’s worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences * how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!&lt;/p&gt;
+&lt;p&gt;This is probably the part where I’m supposed to say something cliché like try new things daily to increase this percentage, but I’m going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it’s worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences and how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!&lt;/p&gt;
 
 \[H(T) = \int_{t=0}^{T} P(e_{t}) * H(e_{t}) dt\]
 
@@ -58,7 +97,24 @@
    <link href="https://anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist/"/>
    <updated>2023-11-10T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;h2 id=&quot;mailing-list&quot;&gt;Mailing List&lt;/h2&gt;
 
@@ -75,7 +131,24 @@
    <link href="https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten/"/>
    <updated>2023-11-08T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;A famous quote I’ve remembered for the last four years goes something like this:&lt;/p&gt;
 
@@ -167,7 +240,24 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/10/06/fatd/"/>
    <updated>2023-10-06T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/10/06/fatd</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;disclaimer: i am a drake stan&lt;/p&gt;
@@ -206,7 +296,24 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/10/06/songs/"/>
    <updated>2023-10-06T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/10/06/songs</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;Lately, I’ve been thinking about different forms of media. More specifically, the differences between movies, books, and music.&lt;/p&gt;
 
@@ -225,7 +332,24 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/09/08/bruh/"/>
    <updated>2023-09-08T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/09/08/bruh</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;Flat-earthers have been debating for a long time about whether the earth is flat. And while a nearly unanimous conclusion has been met, I dare say that our earth is not just flat or round. Our world is a distribution. More precisely, many of them.&lt;/p&gt;
 
@@ -302,7 +426,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/08/15/perception/"/>
    <updated>2023-08-15T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/08/15/perception</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;Here’s a list of philosophies to go over. Mostly just so I remember what they mean.&lt;/p&gt;
 
@@ -366,7 +507,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions/"/>
    <updated>2023-07-21T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;I have managed to not post anything here for a whole month. :&amp;lt;&lt;/p&gt;
@@ -394,7 +552,7 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
 
 &lt;p&gt;This also means the change of your happiness every second is given by&lt;/p&gt;
 
-\[Q&apos;(t)= \int_{t}^{T} m_{i}(t) h_{i}(t) dt\]
+\[Q'(t)= \int_{t}^{T} m_{i}(t) h_{i}(t) dt\]
 
 &lt;p&gt;Of course this can all be repeated for pain/sadness, which we’ll just assume is the negative of happiness here. But the basic tradeoff of memorability vs. happiness is still there.&lt;/p&gt;
 
@@ -439,7 +597,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/05/09/tests/"/>
    <updated>2023-05-09T17:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/05/09/tests</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Writing this at 4:40am after a day of 3 AP exams. Slept too early.&lt;/p&gt;
@@ -462,7 +637,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong/"/>
    <updated>2023-05-04T17:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
 
@@ -490,7 +682,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/04/28/reminded/"/>
    <updated>2023-04-28T17:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/04/28/reminded</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;em&gt;I know I have not maintained this thing. That is not due to AP exams but laziness.&lt;/em&gt;&lt;/p&gt;
 
@@ -519,7 +728,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school/"/>
    <updated>2023-03-24T17:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Writing this with a C in APLAC lmao. Now a B. Now an A. lmao.&lt;/p&gt;
@@ -558,7 +784,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/birds/2023/03/14/birds-notes/"/>
    <updated>2023-03-14T17:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/birds/2023/03/14/birds-notes</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;del&gt;It’s been a minute since I’ve updated this thing.&lt;/del&gt; Today I woke up with a pretty fun dream. I found a secret part of my high school filled with California Scrub-Jays (my favorite bird :D) and rushed to take photographs of them. On that note, why not write an article on my observations and techniques for photographing birds ¯\_(ツ)_/¯&lt;/p&gt;
 
@@ -595,7 +838,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/random/2023/02/22/naps/"/>
    <updated>2023-02-22T16:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/random/2023/02/22/naps</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential &amp;amp; voltage. Naps are typically taken wrong but are also pretty dangerous if you don’t take them right. Here’s to everything I know about naps on 2/23/2023 at 2:14am.&lt;/p&gt;
 
@@ -624,7 +884,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/02/01/update/"/>
    <updated>2023-02-01T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/02/01/update</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -673,7 +950,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy/"/>
    <updated>2023-01-11T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -692,7 +986,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/"/>
    <updated>2023-01-01T00:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Backpropgation, Gradient Descent, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
 
@@ -704,9 +1015,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
 
 &lt;h2 id=&quot;double-backpropagation-algorithm&quot;&gt;Double Backpropagation Algorithm&lt;/h2&gt;
 
-&lt;p&gt;The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J&apos;\) is given by:&lt;/p&gt;
+&lt;p&gt;The name for double backpropagation is a little weird because it’s not actually backpropagation (basically gradient descent) applied twice but just an addition of another term in the objective function. For an objective function \(J\) to optimize parameters \(\theta\) on a training set \(X\) , the double backpropagation function \(J'\) is given by:&lt;/p&gt;
 
-\[J&apos;(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
+\[J'(\theta) = J(\theta) + \lambda \lVert \frac{\partial J(\theta)}{\partial X} \rVert^{2}\]
 
 &lt;p&gt;It’s actually pretty simple. The new objective function is just the regular objective functive plus the differentiable L2-norm of the gradient of the regular objective function with respect to the input scaled by some &lt;em&gt;hyperparameter&lt;/em&gt; (you choose the value) \(\lambda\).&lt;/p&gt;
 
@@ -716,7 +1027,7 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
   &lt;p&gt;Double Backpropagation is motivated by forcing the parameters to be as generalizable as possible.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;More concretely, the value of the adjusted function \(J&apos;\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to &lt;em&gt;augmentations&lt;/em&gt; where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to &lt;em&gt;force&lt;/em&gt; the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.&lt;/p&gt;
+&lt;p&gt;More concretely, the value of the adjusted function \(J'\) does not care just about the performance of the model with the parameters \(\theta\) but also how stable they are. If the input \(X\) is changed slightly, the model’s performance (objective function \(J\)) should ideally not change much. This is similar to &lt;em&gt;augmentations&lt;/em&gt; where we want the predictions (e.g. a cat image predicted as a cat) to be the same regardless of small changes in the input - both double backpropagation + augmentations try to &lt;em&gt;force&lt;/em&gt; the model to be generalizable to differing input. This is of course helpful because when a model is deployed, the input the model will encounter may not be similar to the data gathered use for training.&lt;/p&gt;
 
 &lt;p&gt;This is why the (partial) derivative in the equation measures the model’s performance (objective function value) sensitivity to small changes in the input \(X\) is added. The algorithm is known as &lt;em&gt;double&lt;/em&gt; backpropagation because a &lt;a href=&quot;http://luiz.hafemann.ca/libraries/2018/06/22/pytorch-doublebackprop/&quot;&gt;gradient of a gradient&lt;/a&gt; is utilized.&lt;/p&gt;
 
@@ -741,7 +1052,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2022/12/22/history/"/>
    <updated>2022-12-22T00:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2022/12/22/history</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -790,7 +1118,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/random/2022/12/10/beards/"/>
    <updated>2022-12-10T16:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/random/2022/12/10/beards</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;This year, I participated in No Shave November (we don’t talk about how the other \(N^{3}\) went for me.) Almost a week in December, I decided to shave it off. While I have no regrets about shaving it off, I do want to remember what it felt like (without having to wait almost a month.) Hence, this account.&lt;/p&gt;
 
@@ -919,7 +1264,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam/"/>
    <updated>2022-11-24T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random, Thanksgiving Movie&lt;/strong&gt;&lt;/p&gt;
 
@@ -964,7 +1326,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/thinking/2022/11/09/word-association/"/>
    <updated>2022-11-09T23:00:00-08:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2022/11/09/word-association</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Interesting, Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -1003,7 +1382,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/theoretical/2022/11/04/latex/"/>
    <updated>2022-11-04T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/theoretical/2022/11/04/latex</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -1036,7 +1432,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/random/2022/10/24/act/"/>
    <updated>2022-10-24T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/random/2022/10/24/act</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Aubrey Drake Graham, Falling &lt;del&gt;Back&lt;/del&gt; Off, Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -1106,7 +1519,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler/"/>
    <updated>2022-10-11T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Gradient Descent, Euler’s Method, Differential Equation&lt;/strong&gt;&lt;/p&gt;
 
@@ -1132,11 +1562,11 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
 
 &lt;p&gt;So for example if we want to do only 2 iterations, we would increase \(x\) by 1 each time. The step to first calculate \(y(1)\) is shown below.&lt;/p&gt;
 
-\[y(1) \approx y(0) + \Delta x*y&apos;(0)\]
+\[y(1) \approx y(0) + \Delta x*y'(0)\]
 
-&lt;p&gt;where in this case \(y&apos;(0)\) would represent the derivative of \(y\) at \(x=0\) and \(\Delta x\) gives the change in x (which in our case is 1). This would give us an approximation of \(y(1) \approx 0\).&lt;/p&gt;
+&lt;p&gt;where in this case \(y'(0)\) would represent the derivative of \(y\) at \(x=0\) and \(\Delta x\) gives the change in x (which in our case is 1). This would give us an approximation of \(y(1) \approx 0\).&lt;/p&gt;
 
-&lt;p&gt;We could redo this one more time and get \(y(2) \approx y(1) + y&apos;(1)\), yielding \(y(2) \approx 1\). Of course this approximation is not accurate - however as the stepsize \(\Delta x\) approaches to 0 the approximations will get more accurate but there will be a lot more iterations. Hey, with gradient descent they always say a lower learning rate of \(\alpha\) does better but requires more iterations – I sense some very big similarities.&lt;/p&gt;
+&lt;p&gt;We could redo this one more time and get \(y(2) \approx y(1) + y'(1)\), yielding \(y(2) \approx 1\). Of course this approximation is not accurate - however as the stepsize \(\Delta x\) approaches to 0 the approximations will get more accurate but there will be a lot more iterations. Hey, with gradient descent they always say a lower learning rate of \(\alpha\) does better but requires more iterations – I sense some very big similarities.&lt;/p&gt;
 
 &lt;h2 id=&quot;gradient-descent-conclusion&quot;&gt;Gradient Descent Conclusion&lt;/h2&gt;
 
@@ -1151,7 +1581,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/birds/2022/10/04/birdslist/"/>
    <updated>2022-10-04T00:00:00-07:00</updated>
    <id>https://anish.lakkapragada.com/birds/2022/10/04/birdslist</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Bird Species, Random&lt;/strong&gt;&lt;/p&gt;
 
@@ -1256,7 +1703,24 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
    <link href="https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries-copy/"/>
    <updated>2022-09-26T00:49:49-07:00</updated>
    <id>https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries copy</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Taylor Series, Calculus, Gradient Descent, Polynomial Regression, Theoretical ML&lt;/strong&gt;&lt;/p&gt;
 
@@ -1331,33 +1795,33 @@ Taylor Series are an extremely nice approximation method from calculus and are a
 
 &lt;p&gt;Will this taylor series be learned, from an algorithm derived from taylor series 🤯 ?&lt;/p&gt;
 
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sklearn.linear_model&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sklearn.linear_model&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
 
 &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;
-we&apos;ll generate from a normal distribution as the
+we'll generate from a normal distribution as the
 second-degree polynomial approximates best in this range.
 &quot;&quot;&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# labels
+&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;randn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# 1000 standard normal samples
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# labels
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;We can now construct the \(X^{2}\) data. We’ll merge into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X_poly&lt;/code&gt; which will contain two columns - the first one for \(X\) and the second one for \(X^{2}\).&lt;/p&gt;
 
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;concatenate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;power&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;concatenate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reshape&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Let’s apply Linear Regression.&lt;/p&gt;
 
-&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LinearRegression&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# lin reg algorithm
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X_poly&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Let’s inspect the coefficients \(\beta_{1}, \beta_{2}\).&lt;/p&gt;
 
 &lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lin_reg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coef_&lt;/span&gt;
-&lt;span class=&quot;nf&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.24106858&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;mf&quot;&gt;2.25427569&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;1.24106858&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;mf&quot;&gt;2.25427569&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And the bias \(\beta_{0}\).&lt;/p&gt;
@@ -1387,7 +1851,24 @@ second-degree polynomial approximates best in this range.
    <link href="https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple/"/>
    <updated>2022-09-25T00:49:49-07:00</updated>
    <id>https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Pareto’s Principle, 80/20 rule, Distribution of Outcomes, Applications&lt;/strong&gt;&lt;/p&gt;
 
@@ -1457,7 +1938,24 @@ second-degree polynomial approximates best in this range.
    <link href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"/>
    <updated>2022-09-20T16:27:08-07:00</updated>
    <id>https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg</id>
-   <content type="html">&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: [&quot;input/TeX&quot;,&quot;input/MathML&quot;,&quot;input/AsciiMath&quot;,&quot;output/CommonHTML&quot;],
+      extensions: [&quot;tex2jax.js&quot;,&quot;mml2jax.js&quot;,&quot;asciimath2jax.js&quot;,&quot;MathMenu.js&quot;,&quot;MathZoom.js&quot;,&quot;AssistiveMML.js&quot;, &quot;[Contrib]/a11y/accessibility-menu.js&quot;],
+      TeX: {
+      extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;,&quot;noErrors.js&quot;,&quot;noUndefined.js&quot;],
+      equationNumbers: {
+      autoNumber: &quot;AMS&quot;
+      }
+    }
+  });
+&lt;/script&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords: Logistic Regression, Regression, Normal Equation, Logistic Function, Optimization&lt;/strong&gt;&lt;/p&gt;
 
@@ -1472,7 +1970,7 @@ second-degree polynomial approximates best in this range.
 &lt;p&gt;Another method that I think would be more serious, if only slightly, would be to modify the data itself with an inverse function. Exponential Regression does exactly this by applying a log to all the labels (y-values) to turn the exponential curves more linear. The model then learns a linear model to predict the \(\ln(y*{i})\) which is then exponentiated to give the actual function. Essentially, this just uses an inverse of the \(\sigma\) function before the linear outputs. So, let’s just calculate the inverse of the logistic/sigmoid function
 (\(\dfrac{1}{1 + e^{-x_{i}}}\))! This comes out to be \(-\ln(\dfrac{1}{x_{i}} - 1)\). Definitely not the worst thing in the world!&lt;/p&gt;
 
-&lt;p&gt;Let’s specify this inverse as \(\sigma&apos;\) and take a step back. We need to apply the function \(\sigma&apos;\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!&lt;/p&gt;
+&lt;p&gt;Let’s specify this inverse as \(\sigma'\) and take a step back. We need to apply the function \(\sigma'\) to every label to convert it to a line, train a linear model (closed-form), and then take linear productions and run them through \(\sigma\) (actual logistic function.) We probably should take a look at the domain of this inverse function, and see if our labels are valid in this range. Unfortunately the inverse of the logistic function is not defined for all real numbers and has semi-sharp asymptotes at \(x=0\) and \(x=1\). Even more unfortunate, our labels are binary integers of 0 or 1!&lt;/p&gt;
 
 &lt;p&gt;So far, we have tried a closed-form solution and then layering modifications of inputs and predictions on top of a standard linear closed-form solve. If anything, these examples demonstrate why the logistic regression has no closed-form solution. I believe it is always better to fail yourself than to take somebody else’s word that the &lt;a href=&quot;https://youtu.be/32ZemGEYraY?t=76&quot;&gt;transcedental equation&lt;/a&gt; is why there is no logistic regression closed-form solution. The intuitive explanation I could come up with is that closed-form solutions don’t work as well when not trying to draw a line not to predict values (regression) but instead trying to separate areas (classification).&lt;/p&gt;
 

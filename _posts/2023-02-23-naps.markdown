@@ -5,7 +5,24 @@ date: 2023-02-23 0:00:00
 categories: [random]
 ---
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
 
 Having ~1.5 years of experience with napping, I think I have am pro enough to have some insights. In fact, I just took a 10min nap at 12:00 (pm!) so that I could get myself to study electric potential & voltage. Naps are typically taken wrong but are also pretty dangerous if you don't take them right. Here's to everything I know about naps on 2/23/2023 at 2:14am.
 

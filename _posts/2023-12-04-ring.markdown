@@ -5,8 +5,6 @@ date: 2023-12-03 0:00:00 -0700
 categories: [thinking]
 ---
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 > Sorry for not maintaining this website as well as I should have.
 
 ## Introduction
@@ -27,7 +25,7 @@ Let's try a day first. In a day I do the following steps: (1) Waking up, (2) Get
 
 The problem with this approach is that it's nearly impossible to predict when something memorable will occur (or when I will perform a memorable action) leading to a memorable experience that doesn't just blend in with the rest of my memories. Due to this uncertainty, I can only really estimate based on the number of days I remember from last school year: barely 10 out of ~180 come to mind. Does this mean that ~94% of the days are just a waste (besides enabling the ~6% to standout?)
 
-This is probably the part where I'm supposed to say something cliché like try new things daily to increase this percentage, but I'm going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it's worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences \* how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!
+This is probably the part where I'm supposed to say something cliché like try new things daily to increase this percentage, but I'm going to try to refrain from doing so. But I dare say the 94% is not a waste. Inside each day of the 94% are jokes and memories that lasted for much shorter durations (e.g. weeks, days, hours) but now months later are hard to recall. For what it's worth, our current mood may just be an exponential moving average of the joy/negativity of our experiences and how much we remember them (highly correlated with recency.) Oooohh, I feel an integral coming!
 
 $$ H(T) = \int_{t=0}^{T} P(e_{t}) * H(e_{t}) dt $$
 
