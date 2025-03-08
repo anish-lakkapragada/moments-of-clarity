@@ -1,0 +1,4 @@
+/bin/bash: /Users/anish/Documents/git-repos/anish-lakkapragada.github.io/cronjob-script.sh: Operation not permitted
+/bin/bash: /Users/anish/Documents/git-repos/anish-lakkapragada.github.io/cronjob-script.sh: Operation not permitted
+/bin/bash: /Users/anish/Documents/git-repos/anish-lakkapragada.github.io/cronjob-script.sh: Operation not permitted
+/bin/bash: /Users/anish/Documents/git-repos/anish-lakkapragada.github.io/cronjob-script.sh: Operation not permitted
