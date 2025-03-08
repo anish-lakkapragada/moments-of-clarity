@@ -55,4 +55,4 @@ done
 # Remove the temporary directory
 rmdir "$temp_dir"
 
-echo "Files have been renamed according to natural sort order (similar to Finder)."
+# echo "Files have been renamed according to natural sort order (similar to Finder)."
