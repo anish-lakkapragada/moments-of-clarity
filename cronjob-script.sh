@@ -35,3 +35,6 @@ sh build.sh
 git add . 
 git commit -m "nightly build" 
 git push
+
+rm -rf notes/math-*
+rm -rf notes/stats-*
