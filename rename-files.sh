@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# this script will (1) rename the files and (2) attach the readme.pdf to every single PDF.
-
 # Check if pdftk is installed
 if ! command -v pdftk &> /dev/null; then
     #echo "Error: pdftk is not installed. Please install it first."
@@ -19,9 +17,9 @@ if [ $# -ne 2 ]; then
     exit 1
 fi
 
-# Assign arguments to variables
-pdf_directory="$1"
-template_pdf="$2"
+# Assign arguments to variables and convert to absolute paths
+pdf_directory=$(realpath "$1")
+template_pdf=$(realpath "$2")
 
 # Check if directory exists
 if [ ! -d "$pdf_directory" ]; then
@@ -35,7 +33,13 @@ if [ ! -f "$template_pdf" ]; then
     exit 1
 fi
 
+#echo "Directory: $pdf_directory"
+#echo "Template PDF: $template_pdf"
+
 #echo "Step 1: Renaming PDF files in natural sort order..."
+
+# Save current directory to return to it later
+original_dir=$(pwd)
 
 # Change to the specified directory for the renaming operation
 cd "$pdf_directory"
@@ -61,10 +65,13 @@ fi
 # Counter for new filenames
 count=1
 
+# Get basename of template PDF for comparison
+template_basename=$(basename "$template_pdf")
+
 # Process files in natural sort order
 for filename in "${sorted_files[@]}"; do
     # Skip the template PDF if it's in the same directory
-    if [ "$(realpath "$filename")" = "$(realpath "$(basename "$template_pdf")")" ]; then
+    if [ "$filename" = "$template_basename" ]; then
         #echo "Skipping template PDF from renaming: $filename"
         continue
     fi
@@ -78,7 +85,7 @@ done
 
 # Remove all original PDF files except the template
 for filename in "${sorted_files[@]}"; do
-    if [ "$(realpath "$filename")" != "$(realpath "$(basename "$template_pdf")")" ]; then
+    if [ "$filename" != "$template_basename" ]; then
         rm "$filename"
     fi
 done
@@ -93,9 +100,6 @@ done
 # Remove the temporary directory
 rmdir "$rename_temp_dir"
 #echo "Files have been renamed according to natural sort order."
-
-# Return to the original directory
-cd - > /dev/null
 
 #echo "Step 2: Concatenating first page of template PDF with each PDF..."
 
@@ -112,8 +116,11 @@ pdftk "$template_pdf" cat 1 output "$concat_temp_dir/first_page.pdf"
 concat_count=0
 
 for pdf_file in "$pdf_directory"/*.pdf; do
-    # Skip the template PDF if it's in the same directory
-    if [ "$(realpath "$pdf_file")" = "$(realpath "$template_pdf")" ]; then
+    # Get absolute path of the current PDF
+    absolute_pdf_path=$(realpath "$pdf_file")
+    
+    # Skip the template PDF
+    if [ "$absolute_pdf_path" = "$template_pdf" ]; then
         #echo "Skipping template PDF from concatenation: $(basename "$pdf_file")"
         continue
     fi
@@ -136,6 +143,9 @@ done
 # Clean up temporary directory
 rm -rf "$concat_temp_dir"
 #echo "Cleaned up temporary directories"
+
+# Return to the original directory
+cd "$original_dir"
 
 # Summary
 #echo "Summary:"
