@@ -55,4 +55,6 @@ done
 # Remove the temporary directory
 rmdir "$temp_dir"
 
+./add_readme_to_files.sh notes/math-226/psets/ notes/readme.pdf
+
 # echo "Files have been renamed according to natural sort order (similar to Finder)."
