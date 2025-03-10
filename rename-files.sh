@@ -2,7 +2,7 @@
 
 # Check if pdftk is installed
 if ! command -v pdftk &> /dev/null; then
-    #echo "Error: pdftk is not installed. Please install it first."
+    echo "Error: pdftk is not installed. Please install it first."
     #echo "On Debian/Ubuntu: sudo apt-get install pdftk"
     #echo "On Fedora: sudo dnf install pdftk"
     #echo "On macOS with Homebrew: brew install pdftk-java"
