@@ -1,11 +1,10 @@
 #!/bin/bash
 
-# Check if pdftk is installed
-if ! command -v pdftk &> /dev/null; then
-    echo "Error: pdftk is not installed. Please install it first."
-    #echo "On Debian/Ubuntu: sudo apt-get install pdftk"
-    #echo "On Fedora: sudo dnf install pdftk"
-    #echo "On macOS with Homebrew: brew install pdftk-java"
+# Check if /opt/homebrew/bin/pdftk is installed
+if ! command -v /opt/homebrew/bin/pdftk &> /dev/null; then
+    #echo "On Debian/Ubuntu: sudo apt-get install /opt/homebrew/bin/pdftk"
+    #echo "On Fedora: sudo dnf install /opt/homebrew/bin/pdftk"
+    #echo "On macOS with Homebrew: brew install /opt/homebrew/bin/pdftk-java"
     exit 1
 fi
 
@@ -109,7 +108,7 @@ concat_temp_dir=$(mktemp -d)
 
 # Extract first page from template PDF
 #echo "Extracting first page from template PDF..."
-pdftk "$template_pdf" cat 1 output "$concat_temp_dir/first_page.pdf"
+/opt/homebrew/bin/pdftk "$template_pdf" cat 1 output "$concat_temp_dir/first_page.pdf"
 
 # Process each PDF in the directory
 #echo "Processing PDFs in directory: $pdf_directory"
@@ -131,7 +130,7 @@ for pdf_file in "$pdf_directory"/*.pdf; do
     
     # Concatenate first page with current PDF and save to a temporary file
     temp_output="$concat_temp_dir/temp_output.pdf"
-    pdftk A="$concat_temp_dir/first_page.pdf" B="$pdf_file" cat A1 B output "$temp_output"
+    /opt/homebrew/bin/pdftk A="$concat_temp_dir/first_page.pdf" B="$pdf_file" cat A1 B output "$temp_output"
     
     # Replace the original file with the concatenated version
     mv "$temp_output" "$pdf_file"
