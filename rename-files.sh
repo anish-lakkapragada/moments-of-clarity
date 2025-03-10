@@ -147,6 +147,8 @@ rm -rf "$concat_temp_dir"
 # Return to the original directory
 cd "$original_dir"
 
+echo "completed renaming files" 
+
 # Summary
 #echo "Summary:"
 #echo "1. Renamed PDF files in natural sort order."
