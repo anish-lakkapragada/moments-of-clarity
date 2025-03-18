@@ -1,4 +1,4 @@
-## *Moments of Clarity* has moved 
+## *Moments of Clarity* has moved `anish.lakkapragada.github.io` ➔ `old-anish.lakkapragada.com`
 
 *Moments of Clarity* (MoC) was a semi-meme website I started in the fall of my junior year of high school (first commit: September 19th, 2022). It was available on `anish.lakkapragada.com`. MoC was made for fun and hosted 32 posts, various academic & non-academic PDFs, birding photos and media, and a lot of great high school memories.
 
