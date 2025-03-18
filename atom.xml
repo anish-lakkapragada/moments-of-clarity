@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Moments of Clarity</title>
- <link href="https://old-anish.lakkapragada.com/atom.xml" rel="self"/>
- <link href="https://old-anish.lakkapragada.com/"/>
- <updated>2025-03-17T20:21:09-07:00</updated>
- <id>https://old-anish.lakkapragada.com</id>
+ <link href="https://anish.lakkapragada.com/atom.xml" rel="self"/>
+ <link href="https://anish.lakkapragada.com/"/>
+ <updated>2024-06-14T15:35:55-07:00</updated>
+ <id>https://anish.lakkapragada.com</id>
  <author>
    <name>Anish Lakkapragada</name>
    <email>anish.lakkapragada@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>First Post of 2024!</title>
-   <link href="https://old-anish.lakkapragada.com/random/2024/02/26/firstpost/"/>
+   <link href="https://anish.lakkapragada.com/random/2024/02/26/firstpost/"/>
    <updated>2024-02-26T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/random/2024/02/26/firstpost</id>
+   <id>https://anish.lakkapragada.com/random/2024/02/26/firstpost</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -55,9 +55,9 @@
  
  <entry>
    <title>% Repeatable</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/12/02/ring/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/12/02/ring/"/>
    <updated>2023-12-02T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/12/02/ring</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/12/02/ring</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Sorry for not maintaining this website as well as I should have.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -94,9 +94,9 @@
  
  <entry>
    <title>Mailing List?</title>
-   <link href="https://old-anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist/"/>
+   <link href="https://anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist/"/>
    <updated>2023-11-10T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist</id>
+   <id>https://anish.lakkapragada.com/songs/thinking/2023/11/10/mailinglist</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -128,9 +128,9 @@
  
  <entry>
    <title>Worth A Listen?</title>
-   <link href="https://old-anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten/"/>
+   <link href="https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten/"/>
    <updated>2023-11-08T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten</id>
+   <id>https://anish.lakkapragada.com/songs/thinking/2023/11/08/worthalisten</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -237,9 +237,9 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
  
  <entry>
    <title>A Review: For All The Dogs</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/10/06/fatd/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/10/06/fatd/"/>
    <updated>2023-10-06T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/10/06/fatd</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/10/06/fatd</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -293,9 +293,9 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
  
  <entry>
    <title>Lifetimes in 3 Minutes: Music</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/10/06/songs/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/10/06/songs/"/>
    <updated>2023-10-06T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/10/06/songs</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/10/06/songs</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -329,9 +329,9 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
  
  <entry>
    <title>Our World, In Distributions</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/09/08/bruh/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/09/08/bruh/"/>
    <updated>2023-09-08T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/09/08/bruh</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/09/08/bruh</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -377,9 +377,9 @@ And how much do those seconds take up of the entire song?&lt;/p&gt;
  
  <entry>
    <title>Trophies by Drake</title>
-   <link href="https://old-anish.lakkapragada.com/songs/2023/08/18/trophies/"/>
+   <link href="https://anish.lakkapragada.com/songs/2023/08/18/trophies/"/>
    <updated>2023-08-18T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/songs/2023/08/18/trophies</id>
+   <id>https://anish.lakkapragada.com/songs/2023/08/18/trophies</id>
    <content type="html">&lt;p&gt;Besides &lt;em&gt;Club Paradise&lt;/em&gt;, another one of Drake’s best (old) songs I want to revisit is &lt;em&gt;Trophies&lt;/em&gt;. In accordance to the rules of analyzing these songs, I’ve not visited any pages on the lyrical meaning and will do so at the end after I give it my shot.&lt;/p&gt;
 
 &lt;h2 id=&quot;interpretation&quot;&gt;Interpretation&lt;/h2&gt;
@@ -423,9 +423,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Series of Philosophies</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/08/15/perception/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/08/15/perception/"/>
    <updated>2023-08-15T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/08/15/perception</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/08/15/perception</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -461,9 +461,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Club Paradise by Drake</title>
-   <link href="https://old-anish.lakkapragada.com/songs/2023/07/23/club-paradise/"/>
+   <link href="https://anish.lakkapragada.com/songs/2023/07/23/club-paradise/"/>
    <updated>2023-07-23T16:27:08-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/songs/2023/07/23/club-paradise</id>
+   <id>https://anish.lakkapragada.com/songs/2023/07/23/club-paradise</id>
    <content type="html">&lt;p&gt;One of my favorite time wasters is reading song lyrics to understand what they mean. After all, we do the same for literature - analyzing things up to the colon - so maybe doing the same for well-thought music is not a bad idea.&lt;/p&gt;
 
 &lt;p&gt;The first song I’d like to try this with is Drake’s reflective song &lt;em&gt;Club Paradise&lt;/em&gt; as part of the Care Package album. Keep in mind that at the end of this article I’ll confirm with more reliable sources (cough cough &lt;em&gt;Genius&lt;/em&gt; cough cough) about whether I got the meaning correct - so don’t hyperventilate if I completely mis close read.&lt;/p&gt;
@@ -504,9 +504,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>A Hard Question (Partially) Answered, Badly</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/07/21/hardquestions/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions/"/>
    <updated>2023-07-21T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/07/21/hardquestions</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/07/21/hardquestions</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -594,9 +594,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>On The Value of Tests</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/05/09/tests/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/09/tests/"/>
    <updated>2023-05-09T17:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/05/09/tests</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/09/tests</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -634,9 +634,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>A Growing List of Lucky Things</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong/"/>
    <updated>2023-05-04T17:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/05/04/what-could-go-wrong</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -679,9 +679,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>How did We Get Here?</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/04/28/reminded/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/04/28/reminded/"/>
    <updated>2023-04-28T17:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/04/28/reminded</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/04/28/reminded</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -725,9 +725,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Why I Enjoy School</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school/"/>
    <updated>2023-03-24T17:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/03/24/why-I-enjoy-school</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -781,9 +781,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Bird Notes after a Year</title>
-   <link href="https://old-anish.lakkapragada.com/birds/2023/03/14/birds-notes/"/>
+   <link href="https://anish.lakkapragada.com/birds/2023/03/14/birds-notes/"/>
    <updated>2023-03-14T17:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/birds/2023/03/14/birds-notes</id>
+   <id>https://anish.lakkapragada.com/birds/2023/03/14/birds-notes</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -835,9 +835,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Naps</title>
-   <link href="https://old-anish.lakkapragada.com/random/2023/02/22/naps/"/>
+   <link href="https://anish.lakkapragada.com/random/2023/02/22/naps/"/>
    <updated>2023-02-22T16:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/random/2023/02/22/naps</id>
+   <id>https://anish.lakkapragada.com/random/2023/02/22/naps</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -881,9 +881,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Series of Observations</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/02/01/update/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/02/01/update/"/>
    <updated>2023-02-01T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/02/01/update</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/02/01/update</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -947,9 +947,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Hedonistic Treadmill: What It Means to Be Happy With What You Have</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy/"/>
    <updated>2023-01-11T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy</id>
+   <id>https://anish.lakkapragada.com/thinking/2023/01/11/hedonistic-happy</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -983,9 +983,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Double Backpropagation: A Forgotten Algorithm</title>
-   <link href="https://old-anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop/"/>
    <updated>2023-01-01T00:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/theoretical/2023/01/01/double-backprop</id>
+   <id>https://anish.lakkapragada.com/theoretical/2023/01/01/double-backprop</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1049,9 +1049,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>PSA Reminder: History Actually Happened</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2022/12/22/history/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/12/22/history/"/>
    <updated>2022-12-22T00:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2022/12/22/history</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/12/22/history</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1115,9 +1115,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>My Experience Growing a Beard, And Then Shaving It</title>
-   <link href="https://old-anish.lakkapragada.com/random/2022/12/10/beards/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/12/10/beards/"/>
    <updated>2022-12-10T16:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/random/2022/12/10/beards</id>
+   <id>https://anish.lakkapragada.com/random/2022/12/10/beards</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1261,9 +1261,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Comparison of Where The Crawdads Sing and To Kill a Mockingbird</title>
-   <link href="https://old-anish.lakkapragada.com/random/2022/11/24/crawdads-tkam/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam/"/>
    <updated>2022-11-24T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/random/2022/11/24/crawdads-tkam</id>
+   <id>https://anish.lakkapragada.com/random/2022/11/24/crawdads-tkam</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1323,9 +1323,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Food for Thought: Word Predictability</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2022/11/09/word-association/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/11/09/word-association/"/>
    <updated>2022-11-09T23:00:00-08:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2022/11/09/word-association</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/11/09/word-association</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1379,9 +1379,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Why Does Latex look so good?</title>
-   <link href="https://old-anish.lakkapragada.com/theoretical/2022/11/04/latex/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/11/04/latex/"/>
    <updated>2022-11-04T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/theoretical/2022/11/04/latex</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/11/04/latex</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1429,9 +1429,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Falling Forward, Not Back: Drake</title>
-   <link href="https://old-anish.lakkapragada.com/random/2022/10/24/act/"/>
+   <link href="https://anish.lakkapragada.com/random/2022/10/24/act/"/>
    <updated>2022-10-24T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/random/2022/10/24/act</id>
+   <id>https://anish.lakkapragada.com/random/2022/10/24/act</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1516,9 +1516,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Gradient Descent Revisited As Euler's Method</title>
-   <link href="https://old-anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler/"/>
    <updated>2022-10-11T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/10/11/gradient-descent-euler</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1578,9 +1578,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Photograph Birds List</title>
-   <link href="https://old-anish.lakkapragada.com/birds/2022/10/04/birdslist/"/>
+   <link href="https://anish.lakkapragada.com/birds/2022/10/04/birdslist/"/>
    <updated>2022-10-04T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/birds/2022/10/04/birdslist</id>
+   <id>https://anish.lakkapragada.com/birds/2022/10/04/birdslist</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1700,9 +1700,9 @@ I just do it ‘cause I’m ‘sposed to&lt;/p&gt;
  
  <entry>
    <title>Hidden Taylor Series in Theoretical Machine Learning</title>
-   <link href="https://old-anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries-copy/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries-copy/"/>
    <updated>2022-09-26T00:49:49-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries copy</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/26/mltaylorseries copy</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1848,9 +1848,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>An explanation of Pareto's Principle</title>
-   <link href="https://old-anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple/"/>
+   <link href="https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple/"/>
    <updated>2022-09-25T00:49:49-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple</id>
+   <id>https://anish.lakkapragada.com/thinking/2022/09/25/paretoprinciple</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -1884,9 +1884,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Yet Another Comparison of Svelte & React</title>
-   <link href="https://old-anish.lakkapragada.com/coding/2022/09/21/sveltevreact/"/>
+   <link href="https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact/"/>
    <updated>2022-09-21T00:00:00-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/coding/2022/09/21/sveltevreact</id>
+   <id>https://anish.lakkapragada.com/coding/2022/09/21/sveltevreact</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Keywords: Reactive Frameworks, Svelte, React, JavaScript&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;About a year ago, I was introduced to the ever-evolving frontend world where JavaScript frameworks keep on &lt;a href=&quot;https://dayssincelastjavascriptframework.com/&quot;&gt;getting released every single day&lt;/a&gt; and would like to share my comparison on two frameworks I’ve worked with the most. In no way am I an expert on either of these frameworks, but I think it’s a healthy exercise for me to understand them better by drawing a comparison between them.&lt;/p&gt;
@@ -1935,9 +1935,9 @@ second-degree polynomial approximates best in this range.
  
  <entry>
    <title>Attempts at Closed-Form Logistic Regression</title>
-   <link href="https://old-anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"/>
+   <link href="https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg/"/>
    <updated>2022-09-20T16:27:08-07:00</updated>
-   <id>https://old-anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg</id>
+   <id>https://anish.lakkapragada.com/theoretical/2022/09/20/closed-form-logreg</id>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&quot;&gt;
 &lt;/script&gt;
 
